@@ -1,0 +1,82 @@
+baseurl = "/"
+title = "Quaker Krefeld"
+languageCode = "de"
+DefaultContentLanguage = "de"
+paginate = "10" # Number of posts per page
+theme = "hugo-dpsg"
+
+[Params.Author] # Used in authorbox
+  name = "Quaker Krefeld"
+  bio = "Quaker-Andachsgruppe in Krefeld"
+  avatar = "img/icon.png"
+
+[Params]
+#   description = "Welcome to our scout group!" # Site description. Used in meta description
+  # copyright = "DGSP local group" # Footer copyright holder, otherwise will use site title
+#   opengraph = true # Enable OpenGraph if true
+#   schema = true # Enable Schema
+#   twitter_cards = true # Enable Twitter Cards if true
+#   readmore = false # Show "Read more" button in list if true
+#   authorbox = true # Show authorbox at bottom of pages if true
+#   toc = true # Enable Table of Contents
+#   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+#   indexPager = false # Show pager navigation on index page
+#   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+#   photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
+#   photoTag = "photos" # Specify one tag to show on home page and the "Recent photos" widget. Similar as photoSections, but with 1 tag instead of 1 or multiple sections
+#   dateformat = "02.01.2006" # Change the format of dates
+#   customCSS = ["css/custom.css"] # Include custom CSS files, can also be used per-page as front matter attribute
+#   customJS = ["js/custom.js"] # Include custom JS files
+#   customPartial = "piwik.html" # Include custom partials at the end of the page, e.g. tracking codes
+#   belowTitlePartial = "alert.html" # Include custom partial below the pages title
+
+[Params.style.vars]
+  highlightColor = "#7c7c7c"
+
+[Params.logo]
+  image = "img/icon.png" # Logo image. Path relative to "static"
+  image_alt = "Logo image" # alt text for logo image, be screen reader friendly!
+  header = "img/Edward_Hicks_-_Peaceable_Kingdom.jpg" # Header image. Path relative to "static"
+  title = "Quaker Krefeld" # Logo title, otherwise will use site title
+  subtitle = "Willkommen bei der Quaker-Andachsgruppe in Krefeld" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "taglist", "categories"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+# [Params.footer]
+  # text = "[Impressum und Datenschutz](/page/imprint)" # Extra text in footer row, understands markdown
+  # right = "Donate!" # Right-aligned text in footer row, optional, understands markdown
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "username"
+  instagram = "username"
+  linkedin = "username"
+  telegram = "username"
+  github = "username"
+  gitlab = "username"
+  bitbucket = "username"
+  email = "example@example.com"
+
+# # Custom social links
+# [[Params.widgets.social.custom]]
+#   title = "Youtube"
+#   url = "https://youtube.com/user/username"
+#   icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+
+[[Params.widgets.social.custom]]
+  title = "My Home Page"
+  url = "http://example.com"
+  # icon = "../content/img/mastodon.svg" # Optional. Path relative to "layouts/partials"
