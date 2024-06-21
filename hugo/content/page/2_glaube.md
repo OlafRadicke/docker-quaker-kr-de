@@ -12,7 +12,13 @@ sidebar: "right"
 ### Was sind Quäker?
 
 
-Die Quäker entstanden während der Wirren des englischen Bürgerkriegs im 17. Jahrhundert im Kontext der [Dissenter-Bewegung](https://de.wikipedia.org/wiki/Dissenter), aus der auch die Baptisten stammen. „Quäker” war anfänglich eine Spottbezeichnung, die aber schließlich von der Glaubensgemeinschaft als Selbstbezeichnung verwendet wurde. Der formale Name lautet „Religious Society of Friends” zu Deutsch „Religiöse Gesellschaft der Freunde”. Quäker formulierten kein verbindliches Glaubensbekenntnis. Ein „Zeugnis geben” bezieht sich in erster Linie auf die Lebensführung und weniger auf ein verbales Bekenntnis. Hier kristallisierten sich [die Vier (Quäker-)Zeugnisse](https://de.wikipedia.org/wiki/Qu%C3%A4kerzeugnis) heraus, die sich bis heute in allen Zweigen in irgend einer Form wiederfinden lässt.:
+Die Quäker entstanden während der Wirren des englischen Bürgerkriegs im 17. Jahrhundert im Kontext der [Dissenter-Bewegung](https://de.wikipedia.org/wiki/Dissenter). „Quäker” war anfänglich eine Spottbezeichnung, die aber schließlich von der Glaubensgemeinschaft als Selbstbezeichnung verwendet wurde. Der formale Name lautet „Religious Society of Friends” zu Deutsch „Religiöse Gesellschaft der Freunde”. Quäker formulierten kein mit der Mitgliedschaft verbundenes Glaubensbekenntnis. In den ersten acht Jahrzehnten gab es bei Quäkern auch keine formale Mitgliedschaft.
+
+Theologisch dogmatische Aussagen spielen eine untergeordnete Rolle. Betont wird stattdessen das ethische Handeln. Ein „[Zeugnis geben](https://de.wikipedia.org/wiki/Qu%C3%A4kerzeugnis)” bezieht sich deshalb in erster Linie auf die Lebensführung und weniger auf ein verbales Bekenntnis. Im laufe der dreihundert Jahre kam es trotzdem immer wieder wegen theologischen Differenzen zu Aufspaltungen. Heute hat das weltweite Quäkertum einer große Bandbreite von Theologischen Positionen und Gottesdienstformen. Diese reichen von Nonthistisch bis Christozentrisch. Von s.g. unprogrammierten  Zusammenkünften bis Mainstream-Gottesdienste, mit Predigt und Gesang.
+
+### Die Zeugnisse
+
+Bei den Zeugnissen (der Lebensführung) lässt sich aber eine gemeinsame Schnittmenge von vier Punkten bzw. Grundsätzen ausmachen:
 
 - ***Peace Testimony*** (Friedenszeugnis)
 - ***Testimony of Integrity*** (Zeugnis der Wahrhaftigkeit)
@@ -31,7 +37,7 @@ Das zweite Zeugnis begründet das Verbot von Glücksspiel und die Eidesverweiger
 >
 > Mt 5,34-37
 
-Aus dem Zeugnis der Gleichheit, leitet sich das allgemeine Priestertum ab, das von Anfang an Frauen mit einschloss.
+Aus dem Zeugnis der Gleichheit, leitet sich u.a. das allgemeine Priestertum ab, das von Anfang an Frauen mit einschloss.
 
 > *"Und Gott schuf den Menschen als sein Bild, als Bild Gottes schuf er ihn; als Mann und Frau schuf er sie."*
 >
@@ -43,4 +49,12 @@ Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit
 >
 > Mt 6,28
 
+
+### Die Bibel
+
 Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber nicht allein Maßstab des Handelns der Einzelnen oder der Gemeinde. Je nach theologischer Ausrichtung der Versammlung (Gemeinde), hat die unmittelbare Offenbarung - Quäker sprechen vom „inneren Licht” - sogar höhere Autorität. Im Quäkertum gibt es weder zentralistische Organisation, noch hat es autoritäre Strukturen. Dies führt zu grossen Unterschieden in den weltweit verbreiteten Gemeinschaften.
+
+
+### Wo steht the Krefelder Andacht theologisch?
+
+Die meisten Besucher sind s.g. "Freunde der freunde", als Besucher die Sympathie für das Quäkertum haben, aber sich selber nicht als Quäker bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt aber das Format des Gottesdienstes und den Ökomenschen Austausch. Der Bezug der Besucher zu Bibel ist sehr unterschiedlich. Poltisch ist das gesamte demokratische Spektrum vertreten. Wenn auch das linke und progressive Spektrum stärker ist. Vielen ist gemeinsam, das sie einen gesellschaftliches und politisches Engagement aus ihren Glauben und ihren Überzeugungen für sich ableiten. Es wird niemand nach seinen sexuellen Präferenzen gefragt. Homophobie, Rassismus und Sexissums wird aber entschlossen entgegengetreten.

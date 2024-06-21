@@ -17,8 +17,7 @@ USE HUGO
 To run local webserver enter:
 
 ```bash
-cd ./hugo/
-hugo server -D
+hugo server --ignoreCache -D --source ./hugo/
 ```
 And check
 

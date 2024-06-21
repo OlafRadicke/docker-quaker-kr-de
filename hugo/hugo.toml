@@ -8,7 +8,7 @@ theme = "hugo-dpsg"
 [Params.Author] # Used in authorbox
   name = "Quaker Krefeld"
   bio = "Quaker-Andachsgruppe in Krefeld"
-  avatar = "img/icon.png"
+  avatar = "../img/icon.png"
 
 [Params]
 #   description = "Welcome to our scout group!" # Site description. Used in meta description
@@ -32,19 +32,20 @@ theme = "hugo-dpsg"
 #   belowTitlePartial = "alert.html" # Include custom partial below the pages title
 
 [Params.style.vars]
-  highlightColor = "#7c7c7c"
+  # highlightColor = "#7c7c7c"
+  highlightColor = "#672d2d"
 
 [Params.logo]
-  image = "icon.png" # Logo image. Path relative to "static"
+  image = "../img/icon.png" # Logo image. Path relative to "static"
   image_alt = "Logo image" # alt text for logo image, be screen reader friendly!
   header = "img/Edward_Hicks_-_Peaceable_Kingdom.jpg" # Header image. Path relative to "static"
   # title = "Quaker Krefeld" # Logo title, otherwise will use site title
   # subtitle = "Willkommen bei der Quaker-Andachsgruppe in Krefeld" # Logo subtitle
 
 [Params.sidebar]
-  home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  home = "right" #"left" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = true # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["recent", "taglist", "categories", "social"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
