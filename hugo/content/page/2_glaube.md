@@ -25,29 +25,21 @@ Bei den Zeugnissen (der Lebensführung) lässt sich aber eine gemeinsame Schnitt
 - ***Testimony of Equality*** (Zeugnis der Gleichheit)
 - ***Testimony of Simplicity*** (Zeugnis der Einfachheit)
 
-Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession))
+Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession)). Auch wenn Quäker den Dienst an einer Waffe ablehnen, so bedeutet das nicht, das sie sich aus der Politik herraushalten. Ein Beispiel ist das *[Quaker Council for European Affairs](https://www.qcea.org/)* das sich aktiv an politischen Diskursen beteiligt.
 
 > *"Jesus antwortete: Mein Reich ist nicht von dieser Welt; wenn mein Reich von dieser Welt wäre, so hätten meine Diener gekämpft, damit ich den Juden nicht überliefert würde, jetzt aber ist mein Reich nicht von hier."*
 >
 > Joh 18:36
 
-Das zweite Zeugnis begründet das Verbot von Glücksspiel und die Eidesverweigerung
+Das zweite Zeugnis begründet das Verbot von Glücksspiel und die Eidesverweigerung.
 
 > *"Ich aber sage euch: Schwört überhaupt nicht, [...] Eure Rede sei: Ja ja, nein nein; was darüber hinausgeht, stammt vom Bösen."*
 >
 > Mt 5,34-37
 
-Aus dem Zeugnis der Gleichheit, leitet sich u.a. das allgemeine Priestertum ab, das von Anfang an Frauen mit einschloss.
+Aus dem Zeugnis der Gleichheit, leitet sich u.a. das allgemeine Priestertum ab, das von Anfang an Frauen mit einschloss. Unter den Frühen Freunden gab es von Anfang an, ein anfangs noch kleine Gruppe, die sich vehement für die Abschaffung der Sklaverei einsetzte.
 
-> *"Und Gott schuf den Menschen als sein Bild, als Bild Gottes schuf er ihn; als Mann und Frau schuf er sie."*
->
-> 1.Mose 1,27
-
-Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit
-
-> *"Und warum seid ihr um Kleidung besorgt? Betrachtet die Lilien des Feldes, wie sie wachsen; sie mühen sich nicht, auch spinnen sie nicht. Ich sage euch aber, dass selbst nicht Salomo in all seiner Herrlichkeit bekleidet war wie eine von diesen."*
->
-> Mt 6,28
+Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit. Verschwendung bezieht Heute auch ausdrücklich den übermäßigen verbrauch natürlicher Resource oder deren Verschmutzung ein.
 
 
 ### Die Bibel
@@ -57,4 +49,46 @@ Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber 
 
 ### Wo steht the Krefelder Andacht theologisch?
 
-Die meisten Besucher sind s.g. "Freunde der freunde", als Besucher die Sympathie für das Quäkertum haben, aber sich selber nicht als Quäker bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt aber das Format des Gottesdienstes und den Ökomenschen Austausch. Der Bezug der Besucher zu Bibel ist sehr unterschiedlich. Poltisch ist das gesamte demokratische Spektrum vertreten. Wenn auch das linke und progressive Spektrum stärker ist. Vielen ist gemeinsam, das sie einen gesellschaftliches und politisches Engagement aus ihren Glauben und ihren Überzeugungen für sich ableiten. Es wird niemand nach seinen sexuellen Präferenzen gefragt. Homophobie, Rassismus und Sexissums wird aber entschlossen entgegengetreten.
+#### Version A
+
+Die meisten Besucher sind s.g. *Freunde der freunde*, also Besucher die Sympathie für das Quäkertum haben, aber sich selber nicht als Quäker bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt aber das Format der Quäker-Andacht Gottesdienstes und den Ökomenschen Austausch während der Tee-Runde.
+
+Der Bezug der Besucher zu Bibel ist sehr unterschiedlich. Poltisch ist das gesamte demokratische Spektrum vertreten. Wenn auch das linke und progressive Spektrum stärker ausgeprägt ist. Vielen ist gemeinsam, das sie einen gesellschaftliches und politisches Engagement aus ihren Glauben und ihren Überzeugungen für sich ableiten. Typisch ist die Abneigung von Gewalt und der Misstrauen gegen autoritären Strukturen. In diesen Standpunkt, führen sich viele Besucher in Jesus Christus bestärkt. Es wird niemand nach seinen sexuellen Präferenzen gefragt. Homophobie, Rassismus, Fremdenhass und Sexissums wird aber entschlossen entgegengetreten.
+
+#### Version B
+
+Die meisten Besucher sind sogenannte *Freunde der Freunde*, also Menschen, die Sympathie für das Quäkertum empfinden, sich aber nicht selbst als Quäker bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt den Ablauf der Quäker-Andacht sowie den ökumenischen Austausch während der Tee-Runde.
+
+Der Bezug der Besucher zur Bibel ist sehr unterschiedlich. Politisch ist das gesamte demokratische Spektrum vertreten, wobei das linke und progressive Spektrum stärker ausgeprägt ist. Viele leiten gesellschaftliches und politisches Engagement aus ihrem Glauben und ihren Überzeugungen ab. Typisch ist die Ablehnung von Gewalt und das Misstrauen gegenüber autoritären Strukturen. Viele Besucher fühlen sich in diesem Standpunkt durch Jesus Christus bestärkt. Es wird niemand nach seinen sexuellen Präferenzen gefragt, aber Homophobie, Rassismus, Fremdenhass und Sexismus werden entschlossen entgegengetreten.
+
+#### Version C
+
+Die meisten Besucher sind sogenannte *Freunde der Freunde*, also Menschen, die Sympathie für das Quäkertum empfinden, sich aber nicht selbst als Quäker\*innen bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt den Ablauf der Quäker-Andacht sowie den ökumenischen Austausch während der Tee-Runde.
+
+Der Bezug der Besucher\*innen zur Bibel ist sehr unterschiedlich. Politisch ist das gesamte demokratische Spektrum vertreten, wobei das linke und progressive Spektrum stärker ausgeprägt ist. Viele leiten gesellschaftliches und politisches Engagement aus ihrem Glauben und ihren Überzeugungen ab. Typisch ist die Ablehnung von Gewalt und das Misstrauen gegenüber autoritären Strukturen. Viele Besucher*innen fühlen sich in diesem Standpunkt durch Jesus Christus bestärkt. Es wird niemand nach seinen sexuellen Präferenzen gefragt, aber Homophobie, Rassismus, Fremdenhass und Sexismus werden entschlossen entgegengetreten.
+
+#### Varianke D
+
+
+##### Quäker-Andacht und Tee-Treff[^foot-02] in Krefeld
+
+##### Lust auf neue Erfahrungen und Begegnungen?
+
+Dann komm zu unserem Quäker-Andacht und Tee-Treff, der sich seit einiger Zeit im Aufbau befindet und noch ausprobiert. Du kannst also einfach unverbindlich vorbeischauen und sehen, ob du Lust hast, dabei zu sein. Hier lernst du Menschen aus den verschiedensten gesellschaftlichen Hintergründen kennen, die eine gemeinsame Sympathie für das Quäkertum verbindet. Die meisten Teilnehmenden sind „Freunde der Freunde“[^foot-01], also Menschen, die die Quäker schätzen, ohne sich selbst als Quäker:innen zu bezeichnen.
+
+Unser Kreis ist offen für alle Konfessionen und lebt von einem vielfältigen ökumenischen Austausch. Die Quäker-Andacht und die anschließende Teerunde bieten Raum für vertiefende ökumenische Gespräche und gemeinsames Nachdenken.
+
+##### Vielfalt und Engagement
+
+Die Beziehung zur Bibel ist bei unseren Besucher:innen sehr individuell. Politisch vertreten wir das gesamte demokratische Spektrum, wobei linke und progressive Positionen stärker vertreten sind. Viele von uns engagieren sich gesellschaftlich und politisch, inspiriert durch unseren Glauben und unsere Überzeugungen. Wir setzen uns für Reformen und sozialen Fortschritt ein, indem wir bestehende Normen in Frage stellen und uns für soziale Gerechtigkeit und Innovation einsetzen. Wir lehnen Gewalt ab und misstrauen autoritären Strukturen. In Jesus Christus finden wir Unterstützung für unsere Positionen.
+
+##### Offene Gemeinschaft
+
+Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. In unserer Gemeinschaft ist jede:r willkommen.
+
+Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!
+
+
+[^foot-01]: „Religiöse Gesellschaft der Freunde“ ist ein anderer Name für die Quäker, daher die Bezeichnung „Freunde der Freunde“.
+
+[^foot-02]: Quäker-Andacht: Wie der Ablauf ist und wie es funktioniert.

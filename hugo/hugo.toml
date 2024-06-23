@@ -5,10 +5,10 @@ DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 
-[Params.Author] # Used in authorbox
-  name = "Quaker Krefeld"
-  bio = "Quaker-Andachsgruppe in Krefeld"
-  avatar = "../img/icon.png"
+# [Params.Author] # Used in authorbox
+#   name = "Quaker Krefeld"
+#   bio = "Quaker-Andachsgruppe in Krefeld"
+#   avatar = "../img/icon.png"
 
 [Params]
 #   description = "Welcome to our scout group!" # Site description. Used in meta description
@@ -56,7 +56,7 @@ theme = "hugo-dpsg"
   # right = "Donate!" # Right-aligned text in footer row, optional, understands markdown
 
 [Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  recent_num = 6 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
 
