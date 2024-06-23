@@ -91,4 +91,4 @@ Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!
 
 [^foot-01]: „Religiöse Gesellschaft der Freunde“ ist ein anderer Name für die Quäker, daher die Bezeichnung „Freunde der Freunde“.
 
-[^foot-02]: Quäker-Andacht: Wie der Ablauf ist und wie es funktioniert.
+[^foot-02]: Quäker-Andacht: Wie der Ablauf ist und wie es funktioniert, siehe *[tea time](../tee/)* und *[Andacht](../andacht/)*
