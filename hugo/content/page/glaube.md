@@ -49,53 +49,16 @@ Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber 
 
 ### Wo steht the Krefelder Andacht theologisch?
 
-
-
-#### Version B
-
-Die meisten Besucher sind sogenannte *Freunde der Freunde*, also Menschen, die Sympathie für das Quäkertum empfinden, sich aber nicht selbst als Quäker bezeichnen. Der Großteil gehört einer anderen Konfession an und schätzt den Ablauf der Quäker-Andacht sowie den ökumenischen Austausch während der Tee-Runde.
-
-Der Bezug der Besucher zur Bibel ist sehr unterschiedlich. Politisch ist das gesamte demokratische Spektrum vertreten, wobei das linke und progressive Spektrum stärker ausgeprägt ist. Viele leiten gesellschaftliches und politisches Engagement aus ihrem Glauben und ihren Überzeugungen ab. Typisch ist die Ablehnung von Gewalt und das Misstrauen gegenüber autoritären Strukturen. Viele Besucher fühlen sich in diesem Standpunkt durch Jesus Christus bestärkt. Es wird niemand nach seinen sexuellen Präferenzen gefragt, aber Homophobie, Rassismus, Fremdenhass und Sexismus werden entschlossen entgegengetreten.
-
-
-#### Variante D
-
-
-##### Quäker-Andacht und Tee-Runde[^foot-02] in Krefeld
-
-##### Lust auf neue Erfahrungen und Begegnungen?
-
-Komm zu unserem Quäker-Andacht und Tee-Runde, die sich seit einiger Zeit im Aufbau befindet und noch ausprobiert. Du kannst einfach unverbindlich vorbeischauen und sehen, ob du Lust hast, dabei zu sein. Hier lernst du Menschen aus den verschiedensten gesellschaftlichen Hintergründen kennen, die eine gemeinsame Sympathie für das Quäkertum verbindet. Die meisten Teilnehmenden sind „Freunde der Freunde“[^foot-01], also Menschen, die die Quäker schätzen, ohne sich selbst als Quäker:innen zu bezeichnen.
-
-Unser Kreis ist offen für alle Konfessionen und lebt von einem vielfältigen ökumenischen Austausch. Die Quäker-Andacht und die anschließende Teerunde bieten Raum für vertiefende ökumenische Gespräche und gemeinsames Nachdenken.
+Komm zu unserer [Quäker-Andacht](../andacht/) und *[Teerunde](../tee/)*, die sich seit einiger Zeit im Aufbau befindet und sich noch ausprobiert. Du kannst einfach unverbindlich vorbei kommen und schauen, ob du Lust hast, dabei zu sein. Hier lernst du Menschen aus verschiedenen gesellschaftlichen Hintergründen kennen, die eine gemeinsame Sympathie für das Quäkertum verbindet. Die meisten Teilnehmenden sind “Freunde der Freunde”[^foot-01], also Menschen, die die Quäker-Werte schätzen, ohne sich selbst als Quäker zu bezeichnen. Unser Kreis ist offen für alle Konfessionen und lebt von einem vielfältigen ökumenischen Austausch. Die Teerunde vor der Quäker-Andacht bieten Raum für theologische Gespräche und gemeinsames Nachdenken über Fragen des gelebten Glaubens.
 
 ##### Vielfalt und Engagement
 
-Die Beziehung zur Bibel ist bei unseren Besucher:innen sehr individuell. Politisch vertreten wir das gesamte demokratische Spektrum, wobei linke und progressive Positionen stärker vertreten sind. Viele von uns engagieren sich gesellschaftlich und politisch, inspiriert durch unseren Glauben und unsere Überzeugungen. Wir setzen uns für Reformen und sozialen Fortschritt ein, indem wir bestehende Normen in Frage stellen und uns für soziale Gerechtigkeit und Innovation einsetzen. Wir lehnen Gewalt ab und misstrauen autoritären Strukturen. In Jesus Christus finden wir Unterstützung für unsere Positionen.
+Die Beziehung zur Bibel ist bei unseren Besuchern sehr individuell. Politisch vertreten wir das gesamte demokratische Spektrum, wobei linke und progressive Positionen tendenziell stärker vertreten sind. Viele von uns engagieren sich gesellschaftlich und politisch, inspiriert durch unseren Glauben und unsere Überzeugungen. Wir setzen uns für Reformen und sozialen Fortschritt ein, indem wir bestehende Normen kritisch beleuchten. Wir lehnen Gewalt ab und misstrauen autoritären Strukturen. In unserein ganz eigenen Auseinandersetzung mit Jesus Christus, suchen wir Trost, Inspiration, Führung und Unterstützung.
 
 ##### Offene Gemeinschaft
 
-Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. In unserer Gemeinschaft ist jede:r willkommen.
-
-Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!
-
-
-[^foot-01]: „Religiöse Gesellschaft der Freunde“ ist ein anderer Name für die Quäker, daher die Bezeichnung „Freunde der Freunde“.
-
-[^foot-02]: Quäker-Andacht: Wie der Ablauf ist und wie es funktioniert, siehe *[tea time](../tee/)* und *[Andacht](../andacht/)*
-
-#### Variante E
-
-Komm zu unserer Quäker-Andacht und Tee-Runde, die sich seit einiger Zeit im Aufbau befindet und noch sich noch ausprobiert. Du kannst einfach unverbindlich vorbeischauen und schauen, ob du Lust hast, dabei zu sein. Hier lernst du Menschen aus verschiedenen gesellschaftlichen Hintergründen kennen, die eine gemeinsame Sympathie für das Quäkertum verbindet. Die meisten Teilnehmenden sind “Freunde der Freunde”, also Menschen, die die Quäker schätzen, ohne sich selbst als Quäker zu bezeichnen.
-
-Unser Kreis ist offen für alle Konfessionen und lebt von einem vielfältigen ökumenischen Austausch. Die Teerunde vor der Quäker-Andacht bieten Raum für ökumenische Gespräche und gemeinsames Nachdenken.
-
-Vielfalt und Engagement
-
-Die Beziehung zur Bibel ist bei unseren Besuchern sehr individuell. Politisch vertreten wir das gesamte demokratische Spektrum, wobei linke und progressive Positionen tendenziell stärker vertreten sind. Viele von uns engagieren sich gesellschaftlich und politisch, inspiriert durch unseren Glauben und unsere Überzeugungen. Wir setzen uns für Reformen und sozialen Fortschritt ein, indem wir bestehende Normen in Frage stellen. Wir lehnen Gewalt ab und misstrauen autoritären Strukturen. In Jesus Christus finden wir Unterstützung für unsere Positionen.
-
-Offene Gemeinschaft
-
 Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. In unserer Gemeinschaft ist jeder willkommen.
 
-Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!
+***Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!***
+
+[^foot-01]: „Religiöse Gesellschaft der Freunde“ ist ein anderer Name für die Quäker, daher die Bezeichnung „Freunde der Freunde“.
