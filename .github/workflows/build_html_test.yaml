@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: 'true'
           fetch-depth: 1
@@ -21,5 +21,6 @@ jobs:
               ./cache/hugo \
                 --panicOnWarning \
                 --source ./hugo \
-                --destination ../public
+                --destination ../public \
+                --baseURL https://test.quaker-kr.de
 
