@@ -1,5 +1,5 @@
 ---
-title: "Light tea"
+title: "Tea time"
 page: true
 menu:
   main:

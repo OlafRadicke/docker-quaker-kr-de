@@ -1,16 +1,26 @@
 ---
-title: "Willkommen bei der Quaker-Andachsgruppe in Krefeld"
+title: "Willkommen bei der Quäker-Andachtsgruppe in Krefeld"
 page: true
 menu:
   main:
     name: "Start"
     weight: 1
+
+toc: true
 ---
 
-## Start
+## Wo steht the Krefelder Andacht theologisch?
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Komm zu unserer [Quäker-Andacht](../andacht/) und *[Teerunde](../tee/)*, die sich seit einiger Zeit im Aufbau befindet und sich noch ausprobiert. Du kannst einfach unverbindlich vorbei kommen und schauen, ob du Lust hast, dabei zu sein. Hier lernst du Menschen aus verschiedenen gesellschaftlichen Hintergründen kennen, die eine gemeinsame Sympathie für das Quäkertum verbindet. Die meisten Teilnehmenden sind “Freunde der Freunde”[^foot-01], also Menschen, die die Quäker-Werte schätzen, ohne sich selbst als Quäker zu bezeichnen. Unser Kreis ist offen für alle Konfessionen und lebt von einem vielfältigen ökumenischen Austausch. Die Teerunde vor der Quäker-Andacht bieten Raum für theologische Gespräche und gemeinsames Nachdenken über Fragen des gelebten Glaubens.
 
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+##### Vielfalt und Engagement
 
-Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Die Beziehung zur Bibel ist bei unseren Besuchern sehr individuell. Politisch vertreten wir das gesamte demokratische Spektrum, wobei linke und progressive Positionen tendenziell stärker vertreten sind. Viele von uns engagieren sich gesellschaftlich und politisch, inspiriert durch unseren Glauben und unsere Überzeugungen. Wir setzen uns für Reformen und sozialen Fortschritt ein, indem wir bestehende Normen kritisch beleuchten. Wir lehnen Gewalt ab und misstrauen autoritären Strukturen. In unserein ganz eigenen Auseinandersetzung mit Jesus Christus, suchen wir Trost, Inspiration, Führung und Unterstützung.
+
+##### Offene Gemeinschaft
+
+Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. In unserer Gemeinschaft ist jeder willkommen.
+
+***Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!***
+
+[^foot-01]: „Religiöse Gesellschaft der Freunde“ ist ein anderer Name für die Quäker, daher die Bezeichnung „Freunde der Freunde“.

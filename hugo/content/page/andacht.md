@@ -15,7 +15,7 @@ sidebar: "right"
 Die Aussage stammt von dem Augustiner-Mönch Thomas von Kempen. Sie hätte aber genauso von einem Quäker stammen können. In den „unprogrammierten Andachten” der Quäker wird die Aufmerksamkeit auf Gott und seine unmittelbare Offenbarung gerichtet. Es gibt keinen vorbestimmten Ablauf, mit Gesang, Predigt und liturgischen Handlungen. Stattdessen sammeln sich die Anwesenden in Stille, kommen zur Ruhe und schaffen so Raum für den inneren Dialog mit Gott. Wo sich eine Person vom Geist bewegt fühlt, wird sie entsprechend etwas laut äußern.
 
 
-### Wann und wo
+## Wann und wo
 
 
 Die Andachten findet in aller Regel am den **geraden** Kalenderwochen an Samstagen um 17 Uhr, in den Räumen der Krefelder Mennoniten, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7) Statt. Die Ankündigungen und Hinweise werden hier und über [Mastodon](https://krefeld.life/@quaker) bekannt gegeben. Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen. Wer möchte kann auch schon um 16 Uhr zum [Teetrinken](../1_tee) kommen.
@@ -24,8 +24,7 @@ Die Andachten findet in aller Regel am den **geraden** Kalenderwochen an Samstag
 
 ![Kundenstopper](../img/aufsteller.jpg)
 
-Wie läuft die Quäker-Andacht in Krefeld ab?
--------------------------------------------
+## Wie läuft die Quäker-Andacht in Krefeld ab?
 
 
 
@@ -43,7 +42,3 @@ Wer sich dazu berufen fühlt, kann das Wort ergreifen und zu den Versammelten sp
 
 
 Die Andacht wird vom Versammlungsleiter oder -Leiterin nach ca. 45-60 Min. beendet. Im Anschluss gibt es Gelegenheit zum „Gespräch aus der Stille”. Hier können Erfahrungen, Fragen und Gedanken geteilt werden, die während der Stille gesammelt wurden. Dieser Teil hat keine formalen Regeln oder Abläufe.
-
-
-
-
