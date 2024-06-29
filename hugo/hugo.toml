@@ -36,9 +36,11 @@ theme = "hugo-dpsg"
   highlightColor = "#672d2d"
 
 [Params.logo]
-  image = "../img/icon.png" # Logo image. Path relative to "static"
+  # image = "../img/icon.png" # Logo image. Path relative to "static"
+  image = "icon-2.png" # Logo image. Path relative to "static"
   image_alt = "Logo image" # alt text for logo image, be screen reader friendly!
-  header = "img/Edward_Hicks_-_Peaceable_Kingdom.jpg" # Header image. Path relative to "static"
+  # header = "img/Edward_Hicks_-_Peaceable_Kingdom.jpg" # Header image. Path relative to "static"
+  header = "peaceable-kingdom.jpg"
   # title = "Quaker Krefeld" # Logo title, otherwise will use site title
   # subtitle = "Willkommen bei der Quaker-Andachsgruppe in Krefeld" # Logo subtitle
 
