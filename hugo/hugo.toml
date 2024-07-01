@@ -5,6 +5,9 @@ DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 # [Params.Author] # Used in authorbox
 #   name = "Quaker Krefeld"
 #   bio = "Quaker-Andachsgruppe in Krefeld"
