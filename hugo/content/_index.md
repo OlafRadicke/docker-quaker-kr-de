@@ -19,7 +19,7 @@ Die Beziehung zur Bibel ist bei unseren Besuchern sehr individuell. Politisch ve
 
 ##### Offene Gemeinschaft
 
-Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. In unserer Gemeinschaft ist jeder willkommen.
+Bei uns spielt die sexuelle Orientierung keine Rolle. Wir wenden uns entschieden gegen Homophobie, Rassismus, Fremdenfeindlichkeit und Sexismus. Bei uns sind alle Menschen willkommen.
 
 ***Komm vorbei und entdecke unsere offene und engagierte Gemeinschaft!***
 
