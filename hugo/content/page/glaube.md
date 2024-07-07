@@ -25,7 +25,7 @@ Bei den Zeugnissen (der Lebensführung) lässt sich aber eine gemeinsame Schnitt
 - ***Testimony of Equality*** (Zeugnis der Gleichheit)
 - ***Testimony of Simplicity*** (Zeugnis der Einfachheit)
 
-Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession)). Auch wenn Quäker den Dienst an einer Waffe ablehnen, so bedeutet das nicht, das sie sich aus der Politik herraushalten. Ein Beispiel ist das *[Quaker Council for European Affairs](https://www.qcea.org/)* das sich aktiv an politischen Diskursen beteiligt.
+Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession)). Auch wenn Quäker den Dienst an einer Waffe ablehnen, so bedeutet das nicht, das sie sich aus der Politik heraushalten. Ein Beispiel ist das *[Quaker Council for European Affairs](https://www.qcea.org/)* das sich aktiv an politischen Diskursen beteiligt.
 
 > *"Jesus antwortete: Mein Reich ist nicht von dieser Welt; wenn mein Reich von dieser Welt wäre, so hätten meine Diener gekämpft, damit ich den Juden nicht überliefert würde, jetzt aber ist mein Reich nicht von hier."*
 >
