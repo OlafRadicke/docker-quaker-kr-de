@@ -6,7 +6,7 @@ on:
       - main
       - 'feature/**'
 jobs:
-  Explore-GitHub-Actions:
+  test-html-build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
