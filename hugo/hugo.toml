@@ -41,7 +41,7 @@ theme = "hugo-dpsg"
 [Params.logo]
   image = "icon.png" # Logo image. Path relative to "static"
   image_alt = "Logo image" # alt text for logo image, be screen reader friendly!
-  header = "Edward_Hicks_-_Peaceable_Kingdom.jpg" # Header image. Path relative to "static"
+  header = "Edward_Hicks-Peaceable_Kingdom.webp" # Header image. Path relative to "static"
   # title = "Quaker-Andacht Krefeld" # Logo title, otherwise will use site title
   # subtitle = "Willkommen bei der Quaker-Andachsgruppe in Krefeld" # Logo subtitle
 
@@ -94,4 +94,3 @@ theme = "hugo-dpsg"
 [[Params.widgets.social.custom]]
   title = "Google translate"
   url = "https://quaker--kr-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp"
-  # url = "https://test-quaker--kr-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp"
