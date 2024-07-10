@@ -1,4 +1,4 @@
-name: Build an image with the static HTML
+name: Test build of static HTML
 run-name: ${{ github.actor }} testing build with Hugo.
 on:
   push:

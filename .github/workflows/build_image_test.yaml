@@ -1,5 +1,5 @@
 name: Build an image with the static HTML
-run-name: ${{ github.actor }} testing build with Hugo.
+run-name: ${{ github.actor }} build image for test.
 on:
   push:
     tags:
