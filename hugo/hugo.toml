@@ -93,4 +93,5 @@ theme = "hugo-dpsg"
 
 [[Params.widgets.social.custom]]
   title = "Google translate"
-  url = "https://test-quaker--kr-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp"
+  url = "https://quaker--kr-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp"
+  # url = "https://test-quaker--kr-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp"
