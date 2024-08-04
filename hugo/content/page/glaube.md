@@ -44,6 +44,11 @@ Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit. Vers
 
 ### Die Bibel
 
-Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber nicht allein Maßstab des Handelns der Einzelnen oder der Gemeinde. Je nach theologischer Ausrichtung der Versammlung (Gemeinde), hat die unmittelbare Offenbarung - Quäker sprechen vom „inneren Licht” - sogar höhere Autorität. Im Quäkertum gibt es weder zentralistische Organisation, noch hat es autoritäre Strukturen. Dies führt zu grossen Unterschieden in den weltweit verbreiteten Gemeinschaften.
+Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber nicht allein Maßstab des Handelns der Einzelnen oder der Gemeinde. Je nach theologischer Ausrichtung der Versammlung (Gemeinde), hat die unmittelbare Offenbarung - Quäker sprechen vom „inneren Licht” - sogar höhere Autorität[^foot001]. Im Quäkertum gibt es weder zentralistische Organisation, noch hat es autoritäre Strukturen. Dies führt zu grossen Unterschieden in den weltweit verbreiteten Gemeinschaften.
 
 
+---
+
+### Fussnoten
+
+[^foot001]: In der klassischen Theologie der frühen Quäker, war das "Wort Gottes" nicht die Bibel, sondern Jesus Christus selbst. Das leiteten sie unter anderem aus Johannes 1:14 ab. Sie waren fest davon überzeugt, dass Christus selbst, durch seine unmittelbare Offenbarung, die Menschen unterrichtet und angeleitet. Und das in der Gegenwart und nicht erst in ferner Zukunft.
