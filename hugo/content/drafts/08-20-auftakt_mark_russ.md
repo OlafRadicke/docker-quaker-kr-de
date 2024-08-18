@@ -78,15 +78,15 @@ für sie Jesus Christus selbst war und nicht die Bibel (das Buch), das über
 ihn berichtete. George Fox[^foot004] wird oft unter Quäkern zitiert mit
 (z.B. in Quaker faith & practice [^foot002]):
 
-```
-You will say, ‘Christ saith this, and the apostles say this;’ but what canst thou say? Art thou a child of the Light, and hast thou walked in the Light, and what thou speakest, is it inwardly from God?”
-```
+
+> You will say, ‘Christ saith this, and the apostles say this;’ but what canst thou say? Art thou a child of the Light, and hast thou walked in the Light, and what thou speakest, is it inwardly from God?”
+
 
 Zu Deutsch:
 
-```
-Du wirst sagen: Christus sagt dies, und die Apostel sagen dies; aber was kannst du sagen? Bist du ein Kind des Lichts und wandelst im Licht, und was du sprichst, kommt innerlich von Gott?“
-```
+
+> Du wirst sagen: Christus sagt dies, und die Apostel sagen dies; aber was kannst du sagen? Bist du ein Kind des Lichts und wandelst im Licht, und was du sprichst, kommt innerlich von Gott?“
+
 
 In der überzeugung der frühen Freunde offenbarte sich Jesus unmittelbar
 in jedem Menschen. Die Bibel war nur etwas mittelbares. Quasi ein Wegweiser
