@@ -10,7 +10,7 @@ tags:
   - "bibel"
   - "Mark Russ"
   - "Theologie
-lead: "Thema der Tee-Runde am 15.06.2024 aber eine Vorabinfo"
+lead: "Am 24.8.2024 keine Tee-Runde und Andacht, aber eine Vorabinfo"
 toc: true
 ---
 
