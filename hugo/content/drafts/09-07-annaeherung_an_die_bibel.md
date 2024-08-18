@@ -42,6 +42,7 @@ Mit der Bibel können wir uns selber ein neuen Kontext geben. Unser Leben kann d
 Kapitel 1
 ---------
 
+Russ:
 
 > I was generally pro-Jesus, he seemed like a good guy, but the Bible was another matter. When I tried to read it for myself, I found it a mysterious, incomprehensible book. I’d hear Christians talk about the Bible as if it was an easy-to-read instruction manual, but there was nothing clear about it. I also saw Christians using the Bible as a weapon, against women, people of other faiths, and gay people like me. As well as being impenetrable, and a tool of hatred, the Bible was filled with wild supernatural claims. I didn’t know what to make of Jesus being the son of God, performing miracles and rising from the dead. I was intrigued by Jesus, I wanted to know more about him, even follow him, but without the baggage of fundamentalism, or the “supernatural” parts of the story. I wanted Jesus without the Bible.
 
@@ -54,7 +55,7 @@ Auf Deutsch:
 
 ### Where is the “real” Jesus?
 
----
+Russ:
 
 > These problems with the Quest have led me to see that when I try to find Jesus without the Bible, there is no one there. There is no Jesus accessible to me other than the Jesus of the New Testament. If I attempt to sift out “author bias” or other aspects of the Jesus story I find unpalatable, I end up creating Jesus in my own image. If I approach the Bible hoping to find a purely human, moral teacher, I need to recognize that the authors of the New Testament are not interested in describing such a Jesus. They are not concerned with Jesus’ personality or psychology. Their sole purpose is to announce him as the Messiah (the Christ) and the one that God has risen from the dead. This means I can’t make a distinction between the “Jesus of history” and the “Christ of faith.”
 

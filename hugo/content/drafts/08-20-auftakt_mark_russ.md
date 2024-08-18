@@ -118,10 +118,10 @@ theologisch Brücken zu schlagen?
 Also wer zusammen mit uns und Mark Russ die Bibel noch mal auf den Prüfstand
 stellen will, sollte ich schon mal die folgenden Termine notieren:
 
-* **7\.9.2024** Die Bedeutung und das Verständnis der Bibel (für Quäker).
-* **21\.9.2024** Ist die Bibel nur als eines, von vielen Weisheitsbüchern der Menschheit zu betrachten?
-* **5\.10.2024** Die Vorstellung, die Erwartung und die Einordnung zur Wiederkunft von Jesus Christus
-* ***19\.10.2024** Die (christliche) Vorstellung von Schuld, Sühne und Erlösung.
+* **7.9.2024** Die Bedeutung und das Verständnis der Bibel (für Quäker).
+* **21.9.2024** Ist die Bibel nur als eines, von vielen Weisheitsbüchern der Menschheit zu betrachten?
+* **5.10.2024** Die Vorstellung, die Erwartung und die Einordnung zur Wiederkunft von Jesus Christus
+* ***19.10.2024** Die (christliche) Vorstellung von Schuld, Sühne und Erlösung.
 
 Oder sich über [Mastodon](https://krefeld.life/@quaker) erinnern lassen.
 
