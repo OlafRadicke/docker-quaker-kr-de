@@ -31,7 +31,8 @@ die (in meinen Augen) wichtigsten Passagen übersetzen und vorab bereit stellen.
 ## Worum wird es in der Reihe gehen?
 
 Der Autor des Buches lebt in Großbritannien. Im britischen Quäkertum dominiert
-(wie in Deutschland) das so genannte liberale Quäkertum. Ein Merkmal des liberalen Quäkerums ist, dass sich die Theologie zum Teil sehr weit von seinen
+(wie in Deutschland) das so genannte liberale Quäkertum. Ein Merkmal des
+liberalen Quäkerums ist, dass sich die Theologie zum Teil sehr weit von seinen
 christlichen Wurzen entfernt hat. Es gibt eine große Sympathie für
 universalistische Ideen und non-theistische [^foot001] Vorstellungen. Mark Russ
 vertritt aber eine christozentrische Theologie und setzt sich in seinem Buch
@@ -102,6 +103,7 @@ Anspruch auf Vollständigkeit, sei hier genannt:
 * Die [Befreiungstheologie](https://de.wikipedia.org/wiki/Befreiungstheologie)
 * Die [Feministische Theologie](https://de.wikipedia.org/wiki/Feministische_Theologie)
 * der Jüdisch-Christlicher Dialog ([Martin Buber](https://de.wikipedia.org/wiki/Martin_Buber) und [Moses Mendelssohn](https://de.wikipedia.org/wiki/Moses_Mendelssohn)) und die [Holocaust-Theologie](https://de.wikipedia.org/wiki/Holocaust-Theologie)
+* Die [Tiefenpsychologische Exegese](https://de.wikipedia.org/wiki/Tiefenpsychologische_Exegese)
 
 Finden die Quäker des 21. Jahrhundert noch einmal eine Antwort auf die
 Fragen, die die Bibel aufwirft? Oder wird das Quäkertum endgültig in
@@ -134,4 +136,4 @@ Oder sich über [Mastodon](https://krefeld.life/@quaker) erinnern lassen.
 
 [^foot003]: Das Quäkertum auf der südlichen Halbkugel erlebt seit einigen Jahren eine völlige andere Realität um sich herum und hat eine völlig andere Entwicklung durchlaufen.
 
-[^foot004]: George Fox war eine/r der wichtigsten Führungspersönlichkeiten und für manche der Gründervater des Quäkertums.
+[^foot004]: George Fox war einer der wichtigsten Führungspersönlichkeiten und für manche der Gründervater des Quäkertums.
