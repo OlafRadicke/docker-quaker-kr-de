@@ -78,15 +78,11 @@ für sie Jesus Christus selbst war und nicht die Bibel (das Buch), das über
 ihn berichtete. George Fox[^foot004] wird oft unter Quäkern zitiert mit
 (z.B. in Quaker faith & practice [^foot002]):
 
-
 > You will say, ‘Christ saith this, and the apostles say this;’ but what canst thou say? Art thou a child of the Light, and hast thou walked in the Light, and what thou speakest, is it inwardly from God?”
-
 
 Zu Deutsch:
 
-
 > Du wirst sagen: Christus sagt dies, und die Apostel sagen dies; aber was kannst du sagen? Bist du ein Kind des Lichts und wandelst im Licht, und was du sprichst, kommt innerlich von Gott?“
-
 
 In der überzeugung der frühen Freunde offenbarte sich Jesus unmittelbar
 in jedem Menschen. Die Bibel war nur etwas mittelbares. Quasi ein Wegweiser
@@ -118,9 +114,9 @@ theologisch Brücken zu schlagen?
 Also wer zusammen mit uns und Mark Russ die Bibel noch mal auf den Prüfstand
 stellen will, sollte ich schon mal die folgenden Termine notieren:
 
-* **7.9.2024** Die Bedeutung und das Verständnis der Bibel (für Quäker). Kap. 1
-* **21.9.2024** Ist die Bibel nur als eines, von vielen Weisheitsbüchern der Menschheit zu betrachten? Kap.2
-* **5.10.2024** Die Vorstellung, die Erwartung und die Einordnung zur Wiederkunft von Jesus Christus. Kap. 3
+* **07.09.2024** Die Bedeutung und das Verständnis der Bibel (für Quäker). Kap. 1
+* **21.09.2024** Ist die Bibel nur als eines, von vielen Weisheitsbüchern der Menschheit zu betrachten? Kap.2
+* **05.10.2024** Die Vorstellung, die Erwartung und die Einordnung zur Wiederkunft von Jesus Christus. Kap. 3
 * **19.10.2024** Die (christliche) Vorstellung von Schuld, Sühne und Erlösung. Kap. 3,4,5,6
 
 Oder sich über [Mastodon](https://krefeld.life/@quaker) erinnern lassen.
