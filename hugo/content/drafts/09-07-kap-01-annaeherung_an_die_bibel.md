@@ -9,8 +9,8 @@ tags:
   - "In eigener Sache"
   - "bibel"
   - "Mark Russ"
-  - "Theologie
-lead: "Thema der Tee-Runde am 15.06.2024 aber eine Vorabinfo"
+  - "Theologie"
+# lead: "Thema der Tee-Runde am 15.06.2024 aber eine Vorabinfo"
 toc: true
 ---
 
