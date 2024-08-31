@@ -10,3 +10,9 @@
 .header {
 	background: #1a1a1a;
 }
+
+table, th, td {
+	border: 1px solid;
+	font-style: italic;
+	vertical-align: top;
+}
