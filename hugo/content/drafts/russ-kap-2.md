@@ -16,32 +16,99 @@ toc: true
 
 Hallo liebe Freunde und Freunde der Freunde!
 
+Kommenden Samstag, den 21.9. um 17 Uhr, findet ,in der Königstraße 132 in
+47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder
+herzlich eingeladen seid.
 
+Wer möchten, kommt gerne schon um 16 Uhr, um sich mit der Bibel zu
+beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur
+Tee zu trinken.
 
+Wie im dem vergangenen [Beitrag](https://quaker-kr.de/post/2024/08-20/) angekündigt,
+lesen und diskutieren wir weiter in der Themenreihe zu dem Buch von Mark Russ
+***"Quaker Quicks, Quaker Shaped Christianity: How the Jesus story and the Quaker way fit together"***.
+Beim ersten Teil letztes Mal, hatten wir schon eine sehr lebhafte und
+engagierten Austausch. Wir sind mit dem Text auch nicht ganz durchgekommen
+und deshalb schneide ich diesmal nicht exakt nach Kapiteln, sonder
+wie ich einschätze, was man in 60 Min. schaffen kann.
 
+Für diejenigen, die bei dem letzten Mal nicht dabei waren: die Tee-Runde ist so
+angelegt das man weder Das Buch besitzen muss, noch es gelesen haben sollte und
+auch nicht bei allen Treffen dabei gewesen sein muss. Se folgt als
+Diskussionsgrundlage und Einstimmung hier ein paar Kernaussagen des Buches als
+Zitate, übersetzt und ergänzt mit meinen eigenen Gedanken dazu.
 
-Kapitel 2 - Warum nur eine Geschichte? - Christentum und Universalismus
------------------------------------------------------------------------
+### Intro
 
-The attraction of universalism
-------------------------------
+Es geht weiter mit dem Kapitel zwei, das überschriebn ist mit "Why Only One
+Story? – Christianity and Universalism" also "Warum nur eine Geschichte?
+Christentum und Universalismus"
+
+"The attraction of universalism"
+--------------------------------
+
+Unterkapitel "The attraction of universalism" also "Die Anziehungskraft des
+Universalismus".
 
 |Englisch | Deutsch |
 |---------|---------|
 | As well as choosing universalism over what I saw as a narrow Christianity, universalism promised other benefits. History is filled with deadly religious conflict, and embracing universalism seemed to be a step towards peace. Peace is a fundamental Quaker value, and so in a multi-faith world, universalism seems like the most moral option, and a natural belief for a Quaker. | Abgesehen davon, dass ich mich für den Universalismus entschied, statt für ein aus meiner Sicht zu enges Christentum, versprach der Universalismus noch weitere Vorteile. Die Geschichte ist voll von tödlichen religiösen Konflikten, und die Annahme des Universalismus schien ein Schritt in Richtung Frieden zu sein. Frieden ist ein grundlegender Wert der Quäker, und so scheint der Universalismus in einer multireligiösen Welt die moralischste Option und ein natürlicher Glaube für einen Quäker zu sein. |
 
+Diese Beobachtung kann ich bestätigen. Viele der (Heute älteren) Freunde (Quäker)
+und Freunde der Freunde, zur Hochzeit der Westdeutschen Friedensbewegung und aus
+dieser kommend sind zum Quäkertum dazugestossen. Mit dem Abebben der
+Friedensbewegung ebbte auch der Zustrom zu den Quäkern ab.
+
+Als historische Friedenskirche[^foot001] ist das Thema Pazifismus für Quäker aber
+bedeuten älter und es stammt nicht aus einem universalistischen Ansatz sondern
+aus einer Christlichen Überzeugung. Also der Konfession, der viele die die
+Ursache und Mitverantwortung für viele Kriege geben. Auch nach dem ersten
+Weltkrieg gab es in deutschland eine Eintrittswelle bei den Quäkern. Dies
+Eintritte waren sicherlich auch motiviert aus der Kriegserfahrungen und den
+Wunsch künftige Kriege zu verhindern. Nach dem zweiten Weltkrieg gab es auch
+wieder eintritte. Z.T. auch von Alt-Nazis. Vielleicht unbewussten oder
+bewussten aus der Scharm und den Wunsch wieder gut zu machen, das man auf der
+falschen Seite der Geschichte stand. Vielleicht brauchte es nicht mehr
+überzeugung aber sicherlich  mehr Mut, kurz nach nach der Machtergreifung der
+Nazis 1933 in Deutschland dem Quäkerum beizutreten. Denn das passiert nämlich
+auch!
+
+
 The problems with universalism
 ------------------------------
+
+Unterkapitel "The problems with universalism" also "Die Probleme mit dem
+Universalismus". Hier analysiert Mark Russ die Verheissung des Universalismus.
+
 
 |Englisch | Deutsch |
 |---------|---------|
 | Universalism has been described to me using several metaphors, two of which particularly stick in my mind. The first describes God or Divine Truth as a mountain. Each religious tradition is a different path up the same mountain. The apparent differences between each path are only superficial, because they share the same foundation and goal. They are each journeying to the top of the one mountain. The second metaphor involves an elephant. A team of blindfolded people are attempting to describe the elephant, but each person has taken hold of a different part. [...] | Der Universalismus ist mir mit mehreren Metaphern beschrieben worden, von denen mir zwei besonders im Gedächtnis geblieben sind. Die erste beschreibt Gott oder die göttliche Wahrheit als einen Berg. Jede religiöse Tradition ist ein anderer Weg, der auf denselben Berg führt. Die scheinbaren Unterschiede zwischen den einzelnen Pfaden sind nur oberflächlich, denn sie haben die gleiche Grundlage und das gleiche Ziel. Sie sind alle auf dem Weg zur Spitze des einen Berges. Bei der zweiten Metapher geht es um einen Elefanten. Ein Team von Menschen mit verbundenen Augen versucht, den Elefanten zu beschreiben, aber jeder von ihnen hat einen anderen Teil in die Hand genommen. |
+
+Die Parabel von den Blinden und dem Elefanten, die hier Mark Russ
+erwähnt, kenne ich auch aus meiner intensiven Beschäftigung mit dem Buddhismus.
+Z.B. zu finden bei Damien Keown: Buddhism. A Very Short Introduction.
+Oxford / New York: Oxford University Press 1996. Im Reclam-Verlag auch
+übersetzt ins Deutsche. isbn 978-3-15-019199-6.
+
+
+|Englisch | Deutsch |
+|---------|---------|
 | Each religious tradition offers only a limited understanding of a bigger truth. [...] | Jede religiöse Tradition bietet nur ein begrenztes Verständnis einer größeren Wahrheit. [...] |
 | But if we think about how these metaphors relate to universalism, we then have to ask: is it possible to step back from our situation and see the whole picture? Each one of us occupies a position in time and space. We each embody a particular set of experiences, a specific history. We can’t step outside our bodies, our language and culture. The “birds-eye view” or “whole elephant” are never available to us. We can never say with confidence that there is a universal spiritual experience that all faith traditions share. [...] | Wenn wir aber darüber nachdenken, wie sich diese Metaphern auf den Universalismus beziehen, müssen wir uns fragen: Ist es möglich, von unserer Situation zurückzutreten und das ganze Bild zu sehen? Jeder von uns nimmt eine bestimmte Position in Zeit und Raum ein. Jeder von uns verkörpert eine bestimmte Reihe von Erfahrungen, eine spezifische Geschichte. Wir können nicht aus unserem Körper, unserer Sprache und Kultur heraustreten. Die „Vogelperspektive“ oder der „ganze Elefant“ sind für uns nie zugänglich. Wir können nie mit Sicherheit sagen, dass es eine universelle spirituelle Erfahrung gibt, die alle Glaubenstraditionen teilen. [...] |
 | Universalism springs from an admirable desire for peace, for equality between faiths, but it accidentally assumes a position of superiority that has its roots in colonialism. [...] | Der Universalismus entspringt einem bewundernswerten Wunsch nach Frieden, nach Gleichheit zwischen den Religionen, aber er nimmt unbeabsichtigt eine Position der Überlegenheit ein, die ihre Wurzeln im Kolonialismus hat. [...]  |
 | Although the universalism of the mountain and elephant metaphors presents itself as above or separate from the faith communities of the world, as transcending tradition and theology, universalism is itself a tradition and has a theology of its own. Another problem with universalism is that, by emphasizing the similarities between all faith traditions, the differences between them are treated as superficial “added extras.” In the previous chapter, I wrote how the Judaism of Jesus and the Christianity of the early Quakers aren’t “added extras” [...] | Obwohl der Universalismus der Berg- und Elefantenmetapher sich als über den Glaubensgemeinschaften der Welt stehend oder von ihnen getrennt darstellt, als über Tradition und Theologie hinausgehend, ist der Universalismus selbst eine Tradition und hat eine eigene Theologie. Ein weiteres Problem des Universalismus besteht darin, dass durch die Betonung der Gemeinsamkeiten zwischen allen Glaubenstraditionen die Unterschiede zwischen ihnen als oberflächliches „Beiwerk“ behandelt werden. Im vorigen Kapitel habe ich geschrieben, dass das Judentum Jesu und das Christentum der frühen Quäker keine „zusätzlichen Extras“ sind [...] |
 | When we ignore specifics we get a limited, skewed and inaccurate understanding of different faiths. [...] | Wenn wir die Besonderheiten ignorieren, erhalten wir ein begrenztes, verzerrtes und ungenaues Verständnis der verschiedenen Glaubensrichtungen. [...]  |
 | In the mountain metaphor, each path heads towards the same destination, but in reality, each faith tradition has its own understanding of the goal of human life. Each has its own definition of “salvation.” |  In der Bergmetapher führt jeder Weg zum gleichen Ziel, aber in Wirklichkeit hat jede Glaubenstradition ihr eigenes Verständnis vom Ziel des menschlichen Lebens. Jede hat ihre eigene Definition von „Erlösung“. |
+
+
+In der Tat ist es so, das es formal kein Hinderungsgrung im Buddhismus
+ist, Christ zu sein und zu bleiben, wenn man übertritt. Als Buddhis
+legt man kein Glaubensbekenntnis ab, sondern ein Gelöbniss. Jenachdem
+ob ich Leihe bleibe oder zum (budistischen) Mönch ordiniere, sind
+die Gelübte umfangreicher. Eigendlich nicht unähnlich zum Quäkertum.
+Allerdings ist die Vorstellung was Erlösung ist und wie man sie erreicht
+unterscheidet sich.
 
 
 Jesus, my place to stand and guiding star
@@ -63,3 +130,6 @@ Jesus, my place to stand and guiding star
 | To be a Quaker-shaped Christian is to treat all others with respect and seek the good of all, regardless of their faith tradition. [...] | Ein von den Quäkern geprägter Christ zu sein bedeutet, alle anderen mit Respekt zu behandeln und das Wohl aller zu suchen, unabhängig von ihrer Glaubenstradition. [...] |
 | So, do I believe Christianity is the one true faith? The early Quakers certainly thought so. They believed everyone could be saved through responding to God inwardly, to the “inward light,” regardless of their religious tradition, but the identity of this inward light was found in Jesus Christ. All those outside Christianity who responded to this light were part of the “Church invisible,” as if they were Christians without knowing it. [...] | Glaube ich also, dass das Christentum der einzig wahre Glaube ist? Die frühen Quäker haben das sicherlich so gesehen. Sie glaubten, dass jeder gerettet werden kann, indem er sich innerlich auf Gott, auf das „innere Licht“, einlässt, unabhängig von seiner religiösen Tradition, aber die Identität dieses inneren Lichts wurde in Jesus Christus gefunden. Alle Menschen außerhalb des Christentums, die auf dieses Licht reagierten, waren Teil der „unsichtbaren Kirche“, so als ob sie Christen wären, ohne es zu wissen. [...] |
 | There’s a danger that, in writing about what the Jesus story means to me in such personal terms, I’m presenting Christianity as an individual philosophy that can be practiced in isolation. Christianity is generally something people do together. Jesus gathered a community around him, and the early Church experienced the Spirit of the Resurrected Christ bringing different people together into a spiritual whole, a new type of family. | Wenn ich darüber schreibe, was die Jesus-Geschichte für mich persönlich bedeutet, besteht die Gefahr, dass ich das Christentum als eine individuelle Philosophie darstelle, die man isoliert praktizieren kann. Das Christentum ist im Allgemeinen etwas, das Menschen gemeinsam tun. Jesus scharte eine Gemeinschaft um sich, und die frühe Kirche erlebte, wie der Geist des auferstandenen Christus verschiedene Menschen zu einem geistigen Ganzen, zu einer neuen Art von Familie zusammenführte. |
+
+
+[^foot001]: Siehe [Wikipedia](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession))
