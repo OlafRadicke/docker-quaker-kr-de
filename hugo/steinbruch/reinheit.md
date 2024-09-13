@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Quäkerandacht und Teetrinken am 7.9.2024"
-date: "2024-08-02"
+date: "2050-08-02"
 categories:
   - "tea time"
   - "meeing for worship"
