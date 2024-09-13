@@ -1,5 +1,5 @@
 ---
-# draft: true
+draft: true
 title: "Andacht und Teetrinken am 7.9.2024"
 date: "2024-08-31"
 categories:
