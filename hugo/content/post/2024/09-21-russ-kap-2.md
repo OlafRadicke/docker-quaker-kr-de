@@ -1,13 +1,12 @@
 ---
-draft: true
+draft: false
 title: "Andacht und Teetrinken am 21.9.2024"
-date: "2025-09-11"
+date: "2024-09-17"
 categories:
   - "tea time"
   - "meeing for worship"
 tags:
-  - "In eigener Sache"
-  - "bibel"
+  - "Bibel"
   - "Mark Russ"
   - "Theologie"
   - "Universalismus"
@@ -15,7 +14,7 @@ tags:
   - "Hölle"
   - "Kolonialismus"
   - "Pazifismus"
-# lead: "Thema der Tee-Runde am 15.06.2024 aber eine Vorabinfo"
+lead: "Why Only One Story?"
 toc: true
 ---
 
