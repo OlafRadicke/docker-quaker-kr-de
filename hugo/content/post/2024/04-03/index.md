@@ -32,17 +32,13 @@ Viele Grüße.
 
 Olaf
 
-
 ## Inro
 
-
 Die Hölle ist vielleicht eines der kontroversesten und unpopulärsten Themen im Christentum.
-
 
 ## AlTES VS. NEUES TESTAMENT (BESTANDSAUFNAHME)
 
 Wie oft kommt das Wort ***"Hölle"*** überhaupt in der Bibel vor? Je nach Übersetzung fällt das Ergebnis unterschiedlich aus:
-
 
 | Übersetzung | altes Testament | neuen Testament |
 |:------------|:-----------------------|------------------|
