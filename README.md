@@ -19,6 +19,14 @@ And check
 
 <http://127.0.0.1:1313>
 
-### About theme
+### ABOUT USED THEME
 
 See [DPSG](https://themes.gohugo.io/themes/hugo-dpsg/)
+
+### DOCKER BUILD
+
+Enter:
+
+```bash
+podman build .
+```
