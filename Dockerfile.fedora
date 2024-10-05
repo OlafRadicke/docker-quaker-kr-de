@@ -1,5 +1,5 @@
 # BUILD ENV ###################################################################
-FROM fedora AS build
+FROM fedora:40 AS build
 ARG DOWNLOAD_HOST="https://github.com/gohugoio/hugo/releases/download"
 ARG HUGO_VERSION="0.121.2"
 ARG CACHE_DIR="/tmp/hugo_cache"
@@ -25,7 +25,7 @@ RUN tar -xvzf ${HUGO_DOWNLOAD}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz 
 RUN ls -lah ${HUGO_BIN} && wc ${HUGO_BIN}/hugo
 
 # GENERATE HTML ###############################################################
-FROM fedora AS generate
+FROM fedora:40 AS generate
 ARG HUGO_BIN=/usr/local/bin
 ARG HUGO_SRC=/tmp/hugo_src
 ARG TARGET_URL=https://test.quaker-kr.de
