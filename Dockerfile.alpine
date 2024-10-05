@@ -24,4 +24,5 @@ RUN hugo \
 # RUN ENV #####################################################################
 
 FROM nginx:1.25-alpine
+ARG HUGO_PUB=/tmp/hugo_public
 COPY --from=build ${HUGO_PUB}  /usr/share/nginx/html
