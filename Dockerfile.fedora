@@ -26,11 +26,12 @@ RUN ls -lah ${HUGO_BIN} && wc ${HUGO_BIN}/hugo
 
 # GENERATE HTML ###############################################################
 FROM fedora AS generate
-ARG PATH=${PATH}:${HUGO_BIN}
 ARG HUGO_BIN=/usr/local/bin
 ARG HUGO_SRC=/tmp/hugo_src
 ARG TARGET_URL=https://test.quaker-kr.de
 ARG HUGO_PUB=/tmp/hugo_public
+ENV PATH=${PATH}:${HUGO_BIN}
+
 RUN mkdir -p ${HUGO_BIN}
 COPY --from=build ${HUGO_BIN}/hugo  ${HUGO_BIN}
 COPY ./hugo  ${HUGO_SRC}

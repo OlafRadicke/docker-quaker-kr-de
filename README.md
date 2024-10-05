@@ -28,7 +28,7 @@ See [DPSG](https://themes.gohugo.io/themes/hugo-dpsg/)
 Enter:
 
 ```bash
-podman build -t local/docker-quaker-kr-de -f Dockerfile.fedora .
+podman build --no-cache -t local/docker-quaker-kr-de -f Dockerfile.fedora .
 ```
 
 The Dockerfiles:
