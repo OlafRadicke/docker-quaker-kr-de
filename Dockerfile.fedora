@@ -33,7 +33,6 @@ ARG TARGET_URL=https://test.quaker-kr.de
 ARG HUGO_PUB=/tmp/hugo_public
 RUN mkdir -p ${HUGO_BIN}
 COPY --from=build ${HUGO_BIN}/hugo  ${HUGO_BIN}
-COPY --from=build ${HUGO_BIN}/hugo  ${HUGO_BIN}
 COPY ./hugo  ${HUGO_SRC}
 
 RUN ls -lah ${HUGO_BIN} && wc ${HUGO_BIN}/hugo
@@ -49,7 +48,7 @@ RUN hugo \
 # FROM fedora
 FROM nginx:1.25-alpine
 ARG HUGO_PUB=/tmp/hugo_public
-COPY --from=generate ${HUGO_PUB}  /usr/share/nginx/html/hugo
+COPY --from=generate ${HUGO_PUB}  /usr/share/nginx/html
 
 # dnf install -y nginx
 
