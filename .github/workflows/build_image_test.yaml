@@ -1,11 +1,11 @@
-name: Build an multi stage alpine image with the static HTML
-run-name: ${{ github.actor }} build multi stage alpine image for prod.
+name: Build an alpine multi stage image with the static HTML
+run-name: ${{ github.actor }} build an alpine multi stage image for test.
 on:
   push:
     tags:
       - '*'
 jobs:
-  build-prod-image:
+  build-test-image:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -28,6 +28,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: olafradicke/quaker-kr-de:${{  github.ref_name }}-alpine-multi
-
-
+          tags: olafradicke/quaker-kr-de:${{  github.ref_name }}-test
