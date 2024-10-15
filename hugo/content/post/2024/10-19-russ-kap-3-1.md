@@ -9,7 +9,12 @@ tags:
   - "Bibel"
   - "Mark Russ"
   - "Theologie"
-  - "Universalismus"
+  - "Geschichte"
+  - "Apokalypse"
+  - "Reich Gottes"
+  - "Wiederkunft Jesu"
+  - "Jenseits"
+  - "Dispensationalismus"
 lead: "Why Only One Story?"
 toc: true
 ---
@@ -26,7 +31,7 @@ Tee zu trinken.
 
 Aktuell lesen und diskutieren wir weiter in der Themenreihe zu dem Buch von Mark Russ
 ***"Quaker Quicks, Quaker Shaped Christianity: How the Jesus story and the Quaker way fit together"***.
-Diesmal ist das 3. Kapitel darn, das überschrieb ist mit "christ-shaped Future"
+Diesmal ist das 3. Kapitel (erster Teil) darn, das überschrieb ist mit "christ-shaped Future"
 ("Christusförmige Zukunft"). Wie immer, fasse ich - in Vorbereitung - die Kernaussagen
 des Kapitel in Zitaten zusammen und ergänzt mit meinen eigenen Gedanken dazu..
 
@@ -68,16 +73,6 @@ Die sind Zwei Punkte, die mir sehr wichtig sind! Dieses *"macht es uns zu Fremde
 
 Der dem Punkt, *"das Reich Gottes [bringt] Störung und Desorientierung"* musste ich sofort an die Umweltaktivisten denken. Es gibt so viele Geschichten in der Bibel, bei den Propheten verkannt und missachtet wurden. Gerade als Christen, sollten wir besonders aufmerksam und selbstkritisch mit *Störungen* umgehen. Ich glaube das ist einer der wichtigsten Leeren, die an aus der Bibel für sich ziehen kann.
 
-
-## Quakers and God’s arrival ("Quäker und die Ankunft Gottes")
-
-
-| Englisch  | Deutsch |
-|-----------|---------|
-| If you are familiar with Quakers today, you’ll know they rarely speculate about the future. What happens after death, or at the end of time, is not a familiar topic of discussion. This is perhaps because it’s seen as useless speculation, or because those whose hold particular beliefs about the afterlife feel embarrassed to share them. It may be all part of the silence Quakers use to cover the theological differences. Because of this silence, it can therefore be a shock to discover that the parousia was profoundly important to the first Quakers. They were a community who keenly felt the presence of God’s arriving future. They found their intense experience of God’s presence reflected in the words of John’s Gospel. A lot of familiar Quaker language, such as the “light within” and being a Society of “Friends,” comes from John, to the extent of it being called the “Quaker Gospel.” [...] This experience had big implications for how they worshiped God. They saw other Christians as still waiting for Christ to come again, and worshipping in “meantime” ways. In their experience, Christ had arrived, meaning that all “meantime” practices had to stop. This included worshiping in a specific building with a set service, being led in worship by a human, male priest, seeing God as especially present in holy water or consecrated bread and wine, and worshipping God on a specific day of the week. With their discovery of God’s arrival, Quakers no longer needed to go to a special place. They could worship God “in spirit and truth” wherever they were. A biblical symbol for God’s promised future is the New Jerusalem. In this symbolic city there is no temple, because nothing separates God from God’s people (Rev. 21:22). [...] Early Quaker theologian Elizabeth Bathurst (1655–1685) wrote that when the Holy Spirit fell upon Jesus’ followers at Pentecost, they became filled with the “wine of the Kingdom,” wine from Jesus the “true vine” (Jn. 15:1). This meant that “outward” bread and wine was of no use “after Christ’s second and spiritual coming,” being only a “shadow,” whereas inward, spiritual communion is the real “substance.” In God’s promised future, God is fully present in creation, so God is not especially present in bread, wine or water. God can be found anywhere and everywhere. This is what Quakers mean when they say that the whole of life is sacramental. Their experience of God’s presence led them to see every day as a “Lord’s Day,” and so they stopped marking Sundays as the Sabbath.  | **Wenn Sie die Quäker von heute kennen, wissen Sie, dass sie selten über die Zukunft spekulieren. Was nach dem Tod oder am Ende der Zeit geschieht, ist kein bekanntes Diskussionsthema.** Das liegt vielleicht daran, dass es als nutzlose Spekulation angesehen wird, oder daran, dass es denjenigen, die bestimmte Überzeugungen über das Leben nach dem Tod haben, peinlich ist, sie mitzuteilen. **Vielleicht ist das alles Teil des Schweigens, mit dem die Quäker ihre theologischen Differenzen überspielen.** Aufgrund dieses Schweigens kann es daher ein Schock sein, zu entdecken, dass die Parusie ("Wiederkunft") für die ersten Quäker von großer Bedeutung war. Sie waren eine Gemeinschaft, die die Gegenwart von Gottes kommender Zukunft sehr stark spürte. Ihre intensive Erfahrung der Gegenwart Gottes spiegelt sich in den Worten des Johannesevangeliums wider. **Viele vertraute Redewendungen der Quäker, wie das „innere Licht“ und die „Gesellschaft der Freunde“, stammen aus dem Johannesevangelium, so dass es auch als „Quäkerevangelium“ bezeichnet wird.** [...] Diese Erfahrung hatte große Auswirkungen darauf, wie sie Gott verehrten. Sie sahen andere Christen, die immer noch auf die Wiederkunft Christi warteten und „in der Zwischenzeit“ anbeteten. Nach ihrer Erfahrung war Christus gekommen, und das bedeutete, dass alle „zwischenzeitlichen“ Praktiken aufhören mussten. Dazu gehörten die Anbetung in einem bestimmten Gebäude mit einem festgelegten Gottesdienst, die Leitung des Gottesdienstes durch einen menschlichen, männlichen Priester, die Vorstellung, dass Gott besonders im Weihwasser oder in geweihtem Brot und Wein gegenwärtig ist, und die Anbetung Gottes an einem bestimmten Wochentag. Mit ihrer Entdeckung der Ankunft Gottes brauchten die Quäker nicht mehr an einen besonderen Ort zu gehen. Sie konnten Gott „im Geist und in der Wahrheit“ anbeten, wo immer sie waren. Ein biblisches Symbol für Gottes verheißene Zukunft ist das neue Jerusalem. In dieser symbolischen Stadt gibt es keinen Tempel, denn nichts trennt Gott von seinem Volk (Offb. 21,22). [...] Die frühe Quäkertheologin Elizabeth Bathurst (1655-1685) schrieb, dass die Anhänger Jesu, als der **Heilige Geist an Pfingsten auf sie herabkam,** mit dem „Wein des Reiches“ gefüllt wurden, dem Wein von Jesus, dem „wahren Weinstock“ (Joh 15,1). Das bedeutet, dass **das „äußere“ Brot und der Wein *„nach dem zweiten und geistlichen Kommen ("Wiederkunft") Christi“* nichts mehr nützen, da sie nur ein „Schatten“ sind, während die innere, geistliche Gemeinschaft die wahre „Substanz“ ist.** In der von Gott verheißenen Zukunft ist Gott in der Schöpfung voll und ganz gegenwärtig, also ist Gott nicht speziell in Brot, Wein oder Wasser gegenwärtig. **Gott kann überall und jederzeit gefunden werden. Das ist es, was Quäker meinen, wenn sie sagen, dass das ganze Leben sakramental ist.** Ihre Erfahrung der Gegenwart Gottes führte dazu, dass sie jeden Tag als „Tag des Herrn“ ansahen und deshalb aufhörten, den Sonntag als Sabbat zu bezeichnen. |
-
-
-Hier hat Mark Russ eine *wunden Punkt* bei den (liberalen) Quäkertum getroffen - wie ich finde, wenn er sagt, dass das Schweigen auch ein Mittel ist, Konflikten und Verletzungenaus den Weg zu gehen. Irgend wie ist es schon merkwürdig, wenn Quäker einerseits sich nicht scheuen ihre Gesundheit und ihr Leben zu riskieren, um ihre Mission von Frieden und Gerechtigkeit zu leben, aber andererseits angst haben, zu erfahren, was ihre Galabusengeschwister wirklich über Jesus, Gott und das Jenseits glauben. Ist es die angst davor, festzustellen, in der *"falschen"* Glaubensgemeinschaft zu sein, und sich auf einmal seiner geistigen Heimat beraubt zu sehen?
 
 ---
 
