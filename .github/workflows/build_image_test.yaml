@@ -29,5 +29,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: olafradicke/quaker-kr-de:${{  github.ref_name }}-test
-          build-args:
-            - TARGET_URL=https://test.quaker-kr.de
+          build-args: 'TARGET_URL=https://test.quaker-kr.de'
