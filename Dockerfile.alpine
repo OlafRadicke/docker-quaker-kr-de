@@ -1,6 +1,6 @@
 # BUILD ENV ###################################################################
 FROM alpine:3.20 AS build
-ARG TARGET_URL=https://test.quaker-kr.de
+ARG TARGET_URL=https://quaker-kr.de
 ARG HUGO_SRC=/tmp/hugo_src
 ARG HUGO_PUB=/tmp/hugo_public
 
