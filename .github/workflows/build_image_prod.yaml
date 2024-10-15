@@ -30,6 +30,6 @@ jobs:
           push: true
           tags: olafradicke/quaker-kr-de:${{  github.ref_name }}
           build-args:
-            - "TARGET_URL=https://quaker-kr.de"
+            - 'TARGET_URL=https://quaker-kr.de'
 
 
