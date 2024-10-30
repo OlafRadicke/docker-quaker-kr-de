@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "Andacht und Teetrinken am 2.11.2024"
-date: "2024-10-30"
+date: "2024-10-29"
 categories:
   - "tea time"
   - "meeing for worship"
