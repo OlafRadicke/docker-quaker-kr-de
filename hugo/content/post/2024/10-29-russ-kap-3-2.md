@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Andacht und Teetrinken am 2.11.2024"
+title: "Andacht und Teetrinken am 2.11.2024 (UPDATE)"
 date: "2024-10-29"
 categories:
   - "tea time"
@@ -24,9 +24,9 @@ toc: true
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 2.11. um 17 Uhr, findet ,in der Königstraße 132 in
-47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder
-herzlich eingeladen seid.
+<s>Kommenden Samstag, den 2.11. um 17 Uhr, findet ,in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.</s>
+
+***UPDATE:*** Leider muss die Andacht krankheitsbedingt ausfallen.  Ich werde den Gesprächskreis stattdessen Online per zoom anbieten. Wer interessiert ist, schreibt mich persönlich an (briefkasten@olaf-radicke.de).
 
 Wer möchten, kommt gerne schon um 16 Uhr, um sich mit der Bibel zu
 beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur
