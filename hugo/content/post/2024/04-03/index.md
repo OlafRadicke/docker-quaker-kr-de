@@ -7,6 +7,12 @@ categories:
 tags:
   - "Hölle"
   - "Bibel"
+  - "Bibel Matthäus 5"
+  - "Bibel Matthäus 10"
+  - "Bibel Matthäus 23"
+  - "Bibel Markus 9"
+  - "Bibel Lukas 12"
+  - "Bibel Jakobus 3"
 
 # lead: "Thema der Tee-Runde am 15.06.2024"
 toc: true
