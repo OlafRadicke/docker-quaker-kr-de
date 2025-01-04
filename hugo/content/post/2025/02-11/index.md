@@ -5,8 +5,14 @@ date: "2025-01-04"
 categories:
   - "tea time"
   - "meeing for worship"
-# tags:
-#   - "Bibel 5.Mose 6"
+tags:
+  - "Bibel 1.Mose 32"
+  - "Demut"
+  - "Einführung in das Quäkertum"
+  - "Zeitgeist"
+  - "Glaubensgemeinschaft"
+  - "Fehler"
+  - "Benjamin Wood"
 lead: "Andacht und Teetrinken am 11.02.2025"
 toc: true
 ---
