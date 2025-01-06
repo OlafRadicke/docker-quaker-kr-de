@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Andacht und Teetrinken am 11.02.2025"
+title: "Andacht und Teetrinken am 11.01.2025"
 date: "2025-01-04"
 categories:
   - "tea time"
@@ -13,13 +13,13 @@ tags:
   - "Glaubensgemeinschaft"
   - "Fehler"
   - "Benjamin Wood"
-lead: "Andacht und Teetrinken am 11.02.2025"
+lead: "Andacht und Teetrinken am 11.01.2025"
 toc: true
 ---
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 14.12.2024 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 11.01.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 Wer möchte, kommt gerne schon um 16 Uhr, um sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
