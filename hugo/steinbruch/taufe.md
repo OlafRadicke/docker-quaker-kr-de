@@ -3,6 +3,10 @@ TAUFE
 
 Was Quäker über die Taufe dachten und denken.
 
+WEITER ASPEKTE
+--------------
+
+- Verhältnis zu Mennoniten (Glaubenstaufe besser als Zwangstaufe)
 
 GEGENWART
 ---------
