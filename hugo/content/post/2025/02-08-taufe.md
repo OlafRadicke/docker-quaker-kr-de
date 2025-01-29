@@ -10,9 +10,12 @@ tags:
   - "Bibel Apostelgeschichte 1"
   - "Bibel Apostelgeschichte 11"
   - "Bibel Galater 3"
+  - "Bibel Hebräer 9"
+  - "Bibel Johannes 4"
   - "Bibel Kolosser 2"
   - "Bibel Matthäus 3"
   - "Bibel Matthäus 15"
+  - "Bibel Matthäus 28"
   - "Taufe"
   - "Robert Barclay"
   - "Theologie"
@@ -194,6 +197,45 @@ aus 1.Petrus 3,21[^foot004]. Die durch jenes bedeutet ist, der Taufe eben die Ta
 
 > Als erstlich Römer 6,3.+4. da er sagt, daß alle, die wir in Jesum Christus getauft sind, die sind in seinen Tod getauft; sind mit ihm begraben, durch die Taufe in den Tod, daß sie sollen in einem neuen Leben wandeln.Zweitens spricht er Galater 3,27.[^foot006] ausdrücklich, wie viel euer getauft sind, die haben Christus angezogen; Und drittens an die Kolosser 2,12.[^foot007] spricht er, daß sie mit ihm begraben sein, durch die Taufe, und  wiederum auferstanden durch, den Glauben, den  Gott wirkt. Hier ist in Acht zu nehmen, daß der Apostel insgemein, ohne Ausnahme, mit Einschliessung  aller redet: Er spricht nicht, etliche unter euch, die in Christus getauft sind, haben Christus angezogen; sondern er spricht, so viel euer getauft sind: Welches eben so viel ist, als ob er gesagt hatte, ein jedweder unter euch, der in Christus getauft ist, der hat Christus angezogen. Woraus deutlich abzunehmen, daß es nicht van der Wasser-Taufe, sondern  von der Taufe des Geistes zu verstehen sei. Weit sonst folgen würde, daß ein jeder, der mit Wasser getauft  worden, Christus angezogen habe, und mit ihm auferstanden sei; welches jederman für höchst ungereimt erkennen wird.
 
+### Kapitel 12, Paragraph V.
+
+#### Seite 585
+
+> Es soll jetzt keine Taufe fortgefegt werden, als die
+eine Taufe Christi. [...] Daher soll die Wasser-Taufe nicht fortgesetzt werden, weil sie nicht die eine Taufe Christi ist.
+
+#### Seite 586
+
+> Zweitens, wenn die Wasser-Taufe nicht aufhören, sondern als eine beständige Ordnung Christi in seiner Kirche fortgesetzt werden sollen, so würde er solche entweder selbst eingeführt, oder sie seinen Aposteln befohlen haben.
+
+**Kommentar:**
+
+Jesus hat nicht (ausdrücklich) gesagt, das weiter mit Wasser getauft werden soll.
+
+> Daß er sie aber selbst nicht ausgeübt oder gebraucht, bekräftigt die Schrift deutlich, Johannes 4,2[^foot008] und daß er seinen Jüngern befohlen habe, mit Wasser zu taufen, habe ich noch nie finden können. Was aus Matthäus 28,19[^foot009] angeführt wird, (wo er ihnen zu taufen befiehlt,) daß solches von der Wasser-Taufe zu verstehen sei, heißt Petitio Principii, oder die Sache für gewiss setzen, die noch nicht ausgemacht ist.
+
+**Kommentar:**
+
+Nur die Jünger haben die Wassertaufe praktiziert.
+In den üblicherweise zu Taufe genannten Stellen in der Bibel, steht nichts davon das Jesus mit Wasser getauft hätte.
+
+### Kapitel 12, Paragraph VI.
+
+#### Seite 587
+
+> Wie aus Hebräer 9,10.[^foot010] erhellt, allwo der Apostel hiervon handelt, und sagt, daß der erste Gottesdienst bloß_bestanden in Speise und Trank, und mancherlei Taufe, und äusserlicher Heiligkeit, oder fleischlichen Verordnungen, die auferlegt gewesen, bis auf die Zeit der Reformation oder Besserung.Wenn denn nun die Zeit der Besserung, oder Austeilung des Evangelium, welches dem Schatten-Werk ein Ende macht, herbei gekommen ist, so sind solche Taufen und fleischliche Verordnungen nicht mehr aufzulegen.
+
+**Kommentar:**
+
+Könnte man so verstehen, das die Taufe mit Wasser zum alten Ritus gehören. Diese dient aber nicht zur Rechtfertigung oder Erlösung. Das sind nur Regeln und Rituale von Menschen geschaffen.
+
+#### Seite 588
+
+> wie kommt es denn nun, daß die Wasser-Taufe jetzt weniger eine fieschliche Verordnung, als vorher, sein soll?
+
+**Kommentar:**
+
+Was soll den die Begründung sein, das die heutige Taufe mehr ist, die von Johannes?
 
 ----
 
@@ -211,4 +253,10 @@ aus 1.Petrus 3,21[^foot004]. Die durch jenes bedeutet ist, der Taufe eben die Ta
 
 [^foot006]: in der übersetzung der "Hoffnung für Alle", Galater 3,26+27:  ***26 Nun seid ihr alle zu Kindern Gottes geworden, weil ihr durch den Glauben mit Jesus Christus verbunden seid. 27 Ihr gehört zu Christus,[5] denn ihr seid auf seinen Namen getauft.***
 
-[^foot007]: in der übersetzung der "Hoffnung für Alle", Kolosser 2,11+12:  ***11 Durch euren Glauben an Christus habt ihr euer altes, sündiges Leben aufgegeben. Nun seid auch ihr Beschnittene – nicht durch eine äußerliche Beschneidung, wie Menschen sie vornehmen, sondern durch die Beschneidung, wie ihr sie durch Christus erfahren habt. 12 Damit meine ich die Taufe, die euer altes Leben beendet hat; durch sie wurdet ihr mit Christus begraben. Ebenso seid ihr auch mit Christus zu einem neuen Leben auferweckt worden durch den Glauben an die Kraft Gottes, der ihn von den Toten auferstehen ließ.**
+[^foot007]: in der übersetzung der "Hoffnung für Alle", Kolosser 2,11+12:  ***11 Durch euren Glauben an Christus habt ihr euer altes, sündiges Leben aufgegeben. Nun seid auch ihr Beschnittene – nicht durch eine äußerliche Beschneidung, wie Menschen sie vornehmen, sondern durch die Beschneidung, wie ihr sie durch Christus erfahren habt. 12 Damit meine ich die Taufe, die euer altes Leben beendet hat; durch sie wurdet ihr mit Christus begraben. Ebenso seid ihr auch mit Christus zu einem neuen Leben auferweckt worden durch den Glauben an die Kraft Gottes, der ihn von den Toten auferstehen ließ.***
+
+[^foot008]: in der übersetzung der "Hoffnung für Alle", Johannes 4,2:  ***1-2 Den Pharisäern war zu Ohren gekommen, dass Jesus noch mehr Nachfolger gewann und taufte als Johannes – obwohl er nicht einmal selbst taufte, sondern nur seine Jünger.***
+
+[^foot009]: in der übersetzung der "Hoffnung für Alle", Matthäus 28,19:  ***19 Deshalb geht hinaus in die ganze Welt und ruft alle Menschen dazu auf, meine Jünger zu werden[1]! Tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes! ***
+
+[^foot010]: in der übersetzung der "Hoffnung für Alle", Hebräer 9,10:  ***10 Denn in einem solchen Gottesdienst werden doch nur Vorschriften befolgt, die das äußere Leben regeln. Es geht dabei um Essen und Trinken oder bestimmte Reinigungsvorschriften. Diese Anordnungen galten aber nur so lange, bis Gott die neue Ordnung in Kraft setzte. ***
