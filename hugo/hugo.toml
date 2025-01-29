@@ -50,7 +50,7 @@ theme = "hugo-dpsg"
   list = "right"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "taglist", "categories", "social"]
+  widgets = ["recent", "social", "categories", "taglist"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 

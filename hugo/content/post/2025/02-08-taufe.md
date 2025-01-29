@@ -257,6 +257,7 @@ Was soll den die Begründung sein, das die heutige Taufe mehr ist, die von Johan
 
 [^foot008]: in der übersetzung der "Hoffnung für Alle", Johannes 4,2:  ***1-2 Den Pharisäern war zu Ohren gekommen, dass Jesus noch mehr Nachfolger gewann und taufte als Johannes – obwohl er nicht einmal selbst taufte, sondern nur seine Jünger.***
 
-[^foot009]: in der übersetzung der "Hoffnung für Alle", Matthäus 28,19:  ***19 Deshalb geht hinaus in die ganze Welt und ruft alle Menschen dazu auf, meine Jünger zu werden[1]! Tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes! ***
+[^foot009]: in der übersetzung der "Hoffnung für Alle", Matthäus 28,19:  ***19 Deshalb geht hinaus in die ganze Welt und ruft alle Menschen dazu auf, meine Jünger zu werden[1]! Tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes!***
 
-[^foot010]: in der übersetzung der "Hoffnung für Alle", Hebräer 9,10:  ***10 Denn in einem solchen Gottesdienst werden doch nur Vorschriften befolgt, die das äußere Leben regeln. Es geht dabei um Essen und Trinken oder bestimmte Reinigungsvorschriften. Diese Anordnungen galten aber nur so lange, bis Gott die neue Ordnung in Kraft setzte. ***
+[^foot010]: in der übersetzung der "Hoffnung für Alle", Hebräer 9,10:  ***10 Denn in einem solchen Gottesdienst werden doch nur Vorschriften befolgt, die das äußere Leben regeln. Es geht dabei um Essen und Trinken oder bestimmte Reinigungsvorschriften. Diese Anordnungen galten aber nur so lange, bis Gott die neue Ordnung in Kraft setzte.***
+
