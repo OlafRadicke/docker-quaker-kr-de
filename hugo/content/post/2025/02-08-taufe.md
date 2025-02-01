@@ -8,6 +8,7 @@ categories:
 tags:
   - "Bibel 1.Petrus 3"
   - "Bibel Apostelgeschichte 1"
+  - "Bibel Apostelgeschichte 8"
   - "Bibel Apostelgeschichte 11"
   - "Bibel Galater 3"
   - "Bibel Hebräer 9"
@@ -26,10 +27,14 @@ toc: true
 
 
 
-TAUFE
-=====
+TAUFE - Was Quäker über die Taufe dachten und denken.
+=====================================================
 
-Was Quäker über die Taufe dachten und denken.
+Taufen Quäker? Die kurze Antwort ist: (traditionell) Nein! Warum nicht? Weil es ihnen nichts bedeutet.
+
+Dies ist die kurze Antwort und das Thema könne als erledigt gelten. Es gibt aber zwei Grunde sich mit dem Thema trotzdem etwas intensiver zu beschäftigen. Zum einen, weil die aller meisten christlichen Konfessionen Taufen und dies als zentrales Thema, ja als Sakrament betrachten und es deswegen offensichtlich ein kerklährungsbedürftiges Thema gegen über anderen Christen ist. Aber zum zweiten, weil es auch etwas identitätsstiftend sein kann, was man ***NICHT*** tut. Quäker haben z.T. in der Geschichte einen hohenpreis dafür gezahlt, das sie nicht tauften und sich nicht taufen liessen. Also war es ihnen offensichtlich auch nicht egal. So beschreibt der Historiker Claus Bernet z.B. von fällen, aus dem 18./19. Jahrhundert in Deutschland, bei dem Zwangsgelder verhängt wurden und unter Mithilfe der Landeskirchen Kinder entführt wurden, um sie zwangszukäufen. Das waren nicht viele Fälle, aber das war auch dem geschuldet, das die Quäker-Gemeinschaft im Deutschsprachigen Raum sehr klein war.
+
+
 
 WEITER ASPEKTE
 --------------
@@ -237,6 +242,103 @@ Könnte man so verstehen, das die Taufe mit Wasser zum alten Ritus gehören. Die
 
 Was soll den die Begründung sein, das die heutige Taufe mehr ist, die von Johannes?
 
+
+#### Seite 590
+
+> [...] Allein in diesem Stück pflegen unsere Widersacher, wie in vielen andern Dingen, (wie ich schon öfters bemerkt,) zu judengen, und den herrlichen und geistlichen Freiheiten des neuen Bundes abzusagen, und hingegen an den ersten Gründen des alten Gebäudes, beides in der Lehre und in dem Gottesdienst, kleben und behangen zu bleiben, weil es besser mit ihren fleischlichen Begriffen und natürlichen Sinnen überein kommt, und nach denselben
+eingerichtet ist. [...]
+
+**Kommentar:**
+
+Die Wassertaufe gehört zum alten Bund und wird von denen weitergeführt, die sich mit der neuen Freiheit schwer tun und sich im alten Bund eingerichtet haben.
+
+
+
+#### Seite 590/591
+
+> Denn das Gesetz, und die Regel des alten Bundes bei den Juden, war äußerlich auf steinerne Tafeln und Pergament geschrieben: Also ist auch unserer Widersacher ihres. Aber das Gesetz des neuen Bundes ist innerlich und unaufhörliche  in das Herz geschrieben: So ist unseres. [...] Aber der Gottesdienst des neuen Bundes ist weder an Zeit, Ort noch Personen gebunden, sondern wird im Geist und in der Wahrheit vollbracht, und nicht nach festgesetzten Formen und Vorschriften ausgerichtet, sondern wie der Geist Gottes unmittelbar treibt, bewegt und leitet, es sei, zu predigen, zu beten oder zu singen: Und ein solcher ist auch unser Gottesdienst. [...] Aber die Taufe Christi unter dem Evangelio ist die Taufe des Geistes und des Feuers; nicht die Beseitigung des Unreinen am Fleisch, sondern die Antwort eines guten Gewissens gegen Gott. Und eine solche ist auch die Taufe, init welcher wir uns, getauft zu werden, bemühen, und für welche wir streiten.
+
+**Kommentar:**
+
+So wie der Gottesdienst des neuen Bundes  vom Geist Gottes direkt geleitet wird, so wird auch die Taufe vom heiligen Geist Empfangen und nicht von Menschen.
+
+### Kapitel 12, Paragraph VII.
+
+#### Seite 591
+
+> Wenn ferner die Wasser-Taufe eine Einsetzung des Evangelium gewesen wäre, so würde der Apostel Paulus ausgesandt worden sein, solche zu verrichten: Allein er erklärt sich ausdrücklid 1.Korinther 1,17.[^foot011] Daß ihn Christus nicht gesandt habe zu taufen, sondern das Evangelium zu predigen.
+
+**Kommentar:**
+
+Offenbar ist Paulus zur Verkündigung des Evangeliums gesand gewesen und nicht zum Taufen.
+
+
+#### Seite 592
+
+> [...] so erforderte der ihm erteilte Befehl, (ob er schon so vollkommen war, was die predigt des Evangelium und die Einrichtung des neuen Bundes anbetrifft, als derjenige, so den andern Aposteln gegeben worden,) keineswegs von ihm, daß er solche Neubekehrte zu diesen jüdischen Beobachtungen und Taufen anführen sollte, obschon diese Gewohnheit von den andern Aposteln unter ihren jüdischen Neubekehrten geduldet, ihr nachgesehen und solche ausgeübt worden.
+
+**Kommentar:**
+
+Die Wassertaufe ist ein Zugeständnis an die Judenchristen gewesen, damit sie sich von ihren Traditionen und Gewohnheiten nicht entwöhnen müssen.
+
+#### Seite 593
+
+> [...] am Erkenntnis Gottes, und nicht am Brand-Opfer. Woraus klar erhellt, daß Brand-Opfer, die mit den Opfern einerlei waren, nicht ausgeschlossen sind. Allein an diesem Oft wird von Paulus kein solch Wort beigefügt, und deshalb hat man noch nicht bewiesen, daß die Gleichheit überein treffe; und folglich ist dieses Exempel nicht zulänglich, sie müssten denn beweisen können, daß es allhier deshalb zugelassen werden müsste. Sonst möchten wir nach eben dieser Regel alle andere Stellen der Schrift auf solche Weise erklären.
+
+
+**Kommentar:**
+
+Die Argumentation das die Wassertaufe immer mitgedacht werden muss, auch wenn sie nicht explizit erwähnt wird, ist nicht schlüssig. mit dieser Argumentation, ann man an jeder belibegen Stelle der Bibel behaupten, alles mögliche müsse mitgedacht werden.
+
+
+#### Seite 594
+
+> Wollte man sagen, daß der Missbrauch dieser Taufe unter den Korinthern, als sie sich nach den Personen, von welchen sie getauft worden, unter einander zerteilen, den Apostel deshalb zu reden veranlasst, der missbrauch einer Sache aber solche nicht aufhebe. [...] Weil das Predigen, als eine beständige Ordnung in der Kirche, keines einzigen Missbrauchs halber, wozu einer durch des Teufels Versuchung verleitet werden möchte, von solchen zu unterlassen ist, die durch den Geist Gottes zu solchem Amt berufen sind. Dann ebenso unterrichtet sie der Apostel, im Apostelgeschichte 8,9 [^foot012]. wie sie solchen Missbrauch abschaffen sollten.
+
+**Kommentar:**
+
+Der Einwand, das die Geisttaufe missbräuchlich für sich in Anspruch genommen werden kann, trifft auch auf die Wassertaufe zu. Es kann auch aus falschen Motiven eine Wassertaufe vorgenommen werden. Um den Missbrauch vorzubeugen, ist es wichtig, das in der Gemeinde gepredigt und aufgeklärt wird.
+
+
+### Kapitel 12, Paragraph VIII.
+
+#### Seite 596
+
+> Erstens wenden einige ein, daß Christus, welcher den Geist über alles Maßen empfangen, dessen ungeachtet mit Wasser getauft worden wäre. Wie Nic. Arnoldus, Sect. 46. seiner Theologischen Exercitation wider diesen Satz einwirft. Ich antiworte: Also wurde er auch beschnitten. Deswegen folgt aber nicht, daß die Beschneidung fortgesetzt werden soll. Denn es gebührte Christo, alle Gerechtigkeit zu erfüllen, nicht allein den Dienst Johannes, sondern auch das Gesetz.
+
+
+**Kommentar:**
+
+Nur weil Jesus selbst getauft wurde, bedeutet das nicht, das die Taufe vorgeführt wird, denn die Beschneidung die er hatte, wird auch nicht fortgeführt.
+
+
+
+#### Seite 596/597
+
+> Zweitens setzen sie entgegen, Matthäus 28,19 [^foot009] Deshalb geht hin, und lehrt alle Völker, und tauft sie in dem Namen des Vaters, und des Sohnes, und des heiligen Geistes. [...] Viertens war die Taufe, so von Christo seinen Aposteln geboten wurde, nicht die Taufe Johannes: [...]
+
+
+**Kommentar:**
+
+Inhaltlich haben Quäker mit der aussage von Matthäus 28,19 [^foot009] kein Problem. Aber die Wassertaufe lesen sie hier nicht raus. Im Gegenteil: es wird ja im Namen des "Vaters, des Sohnes und ges Heilien Geistes" getauft und nicht in Namen Johannes (der mit Wasser getauft hat).
+
+#### Seite 598
+
+> Ich antworte, was dieses betriff, daß die Taufe Johannes zur Busse gewesen, so besteht der Unterschied nicht darinnen, weil die Taufe Christi auch deshalb ist.
+
+**Kommentar:**
+
+Man kann nicht argumentieren, die Wassertaufe sei ein Zeichen der Busse, denn das ist die Taufe des Heiligen Geistes auch.
+
+#### Seite 599
+
+> [...] Dieses Taufen hat ein Taufen in den Namen, das ist, Mache und Kraft, sein müssen, und nicht eine bloße förmliche Ausdrückung der Worte, die der Wasser-Taufe beigefügt werden; [...]
+
+**Kommentar:**
+
+Das keine leere dahingesprochene Formel, so wie man ein Lied singt, das nicht in allen Strophen zur Situation passen muss, sondern es ist die zentrale Erklährung und nicht leer und nur feierliche Dekoration, Begleidmusik oder Folklore.
+
+
 ----
 
 ### Fussnoden
@@ -257,7 +359,10 @@ Was soll den die Begründung sein, das die heutige Taufe mehr ist, die von Johan
 
 [^foot008]: in der übersetzung der "Hoffnung für Alle", Johannes 4,2:  ***1-2 Den Pharisäern war zu Ohren gekommen, dass Jesus noch mehr Nachfolger gewann und taufte als Johannes – obwohl er nicht einmal selbst taufte, sondern nur seine Jünger.***
 
-[^foot009]: in der übersetzung der "Hoffnung für Alle", Matthäus 28,19:  ***19 Deshalb geht hinaus in die ganze Welt und ruft alle Menschen dazu auf, meine Jünger zu werden[1]! Tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes!***
+[^foot009]: in der übersetzung der "Hoffnung für Alle", Matthäus 28,19:  ***19 Deshalb geht hinaus in die ganze Welt und ruft alle Menschen dazu auf, meine Jünger zu werden! Tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes!***
 
 [^foot010]: in der übersetzung der "Hoffnung für Alle", Hebräer 9,10:  ***10 Denn in einem solchen Gottesdienst werden doch nur Vorschriften befolgt, die das äußere Leben regeln. Es geht dabei um Essen und Trinken oder bestimmte Reinigungsvorschriften. Diese Anordnungen galten aber nur so lange, bis Gott die neue Ordnung in Kraft setzte.***
 
+[^foot011]: in der übersetzung der "Hoffnung für Alle", 1.Korinther 1,16+17:  ***16 Doch, ich habe auch noch Stephanas und seine Hausgemeinschaft getauft. Aber ich kann mich nicht erinnern, dass ich sonst noch irgendjemand getauft hätte. 17 Denn Christus hat mich nicht beauftragt zu taufen, sondern die Gute Nachricht zu verkünden. Die Gute Nachricht darf ich aber nicht mit Worten tiefsinniger Weisheit verkünden; denn sonst verliert der Tod, den Christus am Kreuz gestorben ist, seinen ganzen Sinn.***
+
+[^foot012]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 8,9:  ***9 Nun lebte dort in der Stadt seit einiger Zeit ein Mann namens Simon, der sich mit Magie befasste und mit dem Anspruch auftrat, ein ganz Großer zu sein. Das ganze Volk von Samaria war von ihm hellauf begeistert. 10 Bis jetzt war er es gewesen, der alle Aufmerksamkeit auf sich gezogen hatte, und alle Leute, von den einfachsten bis zu den gebildetsten, sagten von ihm: »Er ist die Kraft Gottes, die die Große genannt wird!« 11 Dass er so im Mittelpunkt der Aufmerksamkeit stand, hatte seinen Grund; denn durch seine Zauberkünste hatte er die Menschen im Lauf der Zeit regelrecht um den Verstand gebracht. 12 Als nun Philippus die Botschaft von der anbrechenden Herrschaft Gottes verkündete und von Jesus Christus und der Macht seines Namens, glaubten die Leute ihm und ließen sich taufen, Männer wie Frauen. 13 Auch Simon kam zum Glauben. Nach seiner Taufe schloss er sich eng an Philippus an und konnte nicht genug staunen über die großen, machtvollen Wunder, die durch ihn geschahen.***
