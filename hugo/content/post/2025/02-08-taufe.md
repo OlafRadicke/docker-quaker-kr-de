@@ -338,7 +338,22 @@ Man kann nicht argumentieren, die Wassertaufe sei ein Zeichen der Busse, denn da
 
 Das keine leere dahingesprochene Formel, so wie man ein Lied singt, das nicht in allen Strophen zur Situation passen muss, sondern es ist die zentrale Erklährung und nicht leer und nur feierliche Dekoration, Begleidmusik oder Folklore.
 
+#### Seite 600
 
+> Wobei man, ausser der von Bedeutung des Namens hergenommenen Ursache, (welcher die oben ausgedruckte Kraft und macht ist) wohlbedächtig zu erwägen hat, daß wenn solches eine von Christo seinen Aposteln vorgeschriebene Formel gewesen wäre, sie sich, ben Verrichtung der Wasser-Taufe, gewisslich solcher Formel gegen diejenigen, die sie mit Wasser getauft, bedient haben würden.
+
+**Kommentar:**
+
+Matthäus 28,19 [^foot009] ist kein Zauberspruch, den man bei der Taufe aufsagen muss, sondern es ist eine Handlungsanweisung die beschreibt was zu tun ist.
+
+#### Seite 600
+
+
+> wie oder auf was Art solche die Taufe erlangt: Obschon besonders ausgedruckt ist, daß sie diese oder jene getauft, als Apostelgeschichte 2:41[^foot013], 8:12+13+38[^foot014], 9:18[^foot015], 10:48[^foot016], 16:15[^foot017]. und 18:8[^foot018]: So wird doch dieser Formel nicht mit einem Wort darbei erwähnt. Und an zwei Orten, nämlich Apostelgeschichte  8:16[^foot019]. und 19:5[^foot020]. wird von etlichen gemeldet, daß sie in dem Namen des Herren Jesu getauft worden:
+
+**Kommentar:**
+
+Das ist auch keine Zauberformel die gesprochen werden muss, mit die Taufe wirksam wird oder funktioniert. Wenn es diese eine Formulierung gäbe, die unerlässlich ist, wäre si doch jedesmal werwähnt worden. Und zwar die immer gleiche.
 ----
 
 ### Fussnoden
@@ -366,3 +381,19 @@ Das keine leere dahingesprochene Formel, so wie man ein Lied singt, das nicht in
 [^foot011]: in der übersetzung der "Hoffnung für Alle", 1.Korinther 1,16+17:  ***16 Doch, ich habe auch noch Stephanas und seine Hausgemeinschaft getauft. Aber ich kann mich nicht erinnern, dass ich sonst noch irgendjemand getauft hätte. 17 Denn Christus hat mich nicht beauftragt zu taufen, sondern die Gute Nachricht zu verkünden. Die Gute Nachricht darf ich aber nicht mit Worten tiefsinniger Weisheit verkünden; denn sonst verliert der Tod, den Christus am Kreuz gestorben ist, seinen ganzen Sinn.***
 
 [^foot012]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 8,9:  ***9 Nun lebte dort in der Stadt seit einiger Zeit ein Mann namens Simon, der sich mit Magie befasste und mit dem Anspruch auftrat, ein ganz Großer zu sein. Das ganze Volk von Samaria war von ihm hellauf begeistert. 10 Bis jetzt war er es gewesen, der alle Aufmerksamkeit auf sich gezogen hatte, und alle Leute, von den einfachsten bis zu den gebildetsten, sagten von ihm: »Er ist die Kraft Gottes, die die Große genannt wird!« 11 Dass er so im Mittelpunkt der Aufmerksamkeit stand, hatte seinen Grund; denn durch seine Zauberkünste hatte er die Menschen im Lauf der Zeit regelrecht um den Verstand gebracht. 12 Als nun Philippus die Botschaft von der anbrechenden Herrschaft Gottes verkündete und von Jesus Christus und der Macht seines Namens, glaubten die Leute ihm und ließen sich taufen, Männer wie Frauen. 13 Auch Simon kam zum Glauben. Nach seiner Taufe schloss er sich eng an Philippus an und konnte nicht genug staunen über die großen, machtvollen Wunder, die durch ihn geschahen.***
+
+[^foot013]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 2,41:  ***Viele nahmen seine Botschaft an und ließen sich taufen. Etwa dreitausend Menschen wurden an diesem Tag zur Gemeinde hinzugefügt.***
+
+[^foot014]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 8,12+13+38:  ***12 Als nun Philippus die Botschaft von der anbrechenden Herrschaft Gottes verkündete und von Jesus Christus und der Macht seines Namens, glaubten die Leute ihm und ließen sich taufen, Männer wie Frauen. 13 Auch Simon kam zum Glauben. Nach seiner Taufe schloss er sich eng an Philippus an und konnte nicht genug staunen über die großen, machtvollen Wunder, die durch ihn geschahen.[...] 38 Er ließ den Wagen anhalten. Die beiden stiegen ins Wasser hinab, Philippus und der Äthiopier, und Philippus taufte ihn.***
+
+[^foot015]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 9,18: ***18 Im selben Augenblick fiel es Saulus wie Schuppen von den Augen und er konnte wieder sehen. Er stand auf und ließ sich taufen.***
+
+[^foot016]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 10,48: ***48 Und er befahl, sie im Namen von Jesus Christus zu taufen. Danach baten sie ihn, noch ein paar Tage bei ihnen zu bleiben.***
+
+[^foot017]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 16,15: ***15 Sie ließ sich mit ihrer ganzen Hausgemeinschaft, ihren Angehörigen und Dienstleuten, taufen. Darauf lud sie uns ein und sagte: »Wenn ihr überzeugt seid, dass ich treu zum Herrn stehe, dann kommt in mein Haus und nehmt dort Quartier!« Sie drängte uns, die Einladung anzunehmen.***
+
+[^foot018]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 18,8: ***18 Der Synagogenvorsteher Krispus kam zum Glauben an Jesus als den Herrn und mit ihm seine ganze Hausgemeinschaft. Viele in Korinth, die davon erfuhren, kamen ebenfalls zum Glauben und ließen sich taufen.***
+
+[^foot019]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 8:16: ***16 Denn die Menschen waren zwar im Namen von Jesus, dem Herrn, getauft worden, aber der Heilige Geist war noch auf keinen von ihnen herabgekommen.***
+
+[^foot020]: in der übersetzung der "Hoffnung für Alle", Apostelgeschichte 19:5: ***5 Als sie das hörten, ließen sie sich im Namen von Jesus, dem Herrn, taufen, zur Übereignung an ihn.***
