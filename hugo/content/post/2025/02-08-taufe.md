@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Andacht und Teetrinken am 8.02.2025"
-date: "2025-01-27"
+date: "2025-02-03"
 categories:
   - "tea time"
   - "meeing for worship"
@@ -12,6 +12,7 @@ tags:
   - "Theologie"
   - "Geschichte"
   - "Apologie"
+  - "Sakrament"
 lead: "Andacht und Teetrinken am 8.02.2025"
 toc: true
 ---
