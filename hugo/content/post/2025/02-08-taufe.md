@@ -19,28 +19,25 @@ toc: true
 ---
 
 
-
 Taufe - Was Quäker über die Taufe dachten und denken
 ====================================================
 
-Einführung
-----------
 
-Taufen Quäker?
+Hallo liebe Freunde und Freunde der Freunde!
 
-Die kurze Antwort ist: (traditionell) Nein! Warum nicht? Weil es ihnen nichts bedeutet.
+Kommenden Samstag, den 08.02.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
-Dies ist die kurze Antwort und das Thema könne als erledigt gelten. Es gibt aber zwei Grunde sich mit dem Thema trotzdem etwas intensiver zu beschäftigen.
+Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Zum einen, weil die aller meisten christlichen Konfessionen Taufen und dies als zentrales Thema, ja auch zum Teil als Sakrament betrachten und es deswegen offensichtlich ein erklärungsbedürftiges Thema ist.
+Diesmal ist das vorgeschlagene Thema: Taufen Quäker? Die kurze Antwort ist: (traditionell) Nein! Warum nicht? Weil es ihnen nichts bedeutet. Mit dieser kurze Antwort könnte das Thema als erledigt gelten. Es gibt aber zwei Grunde sich mit dem Thema trotzdem etwas intensiver zu beschäftigen.
 
-Aber zum zweiten, weil es auch etwas identitätsstiftend sein kann, wenn man etwas ***NICHT*** tut. Von daher richtet sich der Text nach aussen, aber auch nach innen. Den ein oder andern  Quäker interessiert es vielleicht auch zu erfahren, was die theologischen hintergründe waren.
+Zum einen, weil die aller meisten christlichen Konfessionen Taufen und dies als zentrales Thema, ja auch zum Teil als Sakrament betrachten und es deswegen offensichtlich ein erklärungsbedürftiges Thema nach aussen ist, warum das bei Quäkern anders ist. Aber zum anderen, weil es auch etwas identitätsstiftend sein kann, wenn man etwas ***NICHT*** tut. Von daher richtet sich der folgende Text nach aussen und auch nach innen. Denn den ein oder andern Quäker und Freunde der Freunde interessiert es ja vielleicht zu erfahren, was die theologischen hintergründe sind und waren, warum Quäker nicht taufen.
 
 Bevor ich gleich in die Theologischen Fragen eintauche, noch ein hinweiss auf einen Artikel im der Quäker-Zeitschrift *FRIEANDS JOURNAL*: ["Quaker Baptism", October 1, 2009, By David Zarembka](https://www.friendsjournal.org/2009119/) . Hier erfährt man, dass das Rwanda Yearly Meeting (Quäker in Ruanda), auf nachfragen, Taufen durchführt. Wie immer im Leben, gibt es natürlich auch unter Quäkern wieder ausnahmen, von der regel.
 
 
-Historische Bedeutung der "Apologie" von Robert Barclay
--------------------------------------------------------
+Einführung
+----------
 
 Der erste und für viele Jahre wichtigste theologische Grundlagentext der Quäker mit akademischem Anspruch war die "Apologie" von Robert Barclay (der vollständige Titel ist sehr lang und wird fast nie verwendet). Sie erschien erstmals 1676 auf Latein und kurz darauf auf Englisch. Bereits 1684 wurde sie erstmals ins Deutsche übersetzt, und 1776 zum zweiten (und bisher letzten) Mal.
 
