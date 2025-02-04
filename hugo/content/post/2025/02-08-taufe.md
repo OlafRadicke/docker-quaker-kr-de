@@ -50,7 +50,7 @@ Der Abschnitt zum Thema Taufe, das 12. Kapitel, erstreckt sich über 46 Seiten u
 Barclay über die Taufe
 ----------------------
 
-Es war (und ist) die überzeugung der Quäker, das Gott seinen seinen Geist direkt ergiesst und die Menschen direkt führt. Es bedarf keiner Vermittlung über ein Priesteramt oder einen Ritus. Barclay sagt, Gott tolleriet das Bedürfnis der Menschen nach äusserlichen und sichbaren Dingen, wie Riten und Regeln, aber sie stammen nicht von ihm und sie bewirken auch nichts[^kap_12_par_01_seite_568].
+Es war (und ist) die überzeugung der Quäker, das Gott seinen Geist direkt ergiesst und die Menschen direkt führt. Es bedarf keiner Vermittlung über ein Priesteramt oder einen Ritus. Barclay sagt, Gott tolleriet das Bedürfnis der Menschen nach äusserlichen und sichbaren Dingen, wie Riten und Regeln, aber sie stammen nicht von ihm und sie bewirken auch nichts[^kap_12_par_01_seite_568].
 
 Der Streit, der um die Taufe geführt wird, erinnert Barclay an die Streitigkeiten, die in der Bibel über die Pharisäer berichtet werden[^kap_12_par_01_seite_569]. Der Eifer, mit dem um die Taufe gestritten wird, zeugt in seinen Augen nicht von der Liebe und Ehrfurcht vor Gott, sondern von der menschlichen Eitelkeit[^kap_12_par_01_seite_570].
 
