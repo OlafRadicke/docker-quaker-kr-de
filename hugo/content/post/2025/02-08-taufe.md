@@ -13,6 +13,7 @@ tags:
   - "Geschichte"
   - "Apologie"
   - "Sakrament"
+  - "Bibel Apostelgeschichte"
 lead: "Andacht und Teetrinken am 8.02.2025"
 toc: true
 ---
