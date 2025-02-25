@@ -1,0 +1,44 @@
+Christentum ganz ohne Kirche
+============================
+
+- Ungenutzte (Sakral-)Gebäude
+  - Verkaufen oder abreißen?
+  - Umwidmen oder verfallen lassen
+  - Gibt es einen kulturellen wert der Gebäude, den die Gesellschaft zum Erhalt verpflichtet?
+  - Blick in den Buddhismus: warum Klöster verfallen, aber niemals abgerissen werden (Thema: Karma und Opferverständniss)
+- Spirituelle Autorität(sverlust)
+- Konfessionelle durchlässigkeit der gesellschaft
+- Rollenverteilung (Konsumenten und Entertainer).
+- Feeling Good-Movie. Sehnsucht nach …
+  - Sinn
+  - Zugehörigkeit
+  - Gerechtigkeit
+  - Glück / Erfüllung / Bedeutung / Geborgenheit
+- Überforderung mit therapeutischen Erwartungen
+- Quallitätssigel:
+  - Prävention von Machtmissbrauch, Sexueller Gewalt und Spirituellen Missbrauch.
+- Frage nach "Kompetenz-Hierarchie": Was macht jemanden zu einer spirituellen Kompetenz/Autorität?
+- Gemeinde / Mitgliedschaft
+  - Pflichten und Rechte
+  - Sanktionsmöglichkeiten von Konfessionen
+  - Maketing- / Werbe-gemeinschaft?
+- Sind lockere überkonfessionelle Netzwerke vielleicht eine Alternative zu starren, in sich geschlossenen Gemeinschaften?
+  - Was ist mit Verantwortung?
+  - Geborgenheit/Seelsorge?
+  - Verbindlichkeit?
+  - Identifikation?
+  - Solidarität?
+  - Vermittlung von Glaubensinhalten und Traditionen?
+- Bilder aus der Bibel, die immer noch weiterleben und gekannt werden (Lagerfeuergeschichten):
+  - Arche Noah / Sintflut
+  - Auszug aus Ägypten / Befreiung
+  - Der barmherzige Samariter
+  - Der Splitter im Auge des anderen.
+  - Sodom und Gomorra / (Hure) Babylon
+  - Verlorener Sohn
+  - Sündenfall / Erbsünde
+  - Die bauern in den Weinbergen
+  - David und Goliath
+  - Salomonisches Urteil
+  - Werfe den ersten Stein
+  - Wer anderen eine Grube gräbt
