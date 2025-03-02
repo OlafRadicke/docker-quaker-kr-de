@@ -11,6 +11,7 @@ toc: true
 
 # STEINBRUCH
 
+*
 * Ist Gott unbeugsam (Kampf und Verhandlung mit Gott)
 * Wie wichtig ist die Bibel im Quäkertum
 * Appologie
