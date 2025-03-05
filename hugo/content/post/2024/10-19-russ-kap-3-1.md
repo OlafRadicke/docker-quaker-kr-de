@@ -2,10 +2,10 @@
 draft: false
 title: "Andacht und Teetrinken am 19.10.2024"
 date: "2024-10-14"
-categories:
+# categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Bibel"
   - "Mark Russ"
   - "Theologie"

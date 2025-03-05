@@ -2,10 +2,10 @@
 draft: false
 title: "Andacht und Teetrinken am 5.10.2024"
 date: "2024-10-02"
-categories:
+# categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Mark Russ"
 lead: "Why Only One Story? Teil Zei"
 toc: true

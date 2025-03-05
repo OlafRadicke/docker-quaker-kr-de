@@ -1,10 +1,9 @@
 ---
 title: "Andacht und Teetrinken am 15.06.2024"
 date: "2024-06-13"
-categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Zeugnisse"
   - "Pazifismus"
 

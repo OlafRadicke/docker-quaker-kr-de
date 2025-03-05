@@ -2,10 +2,10 @@
 draft: false
 title: "Quäkerandacht und Teetrinken am 10.8.2024"
 date: "2024-07-24"
-categories:
+# categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Heiraten"
   - "Ehe"
 

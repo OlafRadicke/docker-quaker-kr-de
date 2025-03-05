@@ -2,17 +2,17 @@
 title: "Nächste Quäker-Andacht 6.4.2024"
 date: "2024-04-03"
 categories:
+  - "Matthäus 05"
+  - "Matthäus 10"
+  - "Matthäus 23"
+  - "Markus 09"
+  - "Lukas 12"
+  - "Jakobus 03"
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Hölle"
   - "Bibel"
-  - "Bibel Matthäus 5"
-  - "Bibel Matthäus 10"
-  - "Bibel Matthäus 23"
-  - "Bibel Markus 9"
-  - "Bibel Lukas 12"
-  - "Bibel Jakobus 3"
 
 # lead: "Thema der Tee-Runde am 15.06.2024"
 toc: true

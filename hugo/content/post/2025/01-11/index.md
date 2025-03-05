@@ -3,10 +3,10 @@ draft: false
 title: "Andacht und Teetrinken am 11.01.2025"
 date: "2025-01-04"
 categories:
+  - "1.Mose 32"
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
-  - "Bibel 1.Mose 32"
   - "Demut"
   - "Einführung in das Quäkertum"
   - "Zeitgeist"

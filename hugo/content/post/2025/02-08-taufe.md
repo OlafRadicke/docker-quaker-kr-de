@@ -1,11 +1,31 @@
 ---
 draft: false
-title: "Andacht und Teetrinken am 8.02.2025"
+title: "Andacht und Teetrinken am 08.02.2025"
 date: "2025-02-03"
 categories:
+  - 1.Korinther 01
+  - 1.Petrus 03
+  - Apostelgeschichte 01
+  - Apostelgeschichte 02
+  - Apostelgeschichte 08
+  - Apostelgeschichte 09
+  - Apostelgeschichte 10
+  - Apostelgeschichte 11
+  - Apostelgeschichte 16
+  - Apostelgeschichte 18
+  - Apostelgeschichte 19
+  - Galater 03
+  - Hebräer 09
+  - Kolosser 02
+  - Johannes 04
+  - Matthäus 03
+  - Matthäus 15
+  - Matthäus 28
+  - "Markus 08"
+  - Titus 03
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Taufe"
   - "Kindertaufe"
   - "Robert Barclay"
@@ -13,8 +33,7 @@ tags:
   - "Geschichte"
   - "Apologie"
   - "Sakrament"
-  - "Bibel Apostelgeschichte"
-lead: "Andacht und Teetrinken am 8.02.2025"
+lead: "Andacht und Teetrinken am 08.02.2025"
 toc: true
 ---
 

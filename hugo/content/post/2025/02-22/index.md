@@ -2,10 +2,12 @@
 draft: false
 title: "Andacht und Teetrinken am 22.02.2025"
 date: "2025-02-19"
-categories:
+# categories:
+#   - "tea time"
+#   - "meeing for worship"
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Toleranz"
   - "Karl Popper"
   - "Demo"

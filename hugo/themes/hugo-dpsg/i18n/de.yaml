@@ -47,7 +47,7 @@
 
 # Categories widget
 - id: categories_title
-  translation: "Kategorien"
+  translation: "Bibelverweise"
 
 # Recent Posts widget
 - id: recent_title

@@ -3,9 +3,9 @@ draft: false
 title: "Andacht und Teetrinken am 21.9.2024"
 date: "2024-09-17"
 categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Bibel"
   - "Mark Russ"
   - "Theologie"

@@ -2,10 +2,10 @@
 draft: false
 title: "Andacht und Teetrinken am 2.11.2024 (UPDATE)"
 date: "2024-10-29"
-categories:
+# categories:
+tags:
   - "tea time"
   - "meeing for worship"
-tags:
   - "Bibel"
   - "Mark Russ"
   - "Theologie"
