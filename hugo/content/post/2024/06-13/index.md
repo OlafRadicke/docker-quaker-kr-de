@@ -4,7 +4,7 @@ date: "2024-06-13"
 tags:
   - "tea time"
   - "meeing for worship"
-  - "Zeugnisse"
+  - "Zeugnis"
   - "Pazifismus"
 
 # lead: "Thema der Tee-Runde am 15.06.2024"
