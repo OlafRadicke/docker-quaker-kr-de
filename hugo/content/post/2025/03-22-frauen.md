@@ -34,7 +34,6 @@ toc: true
 FRAUEN IM QUÄKERTUM
 ===================
 
-
 Hallo liebe Freunde und Freunde der Freunde!
 
 Kommenden Samstag, den 22.03.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
@@ -48,18 +47,18 @@ Hinweise und Empfehlung
 
 Vor nicht zur langer Zeit hat der Youtube-Kanal *Quake it Up* die Episode [My Top 5 Influential Quaker Women](https://youtu.be/YwTeto2vurw?si=KcZ7tSzMFZyx9atO) gemacht. Vielleicht auch ganz interessant aber auf Englisch.
 
-Dann möchte ich noch auf das Buch *"Quäker aus Politik, Wissenschaft und Kunst"*, von Claus Bernet, 2008, Verlag Traugott Bautz hinweisen. Das Buch ist in Deutsch und beschreibt Deutsche Quäker-Biographen vor allem aus der jüngeren Geschichte. Unter 55 Personen sind 21 Frauen. Bestellbar (u.a.) beim [Anderen Buchladen - Krefeld](https://www.genialokal.de/Produkt/Claus-Bernet/Quaeker-aus-Politik-Wissenschaft-und-Kunst_lid_28629823.html?_gl=1*18wuzq7*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIoRJ8KBFJOa0PIFbXWih10CN_HKCT5tA7MhXSLtpbSPrkoxwxGIR_waAhgKEALw_wcB&storeID=andbhkre)
+Dann möchte ich noch auf das Buch *"Quäker aus Politik, Wissenschaft und Kunst"*, von Claus Bernet, 2008, Verlag Traugott Bautz hinweisen. Das Buch ist in Deutsch und beschreibt Deutsche Quäker-Biographen vor allem aus der jüngeren Geschichte. Unter 55 Personen sind 21 Frauen. Bestellbar (u.a.) beim dem [Anderen Buchladen - Krefeld](https://www.genialokal.de/Produkt/Claus-Bernet/Quaeker-aus-Politik-Wissenschaft-und-Kunst_lid_28629823.html?_gl=1*18wuzq7*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIoRJ8KBFJOa0PIFbXWih10CN_HKCT5tA7MhXSLtpbSPrkoxwxGIR_waAhgKEALw_wcB&storeID=andbhkre)
 
 
-Ich habe mal geschaut was ich an Quäkerinen in Wikipedia finde. [Es gibt aktuell (17.3.2025) 127 Artikel in Wikipedia über Personen mit Quäker-Bezug](https://de.wikipedia.org/wiki/Kategorie:Qu%C3%A4ker). Davon sind immerhin 42 Frauen. Ich habe versucht die Biographien thematisch zu gruppieren, chronologisch zu sortieren und die wichtigsten Eckdaten der Frauen wieder zu geben. Alle Wikipedia-Artikel sind verlinkt, so das jeder selber noch mal in die Tiefe gehen kann.
+In blick in Wikipedia
+---------------------
 
-Frühe Freundinnen (Quäkerin)
-----------------------------
+Ich habe mal geschaut was ich an Quäkerinnen in Wikipedia finde. [Es gibt aktuell (17.3.2025) 127 Artikel in Wikipedia über Personen mit Quäker-Bezug](https://de.wikipedia.org/wiki/Kategorie:Qu%C3%A4ker). Davon sind immerhin 42 Frauen. Ich habe versucht die Biographien thematisch zu gruppieren, chronologisch zu sortieren und die wichtigsten Eckdaten der Frauen wieder zu geben. Alle Wikipedia-Artikel sind verlinkt, so das jeder selber noch mal in die Tiefe gehen kann.
 
-In den ersten Jahrhunderten waren Mischehen zwischen verschiedenen Konfessionen bei Quäkern nicht gestattet. Es war aber (vorallem in Pennsylvania) statistisch auffällig, das mehr Nicht-Quäker-Frauen Quäker-Männer heirateten (und konvertierten), als das Quäker-Frauen Nicht-Quäker-Männer heiratet. Der Grund war vermutlich der gleiche, wie bei den Mennoniten: Gewalt war generell nicht erlaubt und das galt auch der Frau und den Kindern gegenüber. Kam es in der Glaubensgemeinschaft zu Disziplinarverfahren, so verhörten ausschließlich Frauen Frauen und Männer Männer[^foot-001].
+Frühe Anfänge
+-------------
 
-
-Frauen spielten vom ersten Tag an bei den Quäkern eine wichtige Rollte. Und nicht nur im Hintergrund sondern auch in exponierten Positionen. Die Mitglieder der so genannten ***[Valiant Sixty](https://de.wikipedia.org/wiki/Geschichte_des_Qu%C3%A4kertums)*** verbreiteten als Erste die Ideen des Quäkertums. Dabei bereisten sie nicht nur England, sondern auch den Rest Großbritanniens, Europa und Nordamerika. Eine von ihnen, **Mary Fisher**, reiste bis in die Türkei um dem selbst Sultan zu bekehren. Sie war nicht die einzige Frau. 11 von 67 namentlich benannten [Valiant Sixty](https://en.wikipedia.org/wiki/Valiant_Sixty) waren Frauen. Das war für die Damalige Zeit (17. Jahrhundert) äusserst ungewöhnlich! Hier ist die Liste der Frauen:
+Frauen spielten vom ersten Tag an bei den Quäkern eine wichtige Rollte. Und nicht nur im Hintergrund sondern auch in exponierten Positionen. Die Mitglieder der so genannten ***[Valiant Sixty](https://de.wikipedia.org/wiki/Geschichte_des_Qu%C3%A4kertums)*** verbreiteten als Erste die Ideen des Quäkertums. Dabei bereisten sie nicht nur England, sondern auch den Rest Großbritanniens, Europa und Nordamerika. Eine von ihnen, **Mary Fisher**, reiste bis in die Türkei um dem Sultan selbst zu bekehren. Sie war nicht die einzige Frau unter den Valiant Sixty. 11 von 67 namentlich benannten [Valiant Sixty](https://en.wikipedia.org/wiki/Valiant_Sixty) waren Frauen. Das war für die Damalige Zeit (17. Jahrhundert) äusserst ungewöhnlich! Hier sind die Namen der Frauen:
 
 - [Anne Audland](https://en.wikipedia.org/wiki/Anne_Camm)
 - Dorothy Bensen
@@ -73,9 +72,18 @@ Frauen spielten vom ersten Tag an bei den Quäkern eine wichtige Rollte. Und nic
 - Dorothy Waugh
 - Jane Waugh
 
-Darüberhinaus finden sich weitere Frauen auf den frühen Jahren des Quäkertums in Wikiepedia:
+Als sich die Quäker in lokalen Gruppen (Monatsversammlungen) und überregional (Jahresversammlungen) zu organisieren begannen, tagten die Mitglieder in den Geschäftsversammlungen getrennt nach Geschlecht. Der Grund dafür war, dass verhindert werden sollte, dass Frauen zögerten, das Wort zu ergreifen, aus Angst, ihren Männern zu widersprechen. In der Überzeugung der Quäker kann Gott durch jeden Menschen sprechen – unabhängig davon, ob es sich um Männer, Frauen oder Kinder handelt. Diese Trennung wurde über einen längeren Zeitraum beibehalten. In sehr alten Quäker-Versammlungshäusern findet man daher teilweise noch flexible Trennwände oder separate Räume, die diesem Zweck dienten.
 
-[Mary Barrett Dyer](https://de.wikipedia.org/wiki/Mary_Dyer) (* um 1611 in London; † 1. Juni 1660 in Boston) war **eine Quäkerin, die in Boston (Massachusetts) gehängt wurde**, weil sie die Stadt wiederholt betreten hatte, obwohl die Quäker aus ihr verbannt waren. Heute erinnert eine Statue vor dem Massachusetts State House in Boston an Mary Dyer.
+In den ersten Jahrhunderten waren Mischehen zwischen Quäkern und Angehörigen anderer Konfessionen (mit wenigen Ausnahmen) nicht gestattet. Auffällig war jedoch – besonders in Pennsylvania –, dass mehr Nicht-Quäkerinnen Quäker-Männer heirateten (und konvertierten), als dass Quäkerinnen Nicht-Quäker-Männer heirateten. Der Grund dafür war vermutlich ähnlich wie bei den Mennoniten: Gewalt war generell nicht erlaubt, und dies galt auch gegenüber Frauen und Kindern. Kam es innerhalb der Glaubensgemeinschaft zu Disziplinarverfahren, verhörten ausschließlich Frauen Frauen und Männer Männer. auch wenn die abschließenden Urteile jedoch von Männern verkündet wurden[^foot-001].
+
+
+Über dir Valiant Sixty hinaus finden sich weitere Frauen aus den frühen Jahren des Quäkertums in Wikiepedia...
+
+Frühe Freundinnen (Quäkerin)
+----------------------------
+
+
+[Mary Barrett Dyer](https://de.wikipedia.org/wiki/Mary_Dyer) (* um 1611 in London; † 1. Juni 1660 in Boston) war **eine Quäkerin, die in Boston (Massachusetts) gehängt wurde**, weil sie die Stadt wiederholt betreten hatte, obwohl die Quäker aus ihr verbannt waren. Heute erinnert eine Statue vor dem Massachusetts State House in Boston an Mary Dyer. **Sie gilt als die letzte religiöse Märtyrerin Nordamerikas und die erste Märtyrerin des Quäkertums.**
 
 [Hannah Callowhill Penn](https://de.wikipedia.org/wiki/Hannah_Callowhill_Penn) (* 11. Februar 1671; † 1727) war die zweite Ehefrau des Quäkers William Penn. Sie **verwaltete sechs Jahre lang die Provinz Pennsylvania, nachdem ihr Gatte drei Schlaganfälle erlitten hatte und weitere acht Jahre nach dem Tod ihres Mannes.** Sie ist die erste Frau, die Ehrenbürgerin der Vereinigten Staaten von Amerika wurde. Die Ehrenbürgerwürde wurde ihr am 28. November 1984 durch eine Bekanntmachung des Präsidenten gemäß einem Bundesgesetz (PL.98-516) vom damaligen Präsidenten Ronald Reagan posthum verliehen.
 
@@ -87,7 +95,6 @@ Widerstandskämpferin
 --------------------
 
 [Luise Wilhelmine Elisabeth Abegg](https://de.wikipedia.org/wiki/Elisabeth_Abegg) (geboren 3. März 1882 in Straßburg, Deutsches Reich; gestorben 8. August 1974 in West-Berlin) war eine deutsche Pädagogin und Widerstandskämpferin gegen den Nationalsozialismus. An der Kaiser-Wilhelms-Universität Straßburg **studierte sie – als eine der ersten Frauen in Deutschland überhaupt** – ab 1912 Geschichtswissenschaft, Klassische Philologie und Romanistik. 1933 wehrte sich Elisabeth Abegg mit anderen Lehrerinnen und älteren Schülerinnen gegen die nationalsozialistischen Eingriffe am Luisen-Oberlyzeum und die Diskriminierung jüdischer Schülerinnen. 1935 wurde sie wegen der Verweigerung des Führereids als „politisch unzuverlässig“ eingestuft und ans Rückert-Gymnasium in Berlin-Schöneberg strafversetzt. Wegen kriegskritischer und völkerverständigender Bemerkungen im Unterricht denunziert, wurde die Lehrerin 1941 zwangsweise in den Ruhestand versetzt. Etwa zu dieser Zeit trat sie nach einigen Jahren des Mitwirkens in der Religionsgemeinschaft den Quäkern bei. Späteren nahmen sie und ihre behinderte Schwester Julie insgesamt zwölf Personen in der Tempelhofer Dreieinhalbzimmer-Wohnung auf, in der auch ihre Mutter lebte. Einige illegal lebende Kinder erhielten hier Schulunterricht. Für die Flucht von Jizchak Schwersenz in die Schweiz verkaufte Elisabeth Abegg ihren eigenen Schmuck. Aber auch politisch Verfolgten wie Ernst von Harnack boten beide Unterkunft, Verpflegung, Kleidung, Geld und gefälschte Papiere. **Zusammen unterstützten sie schätzungsweise 80 Menschen, von denen die meisten überlebten.**
-
 
 [Bertha Lilian Bracey](https://de.wikipedia.org/wiki/Bertha_Bracey) (* 1893 in Bourneville bei Birmingham; † 1989) war eine englische Lehrerin, Quäkerin, Organisatorin britischer Flüchtlingshilfeaktionen während der Nazi-Zeit und **Mitorganisatiorin der Kindertransporte nach England.**
 
