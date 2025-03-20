@@ -50,7 +50,11 @@ Vor nicht zur langer Zeit hat der Youtube-Kanal *Quake it Up* die Episode [My To
 Dann möchte ich noch auf das Buch *"Quäker aus Politik, Wissenschaft und Kunst"*, von Claus Bernet, 2008, Verlag Traugott Bautz hinweisen. Das Buch ist in Deutsch und beschreibt Deutsche Quäker-Biographen vor allem aus der jüngeren Geschichte. Unter 55 Personen sind 21 Frauen. Bestellbar (u.a.) beim dem [Anderen Buchladen - Krefeld](https://www.genialokal.de/Produkt/Claus-Bernet/Quaeker-aus-Politik-Wissenschaft-und-Kunst_lid_28629823.html?_gl=1*18wuzq7*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIoRJ8KBFJOa0PIFbXWih10CN_HKCT5tA7MhXSLtpbSPrkoxwxGIR_waAhgKEALw_wcB&storeID=andbhkre)
 
 
-In blick in Wikipedia
+
+
+
+
+In Blick in Wikipedia
 ---------------------
 
 Ich habe mal geschaut was ich an Quäkerinnen in Wikipedia finde. [Es gibt aktuell (17.3.2025) 127 Artikel in Wikipedia über Personen mit Quäker-Bezug](https://de.wikipedia.org/wiki/Kategorie:Qu%C3%A4ker). Davon sind immerhin 42 Frauen. Ich habe versucht die Biographien thematisch zu gruppieren, chronologisch zu sortieren und die wichtigsten Eckdaten der Frauen wieder zu geben. Alle Wikipedia-Artikel sind verlinkt, so das jeder selber noch mal in die Tiefe gehen kann.
@@ -75,6 +79,10 @@ Frauen spielten vom ersten Tag an bei den Quäkern eine wichtige Rollte. Und nic
 Als sich die Quäker in lokalen Gruppen (Monatsversammlungen) und überregional (Jahresversammlungen) zu organisieren begannen, tagten die Mitglieder in den Geschäftsversammlungen getrennt nach Geschlecht. Der Grund dafür war, dass verhindert werden sollte, dass Frauen zögerten, das Wort zu ergreifen, aus Angst, ihren Männern zu widersprechen. In der Überzeugung der Quäker kann Gott durch jeden Menschen sprechen – unabhängig davon, ob es sich um Männer, Frauen oder Kinder handelt. Diese Trennung wurde über einen längeren Zeitraum beibehalten. In sehr alten Quäker-Versammlungshäusern findet man daher teilweise noch flexible Trennwände oder separate Räume, die diesem Zweck dienten.
 
 In den ersten Jahrhunderten waren Mischehen zwischen Quäkern und Angehörigen anderer Konfessionen (mit wenigen Ausnahmen) nicht gestattet. Auffällig war jedoch – besonders in Pennsylvania –, dass mehr Nicht-Quäkerinnen Quäker-Männer heirateten (und konvertierten), als dass Quäkerinnen Nicht-Quäker-Männer heirateten. Der Grund dafür war vermutlich ähnlich wie bei den Mennoniten: Gewalt war generell nicht erlaubt, und dies galt auch gegenüber Frauen und Kindern. Kam es innerhalb der Glaubensgemeinschaft zu Disziplinarverfahren, verhörten ausschließlich Frauen Frauen und Männer Männer. auch wenn die abschließenden Urteile jedoch von Männern verkündet wurden[^foot-001].
+
+In dem Text "Ernster Ruf" von [Benjamin Holme](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Holme,_Benjamin) (1683–1749) wird die Sicht der Quäker zum Thema "Frauen" wie folgt erläutert:
+
+> Nun bringen einige wieder das Reden der Weibspersonen in der Gemeinde [^foot-002] vor, dass der Apostel sagte: 'Eure Weiber sollen in der Gemeinde schweigen, denn es ist ihnen nicht erlaubt zu reden, sondern geboten dass sie Untertan sein sollen, wie auch das Gesetz sagt.[...]' (1. Korinther 14:34+35) Allein wir nehmen dies keineswegs als ein Verbot an, wodurch den heiligen Weibern, die Gott zum Dienst seiner Kirche berufen, das Reden untersagt werde. Und ich denke, es würde sehr gefehlt sein, wenn man behaupten wollte, der Apostel habe den heiligen Weibern das Reden verboten, die Gott berufen hat, dass sie reden sollen.[^foot-003] Er war wider das Geschwätz der beschwerlichen und unordentlichen Weiber, die mit ihren unnützen Fragen die Gemeinde beunruhigten, und sich die Herrschaft über ihre Männer anmaßten, und wider solches sind wir auch. Hätte der Apostel Paulus sich dem Beten und Weissage heiliger Weibspersonen widersetzt, wo zu gab er denn eine Regel, wie sie sich beim Beten oder Weissagen betragen sollen? [^foot-004] [...]"
 
 
 Über dir Valiant Sixty hinaus finden sich weitere Frauen aus den frühen Jahren des Quäkertums in Wikiepedia...
@@ -183,6 +191,10 @@ Sonstige
 ---
 
 [^foot-001]: "Quäker und Recht", Udo Schemmel, 2021, LIT Verlag, ISBN 978-3-643-14862-9, Seite 82
+[^foot-002]: Damit war in erster Linie das Predigen gemeint.
+[^foot-003]: Mit "heiligen Weibern" waren in erster Linie die Prophetinnen aus der Bibel gemeint, weil der Autor davon ausging, dass die Bibel beim Leser eine hohe Autorität hat: Sara, die Frau Abrahams, Mirjam (Prophetin), die Schwester Moses und Aarons, Debora (Richterin), Hanna, die Mutter Samuels, Abigail, eine Frau Davids, Hulda und Ester.
+[^foot-004]: Hier nun wird 1.Korinther 11:5 zitiert: ***"Trägt dagegen eine Frau keine Kopfbedeckung, wenn sie im Gottesdienst betet oder im Auftrag Gottes prophetisch redet, dann entehrt sie sich selbst."*** Und Apostelgeschichte 2:17+18: ***"In den letzten Tagen, spricht Gott, will ich die Menschen mit meinem Geist erfüllen. Eure Söhne und Töchter werden aus göttlicher Eingebung reden, eure jungen Männer werden Visionen haben und die alten Männer bedeutungsvolle Träume. 18 Allen Männern und Frauen, die mir dienen, will ich in jenen Tagen meinen Geist geben, und sie werden in meinem Auftrag prophetisch reden."***.
+
 
 ---
 
