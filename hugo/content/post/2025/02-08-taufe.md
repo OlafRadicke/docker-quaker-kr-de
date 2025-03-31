@@ -33,7 +33,7 @@ tags:
   - "Geschichte"
   - "Apologie"
   - "Sakrament"
-lead: "Andacht und Teetrinken am 08.02.2025"
+lead: "Thema: Taufen Quäker?"
 toc: true
 ---
 

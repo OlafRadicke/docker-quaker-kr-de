@@ -13,7 +13,7 @@ tags:
   - "Glaubensgemeinschaft"
   - "Fehler"
   - "Benjamin Wood"
-lead: "Andacht und Teetrinken am 11.01.2025"
+lead: "Thema: Demut"
 toc: true
 ---
 
@@ -31,9 +31,6 @@ Die Küche ist jetzt mittlerweile (fast) fertig eingerichtet und sieht nun um ei
 | ![Neue Küche](IMG_20241228_153926.jpg) |
 |----------------------------------------|
 | <small>Die neu gestaltete Küche im 1. OG.</small>  |
-
-
-
 
 
 Kommende Themenreihe

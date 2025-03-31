@@ -14,7 +14,7 @@ tags:
   - "Politik"
   - "Demokratie"
   - "Extreme Rechte"
-lead: "Andacht und Teetrinken am 22.02.2025"
+lead: "Thema: Toleranz-Paradoxon"
 toc: false
 ---
 

@@ -28,7 +28,7 @@ tags:
    - Gewaltfreie Erlösung
    - Zeugnis
 
-lead: "Andacht und Teetrinken am 22.03.2025"
+lead: "Thema: Frauen im Quäkertum"
 toc: true
 ---
 
