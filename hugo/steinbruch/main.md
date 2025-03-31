@@ -11,7 +11,7 @@ toc: true
 
 # STEINBRUCH
 
-*
+* Bei der Fokusierung auf den Aktivismus nicht die "erotisierung des Alltags" vergessen. Das Problem der Entzeit-Erwartung und Erweckungs-Bewegung. Burnout. Steine Sameln hat seine Zeit...
 * Ist Gott unbeugsam (Kampf und Verhandlung mit Gott)
 * Wie wichtig ist die Bibel im Quäkertum
 * Appologie
