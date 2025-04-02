@@ -31,7 +31,7 @@ Kommenden Samstag, den 02.04.2025 um 17 Uhr, findet in der Königstraße 132 in 
 
 Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Diesmal geht es um einen aktuellen Vorfall vom 27. März 2025, bei dem über 20 uniformierte Polizisten, einige davon mit Tasern bewaffnet, gewaltsam in das [Versammlungshaus der Quäker in Westminster (London)](https://en.m.wikipedia.org/wiki/Westminster_Meeting_House) eindrangen. Dabei wurden sechs Frauen festgenommen, die an einer Zusammenkunft der Protestgruppe Youth Demand[^foot001] teilnahmen.“
+Diesmal geht es um einen aktuellen Vorfall vom 27. März 2025, bei dem über 20 uniformierte Polizisten, einige davon mit Tasern bewaffnet, gewaltsam in das [Versammlungshaus der Quäker in Westminster (London)](https://en.m.wikipedia.org/wiki/Westminster_Meeting_House) eindrangen. Dabei wurden sechs Frauen festgenommen, die an einer Zusammenkunft der Protestgruppe Youth Demand[^foot001] teilnahmen.
 
 
 Reaktionen
