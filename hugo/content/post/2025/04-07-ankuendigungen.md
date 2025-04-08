@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Ankündigungen / Vorschau auf dei nächsten Termine"
+title: "Ankündigungen / Vorschau auf die nächsten Termine"
 date: "2025-04-06"
 # categories:
 #    - 1.Mose 19
@@ -8,7 +8,7 @@ tags:
    - "tea time"
    - "meeing for worship"
 
-lead: "Vorschau auf dei nächsten Termine"
+lead: "Vorschau auf die nächsten Termine"
 toc: true
 ---
 
