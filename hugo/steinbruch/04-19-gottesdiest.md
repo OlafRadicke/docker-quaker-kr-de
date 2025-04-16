@@ -41,7 +41,9 @@ https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Gottesdiens
 ROBERT BARCLAY
 --------------
 
-Die Argumente:
+### Die Argumente
+
+### Intro
 
 Der Gottesdienst muss aus einer inneren Bewegung herraus erfolgen.
 
@@ -51,6 +53,9 @@ Alles andere ist Aberglaube.
 
 > Aller anderer Gottesdienst, er geschehe mit Lobgesängen, Gebet oder Predigen, die der Mensch nach eigenem Willen und Gefallen, und nach seiner eigenen Bestimmung verrichtet, und nach Belieben anfangen und schließen, tun oder lassen kan, wie er es selbst vor gut ansieht: Es mögen dieselben in einer vorgeschriebenen Formel, als das gemeine Kirchengebet, oder in solchen Gebeten bestehen, die durch das natürliche Vermögen und Wirken des Gemüts sofort aus dem Kopf hervor gebracht werden;[^foot-001] aller solcher Gottesdienst, und alle solche Ausbrüche des eigenen Wirkens, sind weiter nichts als bloßer Aberglauben, selbsterwählter Gottesdienste eigenwillige Verehrung und Abgötterei in den Augen Gottes, [...]
 
+
+#### Paragraph 1
+
 Menschen fällt es leichter Abbitte mit Opfern zu tun, und aufwändige Gottesdienste als  Ersatzahndungen zu vollziehen, als nach Gottes Gebot zu leben. Sie glauben Gott so betrügen zu können, wie sie Menschen Metrügen.
 
 > Und gleich<!-- Seite 479 --> wie Gehorsam besser ist, als Opfer; deshalb ist auch kein Opfer angenehm, als ein solches, das nach dem Willen dessen, dem es dargebracht wird, geschieht. Weil es aber den Menschen viel leichter ankömmet, nach ihrem Eigenwillen zu opfern, als Gottes Willen zu gehorchen, so haben sie Opfer ohne Gehorsam gehäuft. Und da sie Gott zu betrügen vermeinen, wie sie es einander selbst machen, [...]
@@ -58,6 +63,8 @@ Menschen fällt es leichter Abbitte mit Opfern zu tun, und aufwändige Gottesdie
 Quäker war schon klar, das hr Gottesdienst für andere sehr sonderbar ist.
 
 > Da ich denn durch den Beistand Gottes klar dazutun hoffe, daß, obschon unsere Redensart und Lehre ganz sonderbar und von allen andern Arten der Christen unterschieden zu sein scheint, solche dennoch mit der reinsten Christlichen Religion am genauesten überein kommt, und gewiss höchst nötig ist, und allerdings verdient, in Betrachtung gezogen, und des Beifalls gewürdigt zu werden.
+
+#### Paragraph 3
 
 Auch wenn Quäkern der Ort, der Tag und die Stunde egal ist, wann man sich trifft, ist es nicht so, das sie den Gottesdienst für überflüssig halten. Sondern er dient zur Erbauung und um sich als Gemeinschaft öffentlich sichtbar zu machen.
 
@@ -131,6 +138,114 @@ gelernte Predigt abgelegt, oder geendet hat, sagt
 er das Gebet auch aus seinem eigenen Willen her,
 und hiermit hat das heilige Werk ein Ende.
 
+#### Paragraph 4
+
+Quäker sehen nicht, das es ein zwingendes Gebot gibt, das der gottesdienst an einem ganz bestimmten tag in der Woche statt zu finden habe. Aber man sieht sehr wohl ein Sinn darin, das Menschen von der Arbeit freigestellt werden, damit sie sich ausruhen und geistigen Dingen witmen können. Besonders bei Lohnabhängiger Arbeit.
+
+> Zweitens ist es dienlich, daß sie zuweilen von
+ihren andern äußerlichen Geschäften frei sein. Drittens
+erlaubt die Vernunft und Billigkeit, daß Gesinde
+und Tieren (oder Menschen und Vieh) eine
+Zeit eingeräumt werde, da sie von ihrer beständigen
+Arbeit Erleichterung bekommen. <!-- Seite 486 -->
+[...] Also finden wir uns
+aus diesen Ursachen sattsam bewegt, solches zu tun,
+ohne daß wir erst nötig haben, auf eine abergläubische
+Weise eine andere Ursache aus der Schrift zu
+erzwingen. [...] Daher, ob mir schon
+an diesem Tag zusammen kommen, und alle Arbeit
+unterlassen, so hindert uns doch solches keineswegs,
+daß wir auch nicht zu andern Zeiten des Gottesdiensts
+halber Zusammenkünfte haben sollen.
+
+
+#### Paragraph 5
+
+Die Quäker erkennen, das einige der Katholiken und Protestanten eine Zugang und Erkenntnis von Gott hatten, aber das es die Form der Gottesdienste deswegen nicht besser macht. Sprich sie hatten den Zugang zu Gott trotz der Messen und nicht wegen der Messen.
+
+<!-- Seite 487 -->
+
+> Ich glaube, daß die katholische
+Messe und die Vespern, was das Wesen selbst anlangt,
+eine abscheuliche Abgötterei und Aberglauben
+sei. Und dieses glauben die Protestanten auch.
+Jedoch will ich keineswegs behaupten, und sie werden
+es eben so wenig zu bekräftigen suchen, daß in
+der Finsternis des Katholizismus kein aufrichtiggesinnter
+Mensch, ob er sich schon in solchen Gräueln eifrig
+erwiesen, vou Gott erhört und angenommen worden
+sei. Wer kan leugnen, daß so wohl Bernard
+und Bonaventura, als auch Taulerus, Thomas
+Kempis und viele andere von der Liebe Gottes gewusst
+und gezeugt, und die Kraft und Tugend des
+Geistes Gottes, die in ihnen zur Seligkeit gewirkt,
+gefühlt und empfunden haben? Sollten wir aber deswegen
+nicht diejenigen abergläubischen Alfanssereien,
+die sie noch mit gemacht, verwerfen?
+
+
+<!-- Seite 488 -->
+
+> Unterdessen wollen die Presbyterianer
+keineswegs, daß man daher schließen soll, als
+ob die allgemeine Gebete immer noch verbleiben
+müssten. Also ist auch unsere Meinung. Ob wir
+schon bekennen, das sich, so wohl unter den Katholiken
+als Protestanten, durch die Barmherzigkeit, Langmut,
+und Nachsicht Gottes, viele aufrichtige Herzen
+gefunden; so können wir doch deswegen ihre Weise
+überhaupt nicht billigen oder Anstand nehmen, den
+geistlichen Gottesdienst wieder aufzurichten und zu
+erhalten, zu welchem der Herr jetzt alle beruft,
+und deshalb wider dasjenige zeugen, was solchem im
+Wege steht.
+
+#### Paragraph 6
+
+<!-- Seite 488 -->
+
+Die Versammlung dienen der Erbauung und die Gegenwart Gottes zu spüren. Es geht nicht darum grosse intellektuelle Leistungen zu erbringen sondern die Bewegungen und Eingebungen des Geistes Gottes zu empfangen und ihr Ausfluss verspürt. Hieraus entspringen Worte der Erklärung, des Gebet oder Lob.
+
+> Und wenn sie (die Gläubigen) deshalb
+versammelt sind, so soll das Hauptwerk sein, daß
+ein jeder auf Gott harre, und sich aller eigenen Gedanken
+und Einbildungen entschlage, und von sich selbst
+auskehre, des Herrn Gegenwart zu empfinden, und
+eine Versammlung in seinem Namen in der Tat
+innen zu werden, wo er, seiner Verheissung nach,
+mitten unter ihnen ist. Und wo ein jeglicher deshalb
+versammelt ist, und sie dergestalt innerlich in ihrem
+Geiste, so wohl als äusserlich dem Leibe nach, zusammen
+kommen, da wird die verborgene Macht und
+Kraft des Lebens erkannt, die Seele zu erquicken;
+und die reinen Bewegungen und Eingebungen des<!-- Seite 489 -->
+Geistes Gottes werden empfunden und ihr Ausfluss
+verspürt. Gleichwie nun hieraus Worte der Erklärung,
+Gebet oder Lob entspringen, und hervorkommen;
+deshalb wird der angenehme Gottesdienst, der die
+Gemeine erbaut, und Gott wohlgefällig ist, erkannt.
+Hier setzt niemand dem Geist Gottes gewisse
+Grenzen und Schranken, oder bringt sein eigenes
+erdichtetes und zusammengestoppeltes Zeug herfür;
+sondern ein jeder spricht dasjenige aus, was ihm
+der Herr ins Herz gebietet, nicht nach des Menschen
+Willen und Weisheit, sondern in der Gewissheit
+und Beweisführung des Geistes und der Kraft.
+
+Doch auch Andachten in den nicht gesprochen wurde, können segensreich empfunden werden. Denn auch ohne Worte kann Kraft und Ermunterung weitergetragen werden.
+
+> Ja, es hat sich wohl zugetragen,
+und geschieht auch öfters unter uns, daß unterschiedene
+Zusammenkünfte hingegangen, ehe ein einziges
+Wort vorgebracht worden; und dennoch sind
+unsere Seelen höchst erbaut und erfrischt, und unsere
+Herzen mit der geheimen Empfindung der Kraft
+und des Geistes Gottes, so sich ohne Worte von einem
+Gefäß auf das andere ausgebreitet und mitgeteilt,
+auf eine wunderbare Weise erfüllt worden.
+
+
+#### Paragraph 7
 
 
 ---
