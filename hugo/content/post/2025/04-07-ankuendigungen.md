@@ -7,7 +7,7 @@ date: "2025-04-06"
 tags:
    - "tea time"
    - "meeing for worship"
-   - Geschickte
+   - Geschichte
    - ACK
    - Ökomene
    - USA

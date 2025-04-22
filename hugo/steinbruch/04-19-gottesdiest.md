@@ -7,6 +7,7 @@ date: "2025-04-02"
 tags:
    - "tea time"
    - "meeing for worship"
+   - Kommunion
 
 
 lead: "02.04.2025: Warum die Quäker auf Liturgie verzichten"
@@ -247,6 +248,80 @@ auf eine wunderbare Weise erfüllt worden.
 
 #### Paragraph 7
 
+
+Die Haltung die man in den Gottesdienst mitbringt, ist entscheiden dafür für die Erfahrung die man machen wird. Das kann nicht durch eine, noch so gelungene, Predigt allein bewirkt werden. Diese nötige innere Haltung ist gekennzeichnet dadurch, das man sich selbst nicht mehr so wichtig nimmt und sich wirklich zum Forscher und Empfänger macht.
+
+
+> Gleichwie dem natürlichen Willen und der<!-- Seite 490 -->
+Weisheit des Menschen nichts so sehr entgegen
+sein kan, als dieses stille Harren auf Gott;
+deshalb kann es auch von dem Menschen weder erhalten,
+noch recht begriffen werden, als in so ferne er seine eigene
+Weisheit und seinen Eigenwillen niederlegt, und
+zufrieden ist, Gott völlig unterworfen zu sein. Und
+deshalb kann es von niemand gepredigt, erlangt
+oder geleistet werden, als von solchen, welche keine
+äußerliche Zeremonie, keine Beobachtung, und keine
+Worte, ja, nicht die besten und reinsten Worte, auch
+nicht einmal die Worte der Schrift, ihre mühseligen
+und beladenen Seelen zufrieden zu stellen, vermögend
+sind.
+
+Wenn man äusserlich zur Ruhe gekommen ist, und diesen inneren "***Samen des Lebens***" spürt und daraus bewegt wird, ist es der richtige zeitpunkt zu beten, zu predigen oder zu singen.
+
+> [...] in dem von Gott <!-- Seite 490 -->
+empfangenen Maß des Lebens und der Gnade auf
+ihn zu harren, und von ihren eigenen, vorwitzigen und
+unbesonnenen Worten und Werken, in dem natürlichen
+Willen und Begriff, abzulassen, und diesen innerlichen
+Samen des Lebens zu fühlen und zu empfinden.
+Und nachden sich solcher bewegt, darnach mögen
+auch sie sich mit bewegen, und durch dessen Macht und
+Einfluss befiehlt und entweder zum Gebet oder zum
+Predigen oder Singen angetrieben werden.
+
+Aber auch ohne Worte und in völliger Stille, entsteht Verbundenheit und eine Stärkung des Einzelnen.
+
+> Die Gestalt dieser <!-- Seite 492 -->
+Verehrung ist so nackend und von allem äußerlichen und
+weltlichen Glanz entblösst, daß alle Gelegenheit
+genommen wird, wodurch die menschliche Weisheit sich
+darinnen üben, oder der Aberglaube und die Abgötterei
+einigen Raum und Platz haben könnte. Da deshalb
+auch eine innerliche Ruhe und Einkehrung des Gemüts
+in sich selbst ist, so  steht der Zeuge Gottes
+in dem Herzen auf, und das Licht Christi erscheint,
+wodurch die Seele ihren wahren Zustand erkennen lernt.
+Da nun viele in diesem einem Werk mit einander
+vereinigt sind, so entsteht eine innerliche Arbeit
+und Ringen; und nachdem man in dem Maß
+der Gnaden bleibt, auch eine Überwindung der
+Macht und des Geistes der Finsternis. Solcher Gestalt
+werden wir in dem Geist unseres Gemütes öfters
+ohne ein Wort sehr gestärkt und erneuert;
+
+Die Kommunion erfolgt im Geiste und nicht in Gesten, Gegenständen, Redeformeln, Liturgie oder Zeremonien.
+
+> und wir geniessen und besitzen die heilige Mitteilung<!-- Seite 493 -->
+und Gemeinschaft des Leibes und Blutes [^foot11-07-05]
+Christi, durch welche unser innerlicher Mensch ernährt
+und gespeist wird. Welches macht, daß wir
+nicht auf das äusserliche Wasser, noch auf das äusserliche
+Brot und Wein, bei unserer geistlichen
+Genuss sehen.
+
+Das Äusserlich muss und wird sich aus dem entwickeln, was innerlich bei den Versammelten passiert.
+
+> Soviel nun solcher Gestalt mit einander <!-- Seite 493 -->
+versammelt sind, die wachsen in der Stärke,
+Kraft und Tugend der Wahrheit auf; und wenn die
+Wahrheit dergestalt den Sieg und die Herrschaft in
+ihren Seelen erlangt, alsdenn überkommen sie Vermögen,
+vieles zu Erbauung der Brüder auszusprechen,
+und standhaft zu reden, und das reine Leben hat einen
+freien Durchgang bei ihnen: Und was deshalb gesprochen
+wird, erbaut den Leib wirklich und in der
+Tat.
 
 ---
 

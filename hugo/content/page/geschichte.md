@@ -16,7 +16,7 @@ Eine der bedeutendsten Kooperationen der beiden Gruppen entstand in Krefeld. Der
 
 Leseempfehlung:
 
-* [Wikipedia: Krefeld/Geschickte](https://de.wikipedia.org/wiki/Krefeld#Qu%C3%A4ker)
+* [Wikipedia: Krefeld/Geschichte](https://de.wikipedia.org/wiki/Krefeld#Qu%C3%A4ker)
 * [Wikipedia: Anti-Sklaverei-Petition von Quäkern in Germantown 1688](https://de.wikipedia.org/wiki/Anti-Sklaverei-Petition_von_Qu%C3%A4kern_in_Germantown_1688)
 * [Wikipedia: Franz Daniel Pastorius](https://de.wikipedia.org/wiki/Franz_Daniel_Pastorius)
 
