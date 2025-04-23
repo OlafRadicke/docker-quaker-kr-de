@@ -331,6 +331,116 @@ freien Durchgang bei ihnen: Und was deshalb gesprochen
 wird, erbaut den Leib wirklich und in der
 Tat.
 
+Auch wenn Jemand später zur Andacht hinzukommt und noch zunächst von seinen Weltlichengedanken erfüllt ist schnell durch die den Geist der gesammelten Gemeinschaft angesteckt wird und selber schnell zur Ruhekommt und empfänglich wird für das innere Licht.
+
+> So groß ist die klare Gewissheit dieser göttlichen<!-- Seite 493 -->
+Kraft, die durch dergleichen Zusammenkünfte,
+und durch dieses stille harren auf Gott mitgeteilt
+wird, daß bisweilen einer hinein gekommen, der
+unwachsam gewesen, und mit seinem Gemüt herum
+gewandert, oder der jähling von der Eilfertigkeit der
+äußerlichen Geschäfte dahin gekommen, und deshalb nicht
+innerlich mit den übrigen gesammelt gewesen; da denn
+diese Kraft, die bei der ganzen Versammlung in guter
+Masse erweckt worden, so bald als er in sich selbst
+einkehrt, seinen Geist plötzlich ergreifen, und wunderbar
+behilflich, sein wird, das Gute in ihm zu
+erwecken, und ihn zur Zerschmelzen und Erwärmung
+seines Herzens, in die Empfindung eben derselben
+Kraft zu erzeugen. Eben als wie die Warme einen
+Menschen zu ergreifen pflegt, der erfroren ist, und
+in eine warme Stube hinein kommt.
+
+Und machmal ist es umgekehrt. Eine Gruppe ist zur Andacht versammelt und äußerlich ruhig aber die innere Konzentration stellt sich nicht ein, dann kann es passieren, das eine einzelne Person, die erst später hinzukommt, eine solche Energie und Konzentration mit in den Raum bringt, das er die gesamte Gruppe damit ansteckt und dann alle ihre Gedanken zur Ruhe zwingen können.
+
+> Ja wenn es sich zutragt, daß unterschiedene zusammen
+kommen, die in ihren Gemütern zerstreut sind,<!-- Seite 494 -->
+ob sie sich schon äußerlich stille halten, aber von dem
+Maß der Gnaden in ihnen selbst ausschweifen, (welches
+sich durch die Wirkung des Feindes und Nachlässigkeit
+des Menschen ereignen kan,) und da entweder
+einer hinein kommt, oder vielleicht schon drinnen
+ist, der sich wachsam bezeigt, und in welchem das Leben
+in grosser Masse erweckt ist, so wird dieser eine,
+wenn er seinen Platz behält, eine heimliche Bearbeitung
+um die übrigen, vermöge einer heimlichen Sympathie
+oder Mitleidens mit dem Samen, fühlen,
+welcher in den andern unterdrückt, und durch ihre aufsteigende
+und herum schweifende Gedanken abgehalten
+wird. Und nachdem ein solcher getreuer Knecht
+Gottes in dem Licht harrt, und dieses göttliche
+Werk fortsetzt, so erhört Gott öfters das geheime
+Bearbeiten und Seufzen seines eigenen Samens
+durch denselben. So, daß die übrigen sich, ohne
+Worte, heimlich gerührt finden; und dieser eine,
+Wehmutter oder Hebamme sein wird, das Leben
+in jenem hervor zu bringen
+
+Natürlich kann es vorkommen, das jemand mit dem Vorsatz zur Versammlung kommt, diese zu stören und zu provozieren. Wenn dann die Versammlung gefasst bleibt, kann das unerwartete Wirkung auf den Provokateur haben.
+
+
+> Ja, wenn bisweilen in der ganzen Versammlung nicht ein
+Wort geredet wird, sondern alle in der Stille harren,
+und es kommt einer hinein, der roh und gottlos ist,
+und in welchem die Macht der Finsternis sehr herrscht,
+und zwar mit einem Vorsatz zu spotten, oder
+Unfug anzustiften, da die ganze Versammlung in
+das Leben versammelt, und solches in einer guten Masse
+erweckt ist, so wird es einen solchen mit Schrecken
+rühren, und er sich unvermögend finden, zu wiederstehen;<!-- Seite 495 -->
+derstehen; sondern es wird, durch die geheime Stärke
+und Kraft desselben, die Macht der Finsternis in
+ihm gebunden werden.
+
+
+Die Veränderung und Wandung geschiet nicht plötzlich von einen Moment auf den Anderen. Schritt für schritt, wenn man er zulässt.
+
+> Denn da ich in die stille Versammlung des Volkes <!-- Seite 495 -->
+Gottes kam, so fühlte ich eine heimliche Kraft unter
+ihnen, die mir das Herz berührte. Und da ich
+derselben Raum gab, so spürte ich, daß das Böse
+in mir schwacher, und das Gute hingegen erweckt
+wurde, und zunahm; und deshalb wurde ich mit ihnen
+verknüpft und verbunden, weil mein Hunger nach dem
+Wachstum dieser Kraft und dieses Lebens immer
+mehr und mehr zu nahm, wodurch ich mich selbst vollkommen
+erlöst fühlen möchte.
+
+
+Die Wahrhaftigkeit und Ehrlichkeit ist die Basis und die Wurzel zum Glauben und die Beziehung zu Gott und die Beziehung in der Gruppe. Die schönsten Reden nutzen nichts, wenn die Lebensführung nicht im Einklang damit steht.
+
+> Und gewisslich dieses
+ist der sicherste Weg ein Christ zu werden, dem es hernach
+an Erkenntnis und Verständnis der Grundsätze
+nicht mangeln wird, sondern dieselbe wird, so viel ihm
+nötig ist, als die natürliche Frucht aus dieser guten
+Wurzel aufwachsen. Und eine solche Erkenntnis wird
+nicht leer und fruchtlos abgehen. Daher wünschen
+wir, daß auf diese Weise alle, die unter uns kommen,
+zu Neubekehrten gemacht werden mögen. Weil wir<!-- Seite 496 -->
+gar wohl wissen, daß, wenn gleich tausende in ihrem
+Verstand wegen aller Wahrheiten, die wir behaupten,
+überzeugt werden sollten, sie dennoch uns nichts
+beifügen könnten, wenn sie dieses innerlichen Lebens
+nicht empfindlich gemacht, und ihre Seelen nicht
+von der Ungerechtigkeit zur Gerechtigkeit bekehrt, und
+deshalb ganz verändert wären. Denn dieses ist derjenige
+Teig oder dasjenige Band, durch, welches wir,
+gleichwie mit dem Herren, deshalb auch unter einander
+selbst, vereinigt werden, und ihm und einander
+selbst anhängen; und ohne diesem kan niemand
+mit uns anbeten, ja wenn solche unter uns kommen,
+und dein Verstand und der Überzeugung nach, so
+sie von der Wahrheit haben, noch so wahre Dinge
+reden, und solche mit noch so viel Vortreflichkeit der
+Rede aussprechen sollten, so würde es uns doch ganz
+und gar nicht erbauen, wenn dieses Leben mangelte,
+sondern es würde nur sein, wie ein tönendes Erz,
+und wie eine klingende Schelle.
+
+
+
+
 ---
 
 [^foot-001]: Matth. 10,20 ***'Nicht ihr werdet es sein, die Rede und Antwort stehen, sondern der Geist eures Vaters im Himmel wird durch euch sprechen.'***
