@@ -28,7 +28,7 @@ tags:
   - "meeing for worship"
   - "Taufe"
   - "Kindertaufe"
-  - "Robert Barclay"
+  - "Barclay"
   - "Theologie"
   - "Geschichte"
   - "Apologie"
