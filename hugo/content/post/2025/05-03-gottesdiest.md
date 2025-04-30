@@ -28,15 +28,13 @@ WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL I.
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 02.04.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 03.05.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
 Diesmal geht es darum, warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten.
 
 Als ich mir dieses Thema ausgesucht habe, dachte ich zunächst: „Nicht besonders spannend, aber man sollte es mal erklärt haben.“ Ich ging davon aus, dass es dazu nicht allzu viel zu sagen gibt. Zuerst hatte ich die Idee, ein paar pointierte Aussagen von William Penn zu verwenden. Doch als ich dann in Robert Barclays Apologie nachschlug, war ich überrascht: Ich stieß auf ein 90-seitiges Kapitel mit 28 Unterpunkten allein zum Thema Gottesdienst! Das machte mir schlagartig klar, dass ich in den 20 Jahren, die ich nun Quäker bin, eine gewisse Betriebsblindheit entwickelt habe.
-
-Daher werde ich eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern machen. Vielleicht werden es zwei oder drei Termine. Die Übersetzung der [Apologie ist von 1776](https://apologie.the-independent-friend.de/), also althochdeutsch. Ich werde die Kernaussagen aber in modernem Deutsch zusammenfassen. Für den, der sich für den Barclay-O-Ton interessiert, werde ich die Zitate in den Fussnoten aufführen.
 
 Ich werde eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern gestalten, voraussichtlich in zwei oder drei Terminen. Die Übersetzung der [Apologie stammt aus dem Jahr 1684 bzw. 1776](https://apologie.the-independent-friend.de/) und ist in Frühneuhochdeutsch verfasst. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
 
