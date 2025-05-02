@@ -18,3 +18,10 @@ Hinweise und Empfehlung
 
 
 - [Einführung](https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Gottesdienst#:~:text=Der%20Gottesdienst%20in%20der%20urspr%C3%BCnglichen,eine%20buddhistische%20Meditation%20erinnert%20f%C3%BChlen.)
+
+
+HEUTE
+-----
+
+
+Immer mehr Quäker haben programmierte Andachten

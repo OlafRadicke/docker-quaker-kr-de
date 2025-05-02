@@ -23,8 +23,8 @@ toc: false
 ---
 
 
-WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL I.
-===================================================
+WARUM DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL I.
+================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
