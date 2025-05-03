@@ -2,8 +2,8 @@
 draft: false
 title: "Andacht und Teetrinken am 03.05.2025"
 date: "2025-04-29"
-# categories:
-#    - 1.Korinther 11
+categories:
+   - Matthäus 10
 tags:
    - "tea time"
    - "meeing for worship"
