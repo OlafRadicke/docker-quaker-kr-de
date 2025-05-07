@@ -1,9 +1,29 @@
 ---
 draft: true
-title: "Andacht und Teetrinken am 18.05.2025"
+title: "Andacht und Teetrinken am 14.06.2025"
 date: "2025-04-12"
-# categories:
-#    - 1.Korinther 11
+categories:
+   - 1.Korinther 1
+   - 1.Petrus 4
+   - 1.Thessalonicher 5
+   - 2.Timotheus 4
+   - Apostelgeschichte 1
+   - Apostelgeschichte 20
+   - Hosea 12
+   - Jesaja 30
+   - Jesaja 40
+   - Klagelieder 3
+   - Kolosser 4
+   - Lukas 21
+   - Markus 13
+   - Matthäus 24
+   - Matthäus 25
+   - Matthäus 26
+   - Psalm 25
+   - Psalm 27
+   - Psalm 37
+   - Psalm 69
+   - Sprüche 20
 tags:
    - "tea time"
    - "meeing for worship"
@@ -20,21 +40,16 @@ toc: true
 ---
 
 
-WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL II.
-====================================================
+WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL III.
+=====================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 03.05.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 14.06.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Diesmal geht es darum, warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten.
-
-Als ich mir dieses Thema ausgesucht habe, dachte ich zunächst: „Nicht besonders spannend, aber man sollte es mal erklärt haben.“ Ich ging davon aus, dass es dazu nicht allzu viel zu sagen gibt. Zuerst hatte ich die Idee, ein paar pointierte Aussagen von William Penn zu verwenden. Doch als ich dann in Robert Barclays Apologie nachschlug, war ich überrascht: Ich stieß auf ein 90-seitiges Kapitel mit 28 Unterpunkten allein zum Thema Gottesdienst! Das machte mir schlagartig klar, dass ich in den 20 Jahren, die ich nun Quäker bin, eine gewisse Betriebsblindheit entwickelt habe.
-
-Ich werde eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern gestalten, voraussichtlich in zwei oder drei Terminen. Die Übersetzung der [Apologie stammt aus dem Jahr 1684 bzw. 1776](https://apologie.the-independent-friend.de/) und ist in Frühneuhochdeutsch verfasst. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
-
+Diesmal geht es weiter, warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten. Dieses Thema gehört zu eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
 
 ROBERT BARCLAY
 --------------
