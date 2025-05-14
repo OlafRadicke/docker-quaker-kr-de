@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Andacht und Teetrinken am 17.05.2025"
-date: "2025-04-12"
+date: "2025-04-14"
 # categories:
 #    - 1.Korinther 11
 tags:
@@ -15,13 +15,13 @@ tags:
    - Apologie
    - predigen
 
-lead: "Warum die Quäker auf Liturgie verzichten Teil II."
-toc: true
+lead: "Warum die Quäker auf Liturgie verzichten - Teil II."
+toc: false
 ---
 
 
-WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL II.
-====================================================
+WARUM DIE QUÄKER AUF LITURGIE VERZICHTEN - TEIL II.
+===================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
@@ -29,20 +29,31 @@ Kommenden Samstag, den 17.05.2025 um 17 Uhr, findet in der Königstraße 132 in 
 
 Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Diesmal geht es weiter, warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten. Dieses Thema gehört zu eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
+Diesmal geht es weiter mit dem Thema: warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten. Dieses Thema gehört zu eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 3.5.2025. Zum Nachlesen, könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
 
 
-ROBERT BARCLAY
---------------
+ROBERT BARCLAYS VERSTÄNDNIS VOM GOTTESDIENST
+--------------------------------------------
 
+Nach R. Barclay dienen die Versammlungen der geistlichen Erbauung und dem Erleben der Gegenwart Gottes. Dabei geht es nicht um intellektuelle Höchstleistungen, sondern darum, die Bewegungen und Eingebungen des Geistes Gottes zu empfangen und ihren Ausdruck zu spüren. Aus dieser Erfahrung entstehen Worte der Erklärung, des Gebets oder des Lobes.[^foot-011]
 
-Die Versammlung dienen der Erbauung und die Gegenwart Gottes zu spüren. Es geht nicht darum grosse intellektuelle Leistungen zu erbringen sondern die Bewegungen und Eingebungen des Geistes Gottes zu empfangen und ihr Ausfluss verspürt. Hieraus entspringen Worte der Erklärung, des Gebet oder Lobes.[^foot-011] Doch auch Andachten in den nicht gesprochen wurde, können segensreich empfunden werden. Denn auch ohne Worte kann Kraft und Ermunterung weitergetragen werden.[^foot-012] Die Haltung die man in den Gottesdienst mitbringt, ist entscheiden dafür für die Erfahrung die man machen wird. Das kann nicht durch eine, noch so gelungene, Predigt allein bewirkt werden. Die dazu nötige innere Haltung ist gekennzeichnet dadurch, das man sich selbst nicht mehr so wichtig nimmt und die Rolle des Forscher und Empfänger einnimmt.[^foot-013] Erst wenn man äusserlich zur Ruhe gekommen ist, und diesen inneren "***Samen des Lebens***" spürt und daraus bewegt wird, ist es der richtige zeitpunkt zu beten, zu predigen oder zu singen.[^foot-014] Aber auch ohne Worte und in völliger Stille, entsteht Verbundenheit und eine Stärkung des Einzelnen.[^foot-015] Die Kommunion erfolgt im Geiste und nicht in Gesten, Gegenständen, Redeformeln, Liturgie oder Zeremonien.[^foot-015-2]
+Doch auch stille Andachten, in denen nichts gesprochen wird, können laut Barclay segensreich sein. Denn selbst ohne Worte kann Kraft und Ermutigung weitergegeben werden.[^foot-012] Entscheidend für die persönliche Erfahrung im Gottesdienst ist die innere Haltung, die man mitbringt. Diese kann nicht allein durch eine noch so gute Predigt geschaffen werden. Vielmehr besteht die notwendige innere Einstellung darin, sich selbst weniger wichtig zu nehmen und eine Haltung des Suchens und Empfangens einzunehmen.[^foot-013]
 
-Das Äusserlich muss und wird sich aus dem entwickeln, was innerlich bei den Versammelten passiert.[^foot-016] Auch wenn Jemand später zur Andacht hinzukommt und noch zunächst von seinen Weltlichengedanken erfüllt ist schnell durch die den Geist der gesammelten Gemeinschaft angesteckt wird und selber schnell zur Ruhekommt und empfänglich wird für das innere Licht.[^foot-017] Und machmal ist es umgekehrt. Eine Gruppe ist zur Andacht versammelt und äußerlich ruhig aber die innere Konzentration stellt sich nicht ein, dann kann es passieren, das eine einzelne Person, die erst später hinzukommt, eine solche Energie und Konzentration mit in den Raum bringt, das er die gesamte Gruppe damit ansteckt und dann alle ihre Gedanken zur Ruhe zwingen können.[^foot-018] Natürlich kann es vorkommen, das jemand mit dem Vorsatz zur Versammlung kommt, diese zu stören und zu provozieren. Wenn dann die Versammlung gefasst bleibt, kann das unerwartete Wirkung auf den Provokateur haben.[^foot-019]
+Erst wenn man äußerlich zur Ruhe gekommen ist und den inneren *"Samen des Lebens"* spürt, kann der richtige Zeitpunkt für Gebet, Predigt oder Gesang entstehen.[^foot-014] Doch auch ohne Worte und in völliger Stille wachsen Verbundenheit und die geistige Stärkung der Teilnehmenden.[^foot-015] Denn Barclay ist überzeugt, dass die wahre **Kommunion (Abendmahl)** im Geist geschieht – nicht durch Gesten, Gegenstände, Gebetsformeln, Liturgie oder Zeremonien.[^foot-015-2]
 
-Die Veränderung und Wandung geschieht nicht plötzlich von einen Moment auf den Anderen. Schritt für schritt, wenn man er zulässt.[^foot-020] Die Wahrhaftigkeit und Ehrlichkeit ist die Basis und die Wurzel zum Glauben und die Beziehung zu Gott und die Beziehung in der Gruppe. Die schönsten Reden nutzen nichts, wenn die Lebensführung nicht im Einklang damit steht.[^foot-021] Anfangs ist es vielleicht schwer zur Ruhe zu kommen. Mit der Zeit wird es aber leichter und das innere Ringe wird seine Früchte tragen.[^foot-022] Die inneren kämpfe die einige ausfechten müssen, äussern sich bisweilen, in äusserlicher Ergriffenheit und Zittern. Das führte zu den Spott nahmen ***"Quäker"***. Aber bisweilen ergreift sogar, die Gegner der Quäker das Zittern durch ein Bekehrungserlebnis. Und das, ohne das sie von den Inhalten der Quäker-Theologie Wissen haben.[^foot-023]
+Das Äußere formt sich aus dem, was innerlich bei den Versammelten geschieht.[^foot-016] Selbst wenn jemand später zur Andacht hinzukommt und zunächst noch von weltlichen Gedanken erfüllt ist, wird diese Person durch den konzentrierten Geist der Gemeinschaft angesteckt werden. So finden Nachzügler schnell zur Ruhe und werden empfänglich für das innere Licht.[^foot-017]
 
-Das Schweigen ist kein Selbstzweck und das Ziel selbst. Es dient der inneren Vorbereitung, für die Ansprache.[^foot-024] Nur die wenigsten Versammlung sind in völliger Stille. Viel mehr wird durch durch wechselseitige Ansprachen ermuntert, bestärkt und ermahnt.[^foot-025] Es ist nicht gut, bei dem Leuten der Glocken, in letzter Minute abgehetzt in die Andacht zu stürmen. Viel mir sollte man die Ruhe und die Stille dazu nutzen, das Wichtige von dem Unwichtigen zu trennen.[^foot-026]
+Manchmal geschieht es jedoch umgekehrt: Eine Gruppe ist äußerlich ruhig versammelt, doch die innere Konzentration will sich nicht einstellen. In solchen Momenten, so berichtet Barclay, kann eine einzelne Person, die später hinzukommt, eine so starke Energie und Fokussierung in den Raum bringen, dass sie die gesamte Gruppe mitreißt. Dadurch gelingt es allen, ihre Gedanken zur Ruhe zu bringen.[^foot-018]
+
+Aber natürlich kann es vorkommen, dass jemand bewusst mit der Absicht kommt, die Versammlung zu stören oder zu provozieren. Doch wenn die Gemeinschaft gelassen bleibt, kann dies eine unerwartete Wirkung auf den Provokateur haben.[^foot-019]
+
+Barclay betont, dass die Veränderung durch die stille Andacht nicht plötzlich oder sofort geschieht, sondern schrittweise – und nur, wenn man sie zulässt.[^foot-020] Wahrhaftigkeit und Ehrlichkeit bilden die Grundlage des Glaubens sowie der Beziehung zu Gott und zur Gemeinschaft. Die schönsten Reden nützen nichts, wenn die Lebensführung nicht im Einklang mit ihnen steht.[^foot-021]
+
+Anfangs kann es schwer sein, zur Ruhe zu kommen. Doch mit der Zeit wird es leichter, und das innere Ringen trägt schließlich Früchte.[^foot-022] Die inneren Kämpfe, die manche durchleben, äußern sich manchmal in äußerlicher Ergriffenheit und Zittern. Dies führte zu dem Spott-Namen *"Quäker"*. Doch gelegentlich erleben sogar Gegner der Quäker dieses Zittern – ausgelöst durch eine plötzliche innere Wandlung, ohne dass sie zuvor die Inhalte der Quäker-Theologie kannten.[^foot-023] Der Zugang ist also nicht intellektuell, sondern vielmehr eine direkte, persönliche Erfahrung.
+
+Das Schweigen ist kein Selbstzweck und nicht das eigentliche Ziel, sondern dient der inneren Vorbereitung auf die Ansprache in der Gemeinschaft.[^foot-024] Nur wenige Versammlungen finden in völliger Stille statt – vielmehr entsteht durch wechselseitige Ansprachen Ermutigung, Stärkung und Mahnung.[^foot-025]
+
+Barclay weist darauf hin, dass es nicht gut sei, erst in letzter Minute zum Gottesdienst zu eilen, wenn bereits die Glocken läuten, wie er es bei anderen Konfessionen beobachtet hat. Stattdessen sollte man die Ruhe und Stille bewusst nutzen, um das Wichtige vom Unwichtigen zu trennen.[^foot-026]
 
 
 ---

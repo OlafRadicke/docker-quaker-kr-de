@@ -26,16 +26,19 @@ toc: true
 ---
 
 
+<!-- ##############
+An dem Tag ist "Kultur findet statt" mit Konzert in der Kirche!
+############### -->
+
+
 WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL IV.
 =====================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 28.06.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Möglicherweise, findet am kommenden Samstag, den 28.06.2025 um 17 Uhr, keine Quäker-Andacht statt, weil an dem Tag "Kultur findet Statt" ist und es möglicherweise sehr laut ist. Ich biete ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken und würde das Gespräch ggf. etwas verlängern, wenn die Andacht nicht möglich ist. Deshalb bereite ich für den Tag etwas mehr Inhalt vor als sonst.
 
-Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
-
-Diesmal geht es weiter, warum die Quäker keine Liturgie haben, nicht singen, keine Gebetsformeln verwenden und keine vorbereiteten Predigten halten. Dieses Thema gehört zu eine kleine Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
+Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
 
 ROBERT BARCLAY
 --------------
