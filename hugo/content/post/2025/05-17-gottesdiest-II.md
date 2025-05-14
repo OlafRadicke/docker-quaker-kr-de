@@ -1,13 +1,15 @@
 ---
 draft: false
 title: "Andacht und Teetrinken am 17.05.2025"
-date: "2025-04-14"
+date: "2025-05-13"
 # categories:
 #    - 1.Korinther 11
 tags:
    - "tea time"
    - "meeing for worship"
    - Kommunion
+   - Abendmahl
+   - Eucharistie
    - Bibel
    - gottesdienst
    - Frühe Freunde
