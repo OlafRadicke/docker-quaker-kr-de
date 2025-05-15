@@ -36,3 +36,7 @@ The Dockerfiles:
 * **Dockerfile.alpine**: a multi stage image based on alpine linux
 * **Dockerfile.fedora**: a multi stage image based on alpine linux and fedora
 * **Dockerfile.nginx**: a singe stage image based on alpine linux without Hugo build
+
+## CI/CD
+
+Build and push by GitHub Actions.
