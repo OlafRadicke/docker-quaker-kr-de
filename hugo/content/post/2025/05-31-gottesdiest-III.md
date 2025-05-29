@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Andacht und Teetrinken am 31.05.2025"
 date: "2025-05-28"
 categories:
