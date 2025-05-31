@@ -86,10 +86,6 @@ R. Barclay verweist auf zahlreiche Bibelstellen, die aus seiner Sicht belegen, w
 - **Jesaja 40,31**** *" Aber die auf den HERRN hoffen, gewinnen neue Kraft; sie heben die Schwingen empor wie die Adler, sie laufen und ermatten nicht, sie gehen und ermüden nicht. "*
 - **Klagelieder 3,25+26** *"Gut ist der HERR zu denen, die auf ihn harren, zu der Seele, die nach ihm fragt. Es ist gut, dass man schweigend hofft auf die Rettung des HERRN."*
 
-
-R. Barclay weist darauf hin, das es nicht nur auf das äusseres schweigen ankommt sondern, das man auch innerlich schweigen, also die Gedenken zur Ruhe bringt.[^foot-027] Die frühen Quäker seahen die Menschen in zwei möglichen Zuständen: dem ***unwiedergebohrnen*** und dem ***Stande der Erneuerung*** (dem wiedergeboren sein). Dabei kann man aber **beide** Anteile in sich tragen. Denn man Trägt den Samen für beides in sich. Für das Gute wie das Böse.[^foot-028]
-
-
 Es wird betont, dass nicht nur das äußere Schweigen von Bedeutung ist, sondern auch das innere – das zur Ruhe bringen der Gedanken.[^foot-027] Die frühen Quäker sahen den Menschen in zwei möglichen Zuständen: dem ***Unwiedergeborenen*** und dem ***Stande der Erneuerung*** (der Wiedergeburt). Dennoch kann jeder Mensch **beidev Anteile in sich tragen, da er den Samen für beides – das Gute wie das Böse – in sich trägt.[^foot-028]
 
 
