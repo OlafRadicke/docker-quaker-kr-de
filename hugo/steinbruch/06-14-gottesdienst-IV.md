@@ -1,7 +1,7 @@
 ---
 draft: true
-title: "Andacht und Teetrinken am 28.06.2025"
-date: "2025-04-12"
+title: "Andacht und Teetrinken am 14.06.2025"
+date: "2025-06-09"
 categories:
 	- Jakobus 1
 	- Matthäus 26
@@ -27,7 +27,7 @@ toc: true
 
 
 <!-- ##############
-An dem Tag ist "Kultur findet statt" mit Konzert in der Kirche!
+An dem 28.6. ist "Kultur findet statt" mit Konzert in der Kirche!
 ############### -->
 
 
