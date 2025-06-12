@@ -26,46 +26,44 @@ toc: true
 ---
 
 
-<!-- ##############
-An dem 28.6. ist "Kultur findet statt" mit Konzert in der Kirche!
-############### -->
-
-
 WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL IV.
 =====================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Möglicherweise, findet am kommenden Samstag, den 28.06.2025 um 17 Uhr, keine Quäker-Andacht statt, weil an dem Tag "Kultur findet Statt" ist und es möglicherweise sehr laut ist. Ich biete ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken und würde das Gespräch ggf. etwas verlängern, wenn die Andacht nicht möglich ist. Deshalb bereite ich für den Tag etwas mehr Inhalt vor als sonst.
+Kommenden Samstag, den 14.06.2025 um 17 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
-Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
+Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
+
+Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Dies mal erfahren wir, wie die frühen Freunde u.A. über den Teufel gedacht haben.
 
 ROBERT BARCLAY
 --------------
 
-Das weltbild von R. Barclay war dualistisch: auf der einen Seite was das materialistische Denken, das für das Böse in der Welt verantwortlich ist und zum anderen das Geistige und Göttliche, aus dem das Gute und die Erlösung erwächst. [^foot-001] Und wer nicht die richtige Einstellung hat und sich von Gott leiten lässt, bei dem wird jedes Werk zur Sünde, selbst die Gebete die er spricht.[^foot-002] Das Argument, man könnte das Beten und Predigen auch als warten verstehen, wird ausdrücklich verneint. Die Stille und vor Allem die innere Stille, die Notwendige vorratssetzung, die vorher erfolgen muss.[^foot-003]
+Das Weltbild von R. Barclay war von einem dualistischen Denken geprägt. Auf der einen Seite stand das materialistische Denken, das als Ursprung des Bösen in der Welt betrachtet wurde, auf der anderen das Geistige und Göttliche, aus dem das Gute und die Erlösung hervorgehen.[^foot-001] Wer nicht die richtige innere Einstellung hat und sich nicht von Gott leiten lässt, dessen Werke werden zu Sünden – selbst seine Gebete.[^foot-002] Das Argument, dass Beten und Predigen auch als eine Form des Wartens verstanden werden könnten, wird ausdrücklich zurückgewiesen. Stattdessen wird betont, dass die Stille, insbesondere die innere Stille, eine unverzichtbare Voraussetzung ist, die **zuvor** gegeben sein muss.[^foot-003]
 
 Hier für werden diese Bibelstellen angeführt:
 
-Matthäus 26,41:
+**Matthäus 26,41:**
 
 > "Wacht und betet, damit ihr nicht in Versuchung kommt! Der Geist zwar ist willig, das Fleisch aber schwach."
 
-Markus 13,33:
+**Markus 13,33:**
 
 > "Seht zu, wacht! Denn ihr wisst nicht, wann die Zeit ist."
 
-Lukas 21,36:
+**Lukas 21,36:**
 
 > "Wacht nun und betet zu aller Zeit, dass ihr imstande seid, diesem allem, was geschehen soll, zu entfliehen und vor dem Sohn des Menschen zu stehen!"
 
-1.Petrus 4,7:
+**1.Petrus 4,7:**
 
 > "Es ist aber nahe gekommen das Ende aller Dinge. Seid nun besonnen und seid nüchtern zum Gebet!"
 
-Daraus wird klar, wie R. Barclay und die frühen Freunde die Wiederkunft Christie verstehen und erwarten: als persönliche individuelle Erfahrung. Es gab zum begin in der Quäker-Bewegung, eine starke Strömung mit einer eschatologische Vorstellung der "Zeitenwende" und des "nahen Reichs Gottes". So wurde z.T. erwartet das in Jahr 1666 die neue Zeit anbräche. Als das ausblieb, nahm die Bedeutung dieser Vorstellung ab. Heute spielt die Vorstellung bzw. Erwartung in dieser Form in der Quäker-Theologie keine Rolle.
+Daraus wird deutlich, dass R. Barclay und die frühen Freunde die Wiederkunft Christi als eine persönliche, individuelle Erfahrung verstanden und erwarteten. Zu Beginn der Quäker-Bewegung gab es eine starke Strömung mit einer eschatologischen Vorstellung von einer „Zeitenwende“ und dem „nahen Reich Gottes“. Zum Teil wurde erwartet, dass im Jahr 1666 eine neue Zeit anbräche. Als dies ausblieb, verlor diese Vorstellung an Bedeutung. Heute spielt sie in dieser Form in der Quäker-Theologie keine Rolle mehr.
 
-Für R. Barklay und die frühren Freunde war auch der Teufel fester Bestandteil ihres Weltbilds. Für R. Barklay war klar, das der Teufel viele Dinge unterwandern konnte; und dinge, die an sich gute waren in Schlechte verkehren konnte. Mit Ausnahme des stillen harren auf Gott.[^foot-004] Selbst in dem akademischen Theologiestudium wird wird die Gefahr gesehen, das der Teufel Professoren und Doktoren dazu verleitet, sich an Spitzfindigkeiten aufzuhängen und sich viel auf seine abstrakten Theorien einzubilden.[^foot-005] Solage die Gedanken des Menschen sich immer nur um sich selbst drehen, ist es für den Teufel leicht, diese Einbildungen und Begierden für sich zu nutzen. Bringt man seine Gedanken zur Ruhe und öffnet sich dem göttlichen Licht, so kann man den Teufel aus seinen Herzen ausschlissen.[^foot-006] Wenn dem Teufel nicht gelinkt, das Gedanken-Karussell für sich zu nutzen, so freut er sich aber wenn man schläfrig ist und so unempfindlich für Gott wird.[^foot-007]
+
+Für R. Barclay und die frühen Freunde war der Teufel ein fester Bestandteil ihres Weltbildes. Barclay war überzeugt, dass der Teufel viele Dinge unterwandern und sogar an sich gute Dinge ins Schlechte verkehren konnte – mit Ausnahme des stillen Harrens auf Gott.[^foot-004] Selbst das akademische Theologiestudium wurde als potenzielle Gefahr gesehen: Der Teufel könne Professoren und Doktoren dazu verleiten, sich in Spitzfindigkeiten zu verlieren und sich auf ihre abstrakten Theorien einzubilden.[^foot-005] Solange sich die Gedanken eines Menschen nur um sich selbst drehen, fällt es dem Teufel leicht, diese Einbildungen und Begierden für sich zu nutzen. Doch wenn man seine Gedanken zur Ruhe bringt und sich dem göttlichen Licht öffnet, kann man ihn aus seinem Herzen ausschließen.[^foot-006] Selbst wenn es dem Teufel nicht gelingt, das *Gedanken-Karussell* der Menschen zu seinen Gunsten zu nutzen, so freut er sich genauso darüber, wenn jemand schläfrig und unkonzentriert ist – denn so bleibt man auch unempfindlich für Gott.[^foot-007]
 
 
 ------
