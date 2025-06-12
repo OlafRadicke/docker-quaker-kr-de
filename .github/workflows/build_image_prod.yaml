@@ -1,9 +1,9 @@
-name: Build an multi stage alpine image with the static HTML
+name: Build an multi stage alpine image for prod
 run-name: ${{ github.actor }} build multi stage alpine image for prod.
 on:
   push:
     tags:
-      - '*'
+      - "*"
 jobs:
   build-prod-image:
     runs-on: ubuntu-latest
@@ -29,5 +29,3 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: olafradicke/quaker-kr-de:${{  github.ref_name }}
-
-

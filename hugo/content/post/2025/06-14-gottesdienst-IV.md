@@ -3,12 +3,12 @@ draft: true
 title: "Andacht und Teetrinken am 14.06.2025"
 date: "2025-06-09"
 categories:
-	- Jakobus 1
-	- Matthäus 26
-	- Markus 13
-	- Lukas 21
-	- Sprüche 21
-	- 1.Petrus 4
+   - Jakobus 1
+   - Matthäus 26
+   - Markus 13
+   - Lukas 21
+   - Sprüche 21
+   - 1.Petrus 4
 tags:
    - "tea time"
    - "meeing for worship"

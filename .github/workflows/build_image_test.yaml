@@ -1,9 +1,9 @@
-name: Build an alpine multi stage image with the static HTML
+name: Build an alpine multi stage test image
 run-name: ${{ github.actor }} build an alpine multi stage image for test.
 on:
   push:
     tags:
-      - '*'
+      - "*"
 jobs:
   build-test-image:
     runs-on: ubuntu-latest
