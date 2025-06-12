@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "Andacht und Teetrinken am 14.06.2025"
-date: "2025-06-09"
+date: "2025-06-11"
 categories:
    - Jakobus 1
    - Matthäus 26
