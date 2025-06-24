@@ -20,17 +20,12 @@ toc: true
 ---
 
 
-<!-- ##############
-An dem 28.6. ist "Kultur findet statt" mit Konzert in der Kirche!
-############### -->
-
-
 WARUM ES DIE QUÄKER AUF LITURGIE VERZICHTEN TEIL V.
 =====================================================
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Möglicherweise, findet am kommenden Samstag, den 28.06.2025 um 17 Uhr, keine Quäker-Andacht statt, weil an dem Tag "Kultur findet Statt" ist und es möglicherweise sehr laut ist. Ich biete ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken und würde das Gespräch ggf. etwas verlängern, wenn die Andacht nicht möglich ist. Deshalb bereite ich für den Tag etwas mehr Inhalt vor als sonst.
+Ich biete ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken und würde das Gespräch ggf. etwas verlängern, wenn die Andacht nicht möglich ist. Deshalb bereite ich für den Tag etwas mehr Inhalt vor als sonst.
 
 Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Der Grundlagentext ist eine Übersetzung der [Apologie, die aus dem Jahr 1684 bzw. 1776 stammt](https://apologie.the-independent-friend.de/) und die in Frühneuhochdeutsch verfasst ist. Zum leichteren Verständnis werde ich die Kernaussagen in modernem Deutsch zusammenfassen. Wer sich für Barclays Originalton interessiert, findet die entsprechenden Zitate in den Fußnoten.
 

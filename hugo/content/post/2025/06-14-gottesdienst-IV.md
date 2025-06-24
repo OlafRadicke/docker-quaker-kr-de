@@ -35,7 +35,7 @@ Kommenden Samstag, den 14.06.2025 um 17 Uhr, findet in der Königstraße 132 in 
 
 Für diejenigen, die möchten, besteht bereits ab 16 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Dies mal erfahren wir, wie die frühen Freunde u.A. über den Teufel gedacht haben.
+Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Dies mal erfahren wir, wie die frühen Freunde u.a. über den Teufel gedacht haben.
 
 ROBERT BARCLAY
 --------------
@@ -165,3 +165,9 @@ Geist der Schwermut, Trägheit und Schlafsucht
 [^foot-11-11-001]: Sprüche 21,4: "Stolz der Augen und Hochmut des Herzens – die Leuchte der Gottlosen ist Sünde."
 
 [^foot-11-11-002]: Jakobus 1,25: " Wer aber in das vollkommene Gesetz der Freiheit hineingeschaut hat und dabei geblieben ist, indem er nicht ein vergesslicher Hörer, sondern ein Täter des Werkes ist, der wird in seinem Tun glückselig sein."
+
+---
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="\_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+---
