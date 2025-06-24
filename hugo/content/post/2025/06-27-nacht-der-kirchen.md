@@ -13,7 +13,7 @@ toc: false
 ---
 
 
-Hallo liebe Freunde und Freundinnen – und Freunde von Freunden!
+Hallo liebe Freunde und Freunde der Freunde!
 
 Am kommenden Samstag, dem 28.06.2025 um 17 Uhr, findet **KEINE** Quäker-Andacht statt! Zum einen, weil an diesem Tag *„Kultur findet statt“* ist und es daher möglicherweise sehr laut sein wird. Zum anderen gibt es bereits am Vortag (Freitag, 27.06.) eine Quäker-Andacht im Rahmen der 10. Nacht der offenen Kirchen – und zwar ab 23:30 Uhr (bei gutem Wetter) unter freiem Himmel im Garten der Mennoniten-Gemeinde, Königstraße 132, 47798 Krefeld.
 
