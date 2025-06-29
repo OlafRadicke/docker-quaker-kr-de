@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Andacht und Teetrinken am 28.06.2025"
-date: "2025-06-20"
+date: "2025-07-09"
 # categories:
 # 	- Jakobus 1
 tags:
