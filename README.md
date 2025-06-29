@@ -12,7 +12,7 @@ Used thema: [DPSG](https://themes.gohugo.io/themes/hugo-dpsg/)
 To run local webserver enter:
 
 ```bash
-hugo server --ignoreCache -D --source ./hugo/
+hugo server  --environment production --ignoreCache -D --source ./hugo/
 ```
 
 And check
