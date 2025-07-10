@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Andacht und Teetrinken am 12.07.2025 (mit neuem Ablauf)"
-date: "2025-06-29"
+date: "2025-07-09"
 categories:
    - 2.Mose 14
 tags:
