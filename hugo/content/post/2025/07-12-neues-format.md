@@ -22,7 +22,7 @@ toc: true
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 2.07.2025 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 12.07.2025 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 ## NEUES FORMAT DER QUÄKER-ANDACHT
 
