@@ -1,7 +1,7 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 26.07.2025"
-date: "2025-07-20"
+date: "2025-07-18"
 categories:
   - Kolosser 2
   - Johannes 18

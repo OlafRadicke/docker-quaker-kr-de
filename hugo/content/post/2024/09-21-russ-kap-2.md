@@ -14,6 +14,7 @@ tags:
   - "Hölle"
   - "Kolonialismus"
   - "Pazifismus"
+  - Suffering
 lead: "Why Only One Story?"
 toc: true
 ---

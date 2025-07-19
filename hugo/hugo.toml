@@ -2,8 +2,9 @@ baseurl = "/"
 title = "Quaker-Andacht Krefeld"
 languageCode = "de"
 DefaultContentLanguage = "de"
-paginate = "10" # Number of posts per page
+# paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
+# theme = "hugo-clarity-master"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
