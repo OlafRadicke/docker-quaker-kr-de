@@ -79,13 +79,13 @@ Immer wieder machte Barclay die Erfahrung, dass Tumult und Aggression abebbten, 
 
 ------
 
-[^foot-001]: Paragraph 11, Seite 516 "Zum dritten erscheint die Vortrefflichkeit
+[^foot-001]: Paragraph 13, Seite 516 "Zum dritten erscheint die Vortrefflichkeit
 dieses Gottesdienstes ferner daraus, daß er
 durch die Bosheit beides der Menschen und Teufel
 nicht hat können gehindert oder unterbrochen werden,
 wie bei aller anderer ihrem gar leichtlich geschehen kann."
 
-[^foot-002]: Paragraph 11, Seite 516 "Denn so weit auch die wahren
+[^foot-002]: Paragraph 13, Seite 516 "Denn so weit auch die wahren
 Glieder unseres Volks von einander abgeschieden
 oder zusammen zu kommen verhindert sind, so wird
 Dennoch, weil ein jeder innerlich zu dem Maß des
@@ -94,7 +94,7 @@ Einigkeit und Gemeinschaft genossen, welche der
 Teufel mit allen seinen Werkzeugen, zu unterbrechen
 und zu hindern, zu schwach und unvermögend ist."
 
-[^foot-003]: Paragraph 11, Seite 516+517 "Angesehen wir, ungeachtet tausenderlei
+[^foot-003]: Paragraph 13, Seite 516+517 "Angesehen wir, ungeachtet tausenderlei
 Unterbrechungen und Beleidigungen, davon eine
 einzige genug wäre; alle andere Arten der Christen zu
 verhindern, Kraft des eigentlichen Wesens dieses
@@ -109,7 +109,7 @@ zu kommen,) wenn sie nicht entweder von
 der Obrigkeit bevollmächtigt, oder beschützt werden,
 oder sich selbst mit dem Arm des Fleisches verteidigen."
 
-[^foot-004]: Paragraph 11, Seite 517 "Denn wie können die Katholiken ihre
+[^foot-004]: Paragraph 13, Seite 517 "Denn wie können die Katholiken ihre
 Messe lesen, wenn einer darinnen ist, der sie stört
 oder beunruhigt? Man nehme ihnen nur das Messbuch,
 den Kelch, die Hostie, und den priesterlichen
@@ -121,9 +121,9 @@ werden. Man nehme den Lutheranern, oder denen
 von der bischöflichen Kirche ihre Liturgie, oder
 ihr gemeines Gebetsbuch hinweg, so hat der Gottesdienst"
 
-[^foot-005]:  Paragraph 11, Seite 518 und 519.
+[^foot-005]:  Paragraph 13, Seite 518 und 519.
 
-[^foot-006]: Paragraph 11, Seite 519+520 "Gleichwie
+[^foot-006]: Paragraph 13, Seite 519+520 "Gleichwie
 ehemals Moses mit seinem Stab die Wellen des
 roten Meers zerteilte, daß die Kinder Israel torkennen
 Fusses hindurch gehen konnten; deshalb hat auch
@@ -132,7 +132,7 @@ Ruchlosigkeit einen Weg vor uns gebannt, ihn auf
 friedsame Weise zu geniessen und zu besitzen, und
 unsern ihm zu Ehren angestellten Gottesdienst zu vollenden."
 
-[^foot-006]: Paragraph 11, Seite 520 "daß sich bei diesen tollen und
+[^foot-007]: Paragraph 13, Seite 520 "daß sich bei diesen tollen und
 törichten Handeln, ja recht bestialischen und viehischen
 Betragen, so man uns in unsern geistlichen Zusammenkünften
 zu kränken und zu belästigen gebraucht,
