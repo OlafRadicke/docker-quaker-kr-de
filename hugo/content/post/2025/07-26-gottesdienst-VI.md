@@ -1,7 +1,7 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 26.07.2025"
-date: "2025-07-18"
+date: "2025-07-22"
 categories:
   - Johannes 2
   - Johannes 4
@@ -34,9 +34,9 @@ Kommenden Samstag, den 26.07.2025 um 16 Uhr, findet in der Königstraße 132 in 
 
 Für diejenigen, die möchten, besteht im Anschluss ab 17 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
-Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen. Dies mal erfahren wir, wie die frühen Freunde u.a. über den Teufel gedacht haben.
+Das vorbereitete Thema gehört zu eine Themen-Reihe über das Verständnis des Gottesdienstes bei den Quäkern. Gestartet sind wir am 17.5.2025. Zum Nachlesen könnt ihr euch die [Ankündigung](https://quaker-kr.de/post/2025/05-03-gottesdiest/) noch mal ansehen.
 
-## ROBERT BARCLAY
+## ARBEITSTEXT ZU ROBERT BARCLAY
 
 Weiter geht es mit Paragraph 14 und 15:
 
