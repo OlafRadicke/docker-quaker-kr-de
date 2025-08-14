@@ -18,13 +18,13 @@ toc: false
 
 # Warum ich Homophobie weder fúr ein Zeichen von Bibeltreu noch für From halte
 
-Eigentlich gibt es zu dem Thema nicht soviel zusagen. Es ist kein grosses Thema in der Bibel. Diejenigen die es zu einem Grossen Thema machen, sollten sich einmal Gedanken machen, warum das bei ihnen so ist.
+Eigentlich gibt es zu dem Thema nicht soviel zusagen. Es ist kein großes Thema in der Bibel. Diejenigen die es zu einem Großen Thema machen, sollten sich einmal Gedanken machen, warum das bei ihnen so ist.
 
 Wir finden in der Bibel viel viel mehr Stellen über Speisevorschriften, als über Sexualität oder Homosexualität. Z.B. [3.Mose 17:10-14](https://www.bibleserver.com/HFA/3.Mose17%2C10).
 
 > Wenn ein Israelit oder ein Fremder unter euch Fleisch verzehrt, das nicht völlig ausgeblutet ist, werde ich, der Herr, mich gegen ihn wenden! [...] Alles Leben ist im Blut, und wer davon isst, muss getötet werden!
 
-Warum nehmen Evangelikale diese Stell nicht "ernst"? Als Vegetarian hätte ich keine Probleme, das einzuhalten. Mich muss niemand mit dem Tod bedrohen, damit ich vergitarisch lebe. Ich finde Fleisch einfach ekelregent. Ich könnte mich jetzt Moralisch überlegen fühlen, wenn da nicht [Matthäus 15,11](https://www.bibleserver.com/HFA/Matth%C3%A4us15%2C11) wäre:
+Warum nehmen Evangelikale diese Stell nicht "ernst"? Als Vegetarier hätte ich keine Probleme, das einzuhalten. Mich muss niemand mit dem Tod bedrohen, damit ich vergitarisch lebe. Ich finde Fleisch einfach ekelregent. Ich könnte mich jetzt Moralisch überlegen fühlen, wenn da nicht [Matthäus 15,11](https://www.bibleserver.com/HFA/Matth%C3%A4us15%2C11) wäre:
 
 > Nicht was in den Mund hineingeht, verunreinigt den Menschen, sondern was aus dem Mund herausgeht, das verunreinigt den Menschen.
 
@@ -36,7 +36,7 @@ Man sieht, die Bibel macht sich viel tiefere Gedanken darüber was man ist und w
 
 Frei übertragen: Nicht was wer wem wo rein steckt in einer Beziehung macht ihn unrein vor Gott, sondern das das was aus einer Beziehung heraus kommt!
 
-Denken wir an die Geschichte von Ismael in [1.Mose 16](https://www.bibleserver.com/HFA/1.Mose16). Die Frau eines Mannes, die keine Kinderbekommen kann, überredet ihre Mann ihre heidnische Sklavin sexuell auszubeuten um ein Nachkommen zu Zeugen. Als dann die Frau des Mannes dann noch noch ein eigenes Kind bekommt, wird die Sklavin mit ihren dann geborenen Sohn in der Wüste verstossen und ihrem Schicksal überlassen.
+Denken wir an die Geschichte von Ismael in [1.Mose 16](https://www.bibleserver.com/HFA/1.Mose16). Die Frau eines Mannes, die keine Kinder bekommen kann, überredet ihre Mann ihre heidnische Sklavin sexuell auszubeuten um ein Nachkommen zu Zeugen. Als dann die Frau des Mannes dann noch noch ein eigenes Kind bekommt, wird die Sklavin mit ihren dann geborenen Sohn in der Wüste verstossen und ihrem Schicksal überlassen.
 
 Soll uns die Geschichte als Vorbild dienen? Sicher nicht! Wir haben in der Bibel noch eine Menge anderer völlig missglückten Hetro- und polyamorouse Beziehungen. Die größten Namen in der Bibel, haben haben fast immer den grössten Dreck am stecken. Was ist ist mit David, schläft mit einer Verheirateten Frau und bringt dann ihren unschuldigen Man um, um die Tat zu vertuschen.
 
