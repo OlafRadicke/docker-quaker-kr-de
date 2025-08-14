@@ -24,7 +24,7 @@ Wir finden in der Bibel viel viel mehr Stellen über Speisevorschriften, als üb
 
 > Wenn ein Israelit oder ein Fremder unter euch Fleisch verzehrt, das nicht völlig ausgeblutet ist, werde ich, der Herr, mich gegen ihn wenden! [...] Alles Leben ist im Blut, und wer davon isst, muss getötet werden!
 
-Warum nehmen Evangelikale diese Stell nicht "ernst"? Als Vegetarier hätte ich keine Probleme, das einzuhalten. Mich muss niemand mit dem Tod bedrohen, damit ich vegetarisch lebe. Ich finde Fleisch einfach ekel eregent. Ich könnte mich jetzt Moralisch überlegen fühlen, wenn da nicht [Matthäus 15,11](https://www.bibleserver.com/HFA/Matth%C3%A4us15%2C11) wäre:
+Warum nehmen Evangelikale diese Stell nicht "ernst"? Als Vegetarier hätte ich keine Probleme, das einzuhalten. Mich muss niemand mit dem Tod bedrohen, damit ich vegetarisch lebe. Ich finde Fleisch einfach ekelerregend. Ich könnte mich jetzt Moralisch überlegen fühlen, wenn da nicht [Matthäus 15,11](https://www.bibleserver.com/HFA/Matth%C3%A4us15%2C11) wäre:
 
 > Nicht was in den Mund hineingeht, verunreinigt den Menschen, sondern was aus dem Mund herausgeht, das verunreinigt den Menschen.
 
