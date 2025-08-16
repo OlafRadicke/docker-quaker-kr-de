@@ -1,7 +1,7 @@
 ---
-# draft: false
+draft: false
 title: "Andacht und Teetrinken am 23.08.2025"
-date: "2025-07-22"
+date: "2025-08-15"
 categories:
   - 1.Mose 16
   - 3.Mose 17
