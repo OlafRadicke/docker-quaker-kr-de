@@ -13,11 +13,15 @@ tags:
   - CSD
   - Homosexualität
   - Ehe
-lead: "Einige Gedanken anlässlich des CSD in Krefeld"
+lead: "Einige Gedanken anlässlich des CSD in Krefeld (Nachlese)"
 toc: false
 ---
 
-## EINIGE GEDANKEN ANLÄSSLICH DES CSD IN KREFELD
+### Hallo liebe Freunde und Freunde der Freunde!
+
+Kommenden Samstag, den 26.07.2025 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+
+Für diejenigen, die möchten, besteht im Anschluss ab 17 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken. Diesmal mit einer _Nachlese_ und einige Gedanken anlässlich des CSD im Krefeld.
 
 Eigentlich gibt es zu diesem Thema garnicht viel zu sagen – denn es ist kein zentrales Thema in der Bibel. Diejenigen, die es zu einem großen Thema machen, sollten sich fragen, warum das bei ihnen so ist.
 
@@ -53,7 +57,7 @@ Wollen wir also von Gott nur Zugeständnisse an unsere harten Herzen? Oder wolle
 
 > „Sie sind also eins und nicht länger zwei voneinander getrennte Menschen. Und was Gott zusammengefügt hat, das soll der Mensch nicht scheiden.“
 
-Freunde glauben nicht, dass eine Ehe durch eine Institution (Kirche/Konfession) oder ein Amt (Priester/Pfarrer) geschlossen wird, sondern unmittelbar vor Gott. Wenn eine Homosexuelle-Beziehung offensichtlich glücklich ist, spricht vieles dafür, dass sie unter Gottes Segen steht. Wie können wir uns anmaßen, das zu verhindern oder zu trennen?
+Freunde glauben nicht, dass eine Ehe durch eine Institution (Kirche/Konfession) oder ein Amt (Priester/Pfarrer) geschlossen wird, sondern unmittelbar vor Gott. Wenn eine Homosexuelle-Beziehung offensichtlich glücklich ist, spricht vieles dafür, dass sie unter Gottes Segen steht. Wie können wir uns also anmaßen, das zu verhindern oder zu trennen?
 
 Herzliche Grüße
 
