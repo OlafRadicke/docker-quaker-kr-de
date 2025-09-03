@@ -1,6 +1,6 @@
 ---
 # draft: false
-title: "Andacht und Teetrinken am 7.09.2025"
+title: "Andacht und Teetrinken am 20.9.2025"
 date: "2025-08-31"
 categories:
   - Apostelgeschichte 2
@@ -14,10 +14,7 @@ tags:
   - Frühe Freunde
   - Barclay
   - Apologie
-  - Störungen
-  - Gewalt
-  - Suffering
-  - Religionskriege
+  - Predigen
 
 lead: "Warum die Quäker auf Liturgie verzichten Teil VI."
 toc: false
@@ -27,7 +24,7 @@ toc: false
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 7.09.2025 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 20.9.2025 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 Für diejenigen, die möchten, besteht im Anschluss ab 17 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren und/oder einfach nur Tee zu trinken.
 
