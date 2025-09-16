@@ -1,7 +1,7 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 20.9.2025"
-date: "2025-08-31"
+date: "2025-09-15"
 categories:
   - Apostelgeschichte 2
   - 1.Korinther 14
