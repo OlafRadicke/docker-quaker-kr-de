@@ -15,16 +15,9 @@ toc: true
 * Ist Gott unbeugsam (Kampf und Verhandlung mit Gott)
 * Wie wichtig ist die Bibel im Quäkertum
 * Appologie
-* Gottesdienst
 * Unterschiede Quaker/Mennoniten
 * Zeugnisse im Detail
 * https://de.wikipedia.org/wiki/Glossar_Qu%C3%A4kertum Quaker-Glossar
 * https://de.wikipedia.org/wiki/Qu%C3%A4kergebr%C3%A4uche Quäker-Bräuche
 
 * Suffering
-* Demut != unterfürfigkeit.
-  * repekt vor der Leisung anderer
-  * wissen um die eigene ohnmacht
-  * erfahrung mit ohnmacht und kreisen
-  * wikipedia
-  * lorjalität Gott gegenüber und nicht Menschen, Gruppen oder Ideeologien
