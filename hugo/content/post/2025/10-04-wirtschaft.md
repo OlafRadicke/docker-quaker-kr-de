@@ -16,7 +16,9 @@ tags:
   - Walfang
   - Literatur
   - William Penn
-
+  - Kapitalismus
+  - Katholizismus
+  - Protestanten
 lead: "Quäker, Geld und Moral."
 toc: false
 ---
