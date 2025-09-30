@@ -1,15 +1,21 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 4.10.2025"
-date: "2025-09-15"
-# categories:
-#   - Apostelgeschichte 2
+date: "2025-09-30"
+categories:
+  - Matthäus 6
+  - Matthäus 19
+  - Markus 10
+  - Lukas 18
 tags:
   - "tea time"
   - "meeing for worship"
   - Wirtschaft
   - Ökonomie
   - Soziale Gerechtigkeit
+  - Walfang
+  - Literatur
+  - William Penn
 
 lead: "Quäker, Geld und Moral."
 toc: false
@@ -38,23 +44,23 @@ _Inhalt:_
 
 ## Quäker, Geld und Moral
 
-Die Quäker werden immer schnell der Gruppe der Protestante zugeschlagen. Diese Einrodung ist aus vielerlei Sich problematisch. Ein Aspekt ist ihr Verhältnis zum Thema Reichtum und Geld. Denn in diesem Punkt stehehen sind sie der Katholischen Lehre, die Geiz und Habgier als einer der [Siebe Todsünde](https://de.wikipedia.org/wiki/Tods%C3%BCnde) benennt eindeutig näher als den Protestant.
+Die Quäker werden häufig vorschnell der Gruppe der Protestanten zugeordnet. Diese Einordnung ist aus verschiedenen Perspektiven problematisch. Ein zentraler Aspekt betrifft ihr Verhältnis zu Reichtum und Geld. In diesem Punkt stehen sie der katholischen Lehre, die Geiz und Habgier als eine der [sieben Todsünden](https://de.wikipedia.org/wiki/Tods%C3%BCnde) benennt, deutlich näher als vielen protestantischen Strömungen.
 
-Auf einer Seite stehen sie den protestantischem [Puritanern](https://de.wikipedia.org/wiki/Puritanismus) in dem Punkt nahe, das sie weltlichen Vergnügen skeptisch gegenüber stehen. Aber auch andere Positionen anderer protestantischen Gruppen lehnen sie vehement ab. So z.B. die Vorstellung das Wohlstand und Reichtum eine Zeichen der Gnade Gottes sei (Stichwort [Wohlstandsevangelium](https://de.wikipedia.org/wiki/Wohlstandsevangelium)) oder gar die Vorstellung man sein von Gott zum (wirtschaftlichen) Erfolg auserwählt und vorbestimmt (Siehe "[Doppelte Prädestination](https://de.wikipedia.org/wiki/Pr%C3%A4destination#Doppelte_Pr%C3%A4destination)). Also Quasi "zum seinem Glück verdammt".
+Zwar teilen sie mit den protestantischen [Puritanern](https://de.wikipedia.org/wiki/Puritanismus) eine kritische Haltung gegenüber weltlichen Vergnügungen, doch lehnen sie andere Positionen innerhalb des Protestantismus entschieden ab. Dazu gehört etwa die Vorstellung, dass Wohlstand und Reichtum ein Zeichen göttlicher Gnade seien (Stichwort: [Wohlstandsevangelium](https://de.wikipedia.org/wiki/Wohlstandsevangelium)), oder gar die Idee, man sei von Gott zum wirtschaftlichen Erfolg auserwählt und vorbestimmt (siehe: [Doppelte Prädestination](https://de.wikipedia.org/wiki/Pr%C3%A4destination#Doppelte_Pr%C3%A4destination)) – also gewissermaßen „zum Glück verdammt“ ist.
 
 ## Die Aussensicht auf die Quäker und ihr Verhältnis zum Geld
 
-Schauen wir uns zunächst an, wie die Quäker von anderen wahrgenommen werden, was ihr Verhältnis zum Geld betrift. Ich greife hier den Roman "[Moby-Dick](https://de.wikipedia.org/wiki/Moby-Dick)" von Herman Melville. Das ist zwar ein Roman und kein Sachbuch, aber es zweit trotzen ganz gut die Wahrnehmung der Quäker in 19. Jahrhundert.
+Schauen wir uns zunächst an, wie die Quäker von außen wahrgenommen werden – insbesondere im Hinblick auf ihr Verhältnis zum Geld. Ein literarisches Beispiel hierfür bietet der Roman [_Moby-Dick_](https://de.wikipedia.org/wiki/Moby-Dick) von Herman Melville. Zwar handelt es sich um einen Roman und kein Sachbuch, doch spiegelt er dennoch eindrücklich die Wahrnehmung der Quäker im 19. Jahrhundert wider.
 
-Das grundsätzlich problematische Verhältnis von Christen zum Thema Geld, lässt Herman Melville den Ich-Erzähler in seinen Roman schon am Anfang sehr schön auf den Punkt bringen wenn es heißt:
+Das grundsätzlich ambivalente Verhältnis vieler Christen zum Thema Geld bringt Melville bereits zu Beginn seines Romans treffend auf den Punkt. Der Ich-Erzähler formuliert:
 
 > Aber Bezahlt-werden – was kann sich damit messen? Die Art Beflissenheit, mit der ein Mann Geld in Empfang nimmt, ist höchst erstaunlich, wenn man bedenkt, dass wir das Geld allen Ernstes als die Wurzel allen irdischen Übels ansehen und glauben, dass unter gar keinen Umständen ein Reicher ins Himmelreich kommt. Ha! Wie frohgemut verschreiben wir uns der Verdammnis!
 
-Das bezieht sich auf **_Ja, eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in Gottes Reich kommt._** aus Matthäus 19,24; Markus 10,25 und Lukas 18,25. Das Buch "Moby-Dick" ist voller Christlicher Bezüge und arbeitet sich auch an der Moral der Quäker in ganz besonderem ab, die dort als Schiffseigner und Kapitäne in Erscheinung treten. Und zwar von Walfängern.
+Das bezieht sich auf **_Ja, eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in Gottes Reich kommt._** aus Matthäus 19,24; Markus 10,25 und Lukas 18,25. Das Buch "Moby-Dick" ist voller Christlicher Bezüge und arbeitet sich auch an der Moral der Quäker in ganz besonderem ab, die dort als Schiffseigner und Kapitäne von Walfängern in Erscheinung treten.
 
-Auf Walfängern ist es üblich keinen festen Sold für die Besatzung festzulegen, sondern Gewinnanteile. Das heißt, ist der Fang Gross, bekommt jeder mehr. Ist die Fahrt ein Fehlschlag, wird auch das Risiko von allen, anteilig getragen. Wer welchen Anteil Bekommt wird ausgehandelt. Die Anteile verteilen sich nicht nur über die Besatzung, denn es wird auch Kapital gebraucht, das Schiff auszurüsten. Kreditgeber ihrerseits bekommen auch kein festen Zins sondern, eine Gewinnbeteiligung der mit dem Risiko eines Totalverlust verbunden ist.
+Auf Walfängern war es üblich, der Besatzung keinen festen Sold zu zahlen, sondern Gewinnanteile zu vereinbaren. Das bedeutet: Ist der Fang groß, profitieren alle. Bleibt die Fahrt erfolglos, tragen alle das Risiko anteilig mit. Die Höhe der Anteile wird individuell ausgehandelt. Dabei beschränkt sich die Verteilung nicht nur auf die Mannschaft – auch das zur Ausrüstung des Schiffes benötigte Kapital muss eingebracht werden. Kreditgeber erhalten keinen festen Zins, sondern eine Gewinnbeteiligung, die mit dem Risiko eines Totalverlusts verbunden ist.
 
-In dem Roman entspinnt sich genau zu diesem Thema ein interessanter Dialog, als es darum geht, das der Ich-Erzähler auf einen Walfänger anheuert und verhandel wird, welchen Anteil er bekommen soll. Seine zwei verhandlungspartner sind zwei Quäker-Kapitäne, mit unterschiedlichen Ansichten. Zunächst Argumentiert Kapitän Bildad gegen Kapitän Peleg:
+In _Moby-Dick_ entspinnt sich zu diesem Thema ein aufschlussreicher Dialog, als der Ich-Erzähler auf einem Walfänger anheuert und über seinen Anteil verhandelt. Seine beiden Gesprächspartner sind zwei Quäker-Kapitäne mit unterschiedlichen Ansichten. Zunächst argumentiert Kapitän Bildad gegen Kapitän Peleg:
 
 > "Du weißt das am besten", antwortete die Grabesstimme. "Der siebenhundertsiebenundsiebzigste wäre wohl nicht zu viel, oder? ... wo sie die Motten und der Rost fressen. Sammlet euch aber Schätze im Himmel"
 
@@ -62,15 +68,19 @@ Das bezieht sich auf Matthäus 6,19-21:
 
 > Häuft in dieser Welt keine Reichtümer an! Sie werden nur von Motten und Rost zerfressen oder von Einbrechern gestohlen! Sammelt euch vielmehr Schätze im Himmel, die unvergänglich sind und die kein Dieb mitnehmen kann. Wo nämlich euer Schatz ist, da wird auch euer Herz sein.
 
-Als Kapitän Bildadnoch mal in Sinne des Matrosen argumentiert, entgegnet Kapitän Peleg:
+Als Kapitän Bildad noch mal in Sinne des Matrosen argumentiert, entgegnet Kapitän Peleg:
 
 > Bildad legte sein Buch nieder, wandte sich dem Manne mit ernster Miene zu und sagte: "Kapitän Peleg, du hast ein großes Herz, aber du mußt bedenken, was du den anderen Eignern dieses Schiffs schuldest, von denen viele Witwen und Waisen sind. Und darfst nicht vergessen, daß wir womöglich jenen Witwen und Waisen das Brot nehmen, wenn wir die Mühsal dieses jungen Mannes überreichlich belohnen. Den siebenhundertsiebenund-siebzigsten, Kapitän Peleg.
 
-Hier wird also gezeigt, das die Quäker schon knallhart kalkulieren, aber nicht um möglichst schnell, möglichst reich zu werden, sondern weil sie sich bewusst sind, das es sich am Ende für alle Rechnen muss. Die Kapitalgeber, also Aktionäre sind hier eben keine Raffgierigen Spekulanten, sondern es sind z.T. Witwen die ihre Männer auf See verloren haben und damit auch eine der wichtigsten Erwerbsquellen. Das ist nicht unbedingt das was wir uns Heute als Sozialversicherung vorstellen. Aber damals war es das wohl z.T.
+Hier zeigt sich, dass die Quäker durchaus mit harter ökonomischer Vernunft kalkulieren – jedoch nicht, um möglichst schnell möglichst reich zu werden. Vielmehr sind sie sich bewusst, dass sich das Unternehmen am Ende für alle Beteiligten rechnen muss. Die Kapitalgeber, also die Anteilseigner, sind in diesem Kontext keine raffgierigen Spekulanten, sondern häufig Menschen aus dem direkten Umfeld der Seefahrt – etwa Witwen, die ihre Männer auf See verloren haben und damit auch eine der wichtigsten Erwerbsquellen.
+
+Das ist nicht das, was wir heute unter Sozialversicherung verstehen würden. Doch im damaligen Kontext erfüllte dieses System teilweise eine vergleichbare Funktion: Es bot eine Form der ökonomischen Teilhabe für jene, die sonst kaum Zugang zu anderen Einkommensquellen hatten.
 
 ## Die Innensicht der Quäker und ihr Verhältnis zum Geld
 
-William Penn hat sich in seinem Buch "Kein Kreuz, keine Krone" sehr intensiv mit dem Thema Kapitalismus beschäftigt und dem ein ganzes Kapitel (13) gewidmet. Auch wenn man in 17. Jahrhundert noch nicht wirklich von Kapitalismus sprechen konnte, zeigte Penn doch schon recht deutlich, das er sich über die Mechanismen des Kapitals recht bewusst war. Ich habe hier einige Abschnitte ausgewählt, ab dem die Haltung vom Penn sehr Deutlich wird:
+William Penn hat sich in seinem Buch _Kein Kreuz, keine Krone_ intensiv mit dem Thema Kapital und Besitz auseinandergesetzt. Kapitel 13 widmet sich diesem Komplex besonders deutlich. Auch wenn man im 17. Jahrhundert noch nicht im modernen Sinne von „Kapitalismus“ sprechen konnte, zeigt Penn doch ein bemerkenswertes Bewusstsein für die Mechanismen des Kapitals und deren moralische Implikationen.
+
+Ich habe einige Abschnitte ausgewählt, in denen Penns Haltung besonders klar zum Ausdruck kommt:
 
 ### Seite Kapitel 13 Abschnitt 6:
 
@@ -107,3 +117,9 @@ William Penn hat sich in seinem Buch "Kein Kreuz, keine Krone" sehr intensiv mit
 ## Schon gewusst?
 
 Wusstet ihr das Die Bank _[Barclyas](https://de.wikipedia.org/wiki/Barclays)_, die Schokoladen Fabrik _[Cadburys](https://de.wikipedia.org/wiki/Cadbury_plc)_ und der Schuhhersteller _[Clarks](https://de.wikipedia.org/wiki/Clarks)_ ursprünglich Quäker-Unternemungen waren? Aktuell ist nur noch _Clarks_ in Quäkerhand. _Quaker oats_ hatte übrigens noch nie was mit Quäkern zu tun. Genaus wenig wie _Quaker Oil _. In [Friedenstal](https://de.wikipedia.org/wiki/Friedensthal) betrieben Quäker im 19. Jahrhundert mal eine Messerfabrik. Diese war aber nicht rentabel und musste mit Hilfsgeldern aus Philadelphia und London gestützt werden. Vermutlich waren die Quäker die ersten, die im 19. Jahrhundert einen transatlantischen Verbraucherboykott organisierten, um die Sklaverei zu bekämpfen (Siehe: [Free produce movement](https://de.wikipedia.org/wiki/Free_produce_movement)).
+
+---
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="\_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+---
