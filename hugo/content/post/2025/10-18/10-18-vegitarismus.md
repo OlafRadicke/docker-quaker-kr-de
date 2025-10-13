@@ -37,55 +37,56 @@ Für diesmal habe ich mir das Thema Veganismus vorgenommen.
 - [Veganismus als Sehnsucht nach Reinheit](#veganismus-als-sehnsucht-nach-reinheit)
 - [Die _Planetary Health Diet_](#die-planetary-health-diet)
 - [Veganismus und Quäkertum](#veganismus-und-quäkertum)
+  - [Wie sieht es in Deutschland aus?](#wie-sieht-es-in-deutschland-aus)
 - [Weiterführendes](#weiterführendes)
 
 ## Ein Blick in die Bibel
 
-Ich starte mit einem Blick in die Bibel. Da hatte ich schon seid längeren ein Paar Gedanken, wenn es um die tiere ging.
+Ich starte mit einem Blick in die Bibel. Da hatte ich schon seid längeren ein Paar Gedanken, wenn es um die Tiere darn ging.
 
 ### Tiere und Sündenfall
 
-Was vielleicht nicht allen bewusst ist, weil es nicht ausdrücklich gesagt wird, aber am Anfang waren alle Veganer. 1.Mose 1,29+30:
+Vielen ist es vielleicht nicht bewusst, da es nicht ausdrücklich betont wird: Doch am Anfang waren alle Lebewesen – Menschen wie Tiere – Veganer. So steht es in 1. Mose 1,29–30.
 
 > 29 Dann sagte er: »Seht, als Nahrung gebe ich euch alle Pflanzen, die Samen tragen, und die Früchte, die überall an den Bäumen wachsen; 30 aber die Vögel und Landtiere sollen Gras und Blätter fressen.« Und so geschah es.
 
 Also das paradiesische Leben ist ein veganes Leben gewesen! Deshalb kann ich mir das Himmlische Jerusalem als Vereisung auch nur vegan vorstellen. Also gerade nicht mit gebraten Tauben die einem in den Mund fliegen.
 
-Bei dem Sünden Fall, haben die Tiere nichts falsches getan und trotzdem wurden sie aus dem Paradies, mit den Menschen zusammen, verstossen und erdulden seid auch dem den endlose Kreislauf aus fressen und gefressen werden. Eigentlich müsste und das unverschuldete Schicksal der Tiere eigentlich beschämen. Stattdessen sorgt unsere Eitelkeit nur darfür, das wir uns für unsere Nacktheit schämen.
+Beim Sündenfall haben die Tiere nichts Unrechtes getan. Und doch wurden sie gemeinsam mit den Menschen aus dem Paradies verstoßen. Seitdem leiden sie unter dem endlosen Kreislauf von Fressen und Gefressenwerden. Dieses unverschuldete Schicksal der Tiere müsste uns eigentlich beschämen. Stattdessen sorgt unsere Eitelkeit nur dafür, dass wir uns für unsere Nacktheit schämen.
 
 ## Die Sintflut
 
-Nach der Vertreibung aus dem Paradies war es vermutlich so vorzustellen, das die Tiere sich untereinander auffrassen aber nicht von den Menschen gegessen wurden. Das änderte sich erst nach der Sintflut, als es kein Gemüse, Obst und Getreide mer gab, war es Menschen gestatte Fleisch zu essen. 1.Mose 9,3:
+Nach der Vertreibung aus dem Paradies ist es vermutlich so vorzustellen, dass die Tiere sich untereinander auffrassen, aber nicht von den Menschen gegessen wurden. Das änderte sich erst nach der Sintflut: Als es kein Gemüse, Obst und Getreide mehr gab, wurde es den Menschen gestattet, Fleisch zu essen. 1. Mose 9,3:
 
 > Von jetzt an könnt ihr euch von ihrem Fleisch ernähren, nicht nur von den Pflanzen, die ich euch als Nahrung zugewiesen habe.
 
-Die Sintflut ist jetzt schon eine ganze weile her und wir haben wieder jede menge vegane Alternativen (wenn wir mal die Eskimos außen vor lassen). Da hab ich dann schon gefragt: wie lange soll das Fleischessen noch weiter gehen? Wieder typisch Mensch: Man strekt ihm den kleinen Finger hin und er reist einem gleich wieder die ganze Hand ab.
+Die Sintflut ist jetzt schon eine ganze Weile her, und wir haben längst wieder jede Menge vegane Alternativen (wenn man die Eskimos mal außen vor lässt). Da habe ich mich schon gefragt: Wie lange soll das Fleischessen eigentlich noch weitergehen? Wieder typisch Mensch: Man streckt ihm den kleinen Finger hin – und er reißt einem gleich die ganze Hand ab.
 
-Gut, die Tier-Opfer ergeben gar kein Sinn mehr, wenn man Veganer wäre. Zum Glück haben wir schon abgeschafft, auch ohne wieder zur veganen Ernährung zurück zu kehren.
+Gut, die Tieropfer ergeben gar keinen Sinn mehr, wenn man Veganer wäre. Zum Glück haben wir sie schon abgeschafft – auch ohne zur veganen Ernährung zurückzukehren.
 
 ## Tiere als Propheten
 
-Tiere sind in der Bibel nicht nur dekorative Beigabe! Sie Teil der Heilsgeschichte!
+Tiere sind in der Bibel nicht nur dekorative Beigabe – sie sind Teil der Heilsgeschichte!
 
-- Bileam wird durch eine sprechende Eselin gerettet. 4.Mose 22,21–35
-- Die Taube bei Noah. 1.Mose 8,8–12
-- Der große Fisch bei Jona, als Symbol für Transformation und Neuanfang. Jona 1,17–2,10
+- Bileam wird durch eine sprechende Eselin gerettet (4. Mose 22,21–35).
+- Die Taube bei Noah bringt die Botschaft der Hoffnung (1. Mose 8,8–12).
+- Der große Fisch bei Jona steht als Symbol für Transformation und Neuanfang (Jona 1,17–2,10).
 
 ## Veganismus als Sehnsucht nach Reinheit
 
-In den verschiedensten Kulturen verbanden sich mit dem Essensregeln auch bestimmte Vorstellungen von Reinheit. Ob das der Buddhismus ist, der Hinduismus, der Islam, oder auch das Judentum und das Christentum. Überall gab es ein Bedürfnis sich von etwas Reinigen zu wollen oder zu müssen. Und es war eine Heilerwartung damit verbunden.
+In den verschiedensten Kulturen verbanden sich mit Essensregeln bestimmte Vorstellungen von Reinheit. Ob im Buddhismus, Hinduismus, Islam, Judentum oder Christentum – überall gab es das Bedürfnis, sich von etwas reinigen zu wollen oder zu müssen. Und oft war damit eine Heilerwartung verbunden.
 
-Jesus weist aber zurecht darauf hin, das Fasten und Essensregeln nicht zum selbstzweck oer ersatzhandlung werden dürfen. Matthäus 15,11:
+Jesus weist jedoch zurecht darauf hin, dass Fasten und Essensregeln nicht zum Selbstzweck oder zur Ersatzhandlung werden dürfen. Matthäus 15,11:
 
 > Nicht was ein Mensch zu sich nimmt, macht ihn vor Gott unrein, sondern das, was er von sich gibt.
 
-Ich würde aber ergänzen: Nicht das was man ansich zu sich nimmt macht einem Menschen unrein, sondern das warum man etwas zu sich nimmt. Esse ich Fleisch aus gedanktenloser Genusssucht und vernichte damit Ressourcen, die dann anderen Menschen und Tiere fehlt? Buddhistischen Mönchen ist es sogar verboten, bereits satte Menschen zum weiter essen aufzufordern.
+Ich würde aber ergänzen: Nicht das, was man an sich zu sich nimmt, macht einen Menschen unrein – sondern das Warum. Esse ich Fleisch aus gedankenloser Genusssucht und vernichte damit Ressourcen, die anderen Menschen und Tieren fehlen? Buddhistischen Mönchen ist es sogar verboten, bereits satte Menschen zum Weiteressen aufzufordern.
 
 Paulus ergänzt in Römer 14,21 noch:
 
 > Zwar sind in Gottes Augen alle Speisen rein. Manche Christen aber nehmen Anstoß daran, wenn du bestimmte Speisen isst. Das wäre schlimm. 21 Deswegen isst du besser kein Fleisch, trinkst keinen Wein und vermeidest überhaupt alles, was einen anderen Christen zu Fall bringt.
 
-Ich denke das ist ein interessanter Gedanke und man könnte überlegen, was das für die heutige zeit bedeutet.
+Ich denke, das ist ein interessanter Gedanke – und man könnte überlegen, was das für die heutige Zeit bedeutet.
 
 ## Die _Planetary Health Diet_
 
@@ -94,27 +95,33 @@ Im Potcast ["Mehr als eine Vurst-Debatte" von Deutschlandfunk Nova](https://www.
 > Ja, es geht darum, wie wir uns ernähren und wie Lebensmittel weltweit produziert werden, also um das Ernährungssystem. Und das ist eine wirklich große Studie, da haben ungefähr 80 Forschende aus der ganzen Welt dran mitgearbeitet, erschienen ist die in The Lancet, einem renommierten medizinischen Fachblatt, und es gibt eine Aussage, die ist mir echt entgegengesprungen in dieser Studie, da steht, selbst wenn die ganze Welt jetzt aufhört, fossile Brennstoffe zu verfeuern, also kein Öl, kein Gas, kein Benzin mehr, das. Selbst dann würden wir die 1,5 Grad Marke noch reißen wegen unserer Ernährung.
 > [...] in der Studie steht die Produktion von Lebensmitteln ist weltweit für ein Drittel aller Treibhausgase verantwortlich, und das hat zu tun mit der Fleischproduktion, aber auch damit, dass Wälder abgeholzt werden, um auf der Fläche Nutzpflanzen oder Tierfutter anzubauen, wie Getreide, Sojabohnen oder auch Ölpalmen.
 
-Das sind sicher nicht die Dimensionen an die Jesus und Paulus dachte, aber es sind die Dimensionen an die wir denken sollten. Ich spreche selten ein Tischgebet (mit). Aber es mach wahrscheinlich Sinn, den Moment des Innehaltens, dafür zu nutzen inne zu halten und sich zu fragen, ob das sinnvoll ist, was ich da esse. Müssten wir uns nicht bedanken, sondern viel mehr darum bitten, das uns die Kraft zu geben, auf das zu verzichten, was für unsere erde eine Überlastung darstellt?
+Das sind sicher nicht die Dimensionen, an die Jesus und Paulus dachten – aber es sind die Dimensionen, an die wir denken sollten.
+
+Ich spreche selten ein Tischgebet (mit). Aber vielleicht wäre es sinnvoll, den Moment des Innehaltens wirklich zu nutzen: innezuhalten und sich zu fragen, ob das, was ich da esse, sinnvoll ist. Müssten wir uns nicht weniger bedanken – und stattdessen vielmehr darum bitten, dass uns die Kraft gegeben wird, auf das zu verzichten, was für unsere Erde eine Überlastung darstellt?
 
 ## Veganismus und Quäkertum
 
-der Quäker [Benjamin Lay](https://de.wikipedia.org/wiki/Benjamin_Lay) (1682-1759) ass kein Fleisch, war aber vorallem bekannt als radikaler Abolitionist der gegen die Sklaverei auch und gerade unter Quäker kämpfte. Er wurde mehrmals während der Gottesdienste unsanft raugeworfen.
+Der Quäker [Benjamin Lay](https://de.wikipedia.org/wiki/Benjamin_Lay) (1682–1759) lebte fleischlos, war jedoch vor allem bekannt als radikaler Abolitionist, der entschieden gegen die Sklaverei kämpfte – auch und gerade unter Quäkern. Er wurde mehrfach während Gottesdiensten unsanft hinausgeworfen, wenn er anklagende Reden gegen Quäker hielt, die Menschen Versklavten.
 
-Im friendsjournal gibt es einen Artikel ["Vegetarianism in Quaker History"](https://www.friendsjournal.org/vegetarian-history/) von 2019, der die Geschichte der Vegetarier unter den Quäkern beleuchtet.
+Im _Friends Journal_ erschien 2019 ein Artikel mit dem Titel ["Vegetarianism in Quaker History"](https://www.friendsjournal.org/vegetarian-history/), der die Geschichte vegetarisch lebender Quäker beleuchtet.
 
-Im [Viktorianischen England waren einige Quäker aktivistische Vegetarier](https://ivu.org/history/thesis/quakers.html) die 1847 an der Gründung der _Vegetarian Society of England_ beteiligt waren.
+Im [viktorianischen England engagierten sich einige Quäker als aktivistische Vegetarier](https://ivu.org/history/thesis/quakers.html) und waren 1847 an der Gründung der _Vegetarian Society of England_ beteiligt.
 
 [![QVW-Hoodie](qvw.png)](https://quaker-vegan-witness.teemill.com/)
 
-Gibt es ein "Quaker Vegan Witness"? Also ein Veganes-Quäker-Zeugnis? Oder ist es schon beinhaltet/abgedeckt durch eines der schon vertretenen? Vielleicht ist es schon abgedeckt mit dem "Zeugnis der Gleichheit"? Oder dem "Zeugnis der Einfachheit"? Oder im Friedenszeugnis?
+Gibt es ein „Quaker Vegan Witness“ – also ein veganes Quäker-Zeugnis?
+Oder ist es bereits durch bestehende Zeugnisse abgedeckt?
+Vielleicht durch das Zeugnis der Gleichheit? Oder das der Einfachheit? Oder durch das Friedenszeugnis?
 
-Nicht wenige Quäker beantworten die Frage mit "Ja" und vernetzen sich auf https://qvw.org.uk/.
+Nicht wenige Quäker beantworten diese Frage mit „Ja“ und vernetzen sich über [qvw.org.uk](https://qvw.org.uk/).
 
-Wie sieht es in Deutschland aus?
+### Wie sieht es in Deutschland aus?
 
-In den 1920ern gab es personellen Überschneidungen zwischen der [Lebensreform-Bewegung](https://de.wikipedia.org/wiki/Lebensreform) und Quäkern die sich durch eine gemeinsame Ausrichtung auf einen einfachen Lebensstil auszeichnete, zu dem auch Vegetarismus, Alkohol- und Tabakverzicht sowie einfache Kleidung gehörten.
+In den 1920er Jahren gab es personelle Überschneidungen zwischen der [Lebensreform-Bewegung](https://de.wikipedia.org/wiki/Lebensreform) und Quäkern.
+Beide teilten eine Ausrichtung auf einen einfachen Lebensstil, zu dem auch Vegetarismus, Alkohol- und Tabakverzicht sowie schlichte Kleidung gehörten.
 
-Ich selber kenne einige Quäker, die vegan oder vegetarisch leben. Das und der Verzicht auf Alkohol und Zigaretten, ist wohl auch ein Grund, warum viele Quäker sehr alt werden.
+Ich selbst kenne in Deutschland einige Quäker, die vegan oder vegetarisch leben.
+Dieser Lebensstil – zusammen mit dem Verzicht auf Alkohol und Zigaretten – ist vermutlich auch ein Grund dafür, dass viele Quäker ein hohes Alter erreichen.
 
 ## Weiterführendes
 
