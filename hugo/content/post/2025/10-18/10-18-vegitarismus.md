@@ -1,7 +1,7 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 18.10.2025"
-date: "2025-09-30"
+date: "2025-10-12"
 categories:
   - Numeri 22
   - 1.Mose 1
