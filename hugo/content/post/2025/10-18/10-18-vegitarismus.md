@@ -32,9 +32,9 @@ Für diesmal habe ich mir das Thema Veganismus vorgenommen.
 
 - [Ein Blick in die Bibel](#ein-blick-in-die-bibel)
   - [Tiere und Sündenfall](#tiere-und-sündenfall)
-- [Die Sintflut](#die-sintflut)
-- [Tiere als Propheten](#tiere-als-propheten)
-- [Veganismus als Sehnsucht nach Reinheit](#veganismus-als-sehnsucht-nach-reinheit)
+  - [Die Sintflut](#die-sintflut)
+  - [Tiere als Propheten](#tiere-als-propheten)
+  - [Veganismus als Sehnsucht nach Reinheit](#veganismus-als-sehnsucht-nach-reinheit)
 - [Die _Planetary Health Diet_](#die-planetary-health-diet)
 - [Veganismus und Quäkertum](#veganismus-und-quäkertum)
   - [Wie sieht es in Deutschland aus?](#wie-sieht-es-in-deutschland-aus)
@@ -54,7 +54,7 @@ Also das paradiesische Leben ist ein veganes Leben gewesen! Deshalb kann ich mir
 
 Beim Sündenfall haben die Tiere nichts Unrechtes getan. Und doch wurden sie gemeinsam mit den Menschen aus dem Paradies verstoßen. Seitdem leiden sie unter dem endlosen Kreislauf von Fressen und Gefressenwerden. Dieses unverschuldete Schicksal der Tiere müsste uns eigentlich beschämen. Stattdessen sorgt unsere Eitelkeit nur dafür, dass wir uns für unsere Nacktheit schämen.
 
-## Die Sintflut
+### Die Sintflut
 
 Nach der Vertreibung aus dem Paradies ist es vermutlich so vorzustellen, dass die Tiere sich untereinander auffrassen, aber nicht von den Menschen gegessen wurden. Das änderte sich erst nach der Sintflut: Als es kein Gemüse, Obst und Getreide mehr gab, wurde es den Menschen gestattet, Fleisch zu essen. 1. Mose 9,3:
 
@@ -64,7 +64,7 @@ Die Sintflut ist jetzt schon eine ganze Weile her, und wir haben längst wieder 
 
 Gut, die Tieropfer ergeben gar keinen Sinn mehr, wenn man Veganer wäre. Zum Glück haben wir sie schon abgeschafft – auch ohne zur veganen Ernährung zurückzukehren.
 
-## Tiere als Propheten
+### Tiere als Propheten
 
 Tiere sind in der Bibel nicht nur dekorative Beigabe – sie sind Teil der Heilsgeschichte!
 
@@ -72,7 +72,7 @@ Tiere sind in der Bibel nicht nur dekorative Beigabe – sie sind Teil der Heils
 - Die Taube bei Noah bringt die Botschaft der Hoffnung (1. Mose 8,8–12).
 - Der große Fisch bei Jona steht als Symbol für Transformation und Neuanfang (Jona 1,17–2,10).
 
-## Veganismus als Sehnsucht nach Reinheit
+### Veganismus als Sehnsucht nach Reinheit
 
 In den verschiedensten Kulturen verbanden sich mit Essensregeln bestimmte Vorstellungen von Reinheit. Ob im Buddhismus, Hinduismus, Islam, Judentum oder Christentum – überall gab es das Bedürfnis, sich von etwas reinigen zu wollen oder zu müssen. Und oft war damit eine Heilerwartung verbunden.
 
