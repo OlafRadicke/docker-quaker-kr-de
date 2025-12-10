@@ -9,7 +9,7 @@ tags:
   - "meeing for worship"
   - in eigener Sache
 
-lead: "Sommerferien"
+lead: "Pause"
 toc: false
 ---
 
