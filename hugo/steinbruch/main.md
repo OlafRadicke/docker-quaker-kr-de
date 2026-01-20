@@ -11,9 +11,10 @@ toc: true
 
 # STEINBRUCH
 
+-Katechismus:
+
+- Glaubensbekenntnis: https://codeberg.org/OlafRadicke/robert-barclay-katechismus-und-glaubensbekenntnis/src/branch/moderne-edition/markdown/kap_16.md
 - Appologie
-  - Kap. 8: Über die Vollkommenheit – sinnvoll wohl nur zusammen mit
-  - Kap. 9: Über den Abfall von der Vollkommenheit
   - Kap. 14: Über die Staatsgewalt – vielleicht besonders interessant für die Aktivistischeren unter uns
   - Kap. 15: Über Sitten und Gebräuche – etwas alltagsnäher und praktischer
 - Prägende Quäker-Persöhnlichkeieten
