@@ -8,7 +8,7 @@ tags:
   - "tea time"
   - "meeing for worship"
   - "in eigener Sache"
-lead: "Christlicher Anarchismus"
+lead: "Umfrage zur Themenauswahl"
 toc: false
 ---
 
