@@ -70,7 +70,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 ### Arch Street Meeting House
 
-![Arch Street Meeting House](Arch_Street_Meetinghouse_from_front.jpg)
+![Arch Street Meeting House](../Arch_Street_Meetinghouse_from_front.jpg)
 
 - Ort: Philadelphia
 - Erbaut: 1804
@@ -79,7 +79,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 ### Friends Meeting House
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/81/Friends%27_Meeting_House%2C_Jordans_-_geograph.org.uk_-_6121419.jpg)
+![](../Friends_Meeting_House_Jordans_-_6121419.jpg)
 
 - Ort: Jordans (UK)
 - Erbaut: 1688
@@ -88,7 +88,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 ### Friends House London
 
-![](Euston_Road_area_26.jpg)
+![](../Euston_Road_area_26.jpg)
 
 - Ort: London
 - Erbaut: 1927
@@ -97,7 +97,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 ### Germantown Meeting House (USA)
 
-![](Plymouth_Friends_Meeting_House,_Corner_of_Germantown_and_Butler_Pikes,_Plymouth_Meeting,_Montgomery_County,_PA_HABS_PA-6689-11.tif.jpg)
+![](../Plymouth_Friends_Meeting_House,_Corner_of_Germantown_and_Butler_Pikes,_Plymouth_Meeting,_Montgomery_County,_PA_HABS_PA-6689-11.tif.jpg)
 
 - Ort: Germantown, USA
 - Erbaut: 1770
@@ -106,7 +106,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 ### _Quäkerhaus Bad Pyrmont_
 
-![](BadPyrmont-QH2.jpg)
+![](../BadPyrmont-QH2.jpg)
 
 - Ort: Bad Pyrmont, Deutschland
 - Erbaut: ursprünglich 1800, Wiederaufbau 1932
@@ -117,7 +117,7 @@ Damit wird klar: Die frühe quäkerische Architekturverweigerung war ein theolog
 
 James Turrell ist einer der bedeutendsten Lichtkünstler der Gegenwart. Er ist aufgewachsen in einer Quäkerfamilie. Seine Installationen arbeiten mit Stille, Wahrnehmung, Licht und innerer Erfahrung.
 
-![](bookcover.jpg)
+![](../bookcover.jpg)
 
 Er gestaltete auch einen Quäker-Meetingraum: das [Live Oak Friends Meeting House in Houston, Texas](https://houstonquakerskyspace.com/). Dort öffnet sich im Dach ein „Skyspace“: Ein quadratischer Ausschnitt, durch den der Himmel wie ein reines Farbfeld wirkt. Das ist im Grunde quäkerische Spiritualität in architektonischer Form: kein Symbol, kein Bild, nur Licht und Wahrnehmung. Das Meeting House ist auf dem Cover des Buches [_An Introduction to Quakerism_, Pink Dandelion](https://uk.bookshop.org/p/books/an-introduction-to-quakerism-pink-dandelion/3952779?ean=9780521600880&next=t) zu sehen.
 
