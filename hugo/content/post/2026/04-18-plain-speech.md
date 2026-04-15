@@ -18,25 +18,25 @@ Kommenden Samstag, den 18.4.2026 um 16 Uhr, findet in der Königstraße 132 in 4
 
 Für alle, die möchten, gibt es im Anschluss ab 17 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren oder einfach nur Tee zu trinken.
 
-Das Thema das ich diesmal vorschlage ist "Plain Speech" zu Deutsch "Einfache Sprache" oder "Direkte Sprache"."Plain Speech" ist ein wenig verwand mit dem Thema "[Speaking truth to power](https://quaker-kr.de/tags/speaking-truth-to-power/)".
+Das Thema, das ich diesmal vorschlage, ist **„Plain Speech“**, zu Deutsch **„Einfache Sprache“** oder **„Direkte Sprache“**. „Plain Speech“ ist ein wenig verwandt mit dem Thema _[Speaking truth to power](https://quaker-kr.de/tags/speaking-truth-to-power/)_.
 
 ## Früher
 
-Die Ablehnung des „akademischen Betriebs“ und der „Hofart“ war untrennbar mit der Plain Speech verbunden. Für die frühen Quäker waren das keine bloßen Äußerlichkeiten, sondern Zeichen von Hochmut und spiritueller Blindheit.
+Die Ablehnung des „akademischen Betriebs“ und der „Hofart“ war untrennbar mit der **Plain Speech** verbunden. Für die frühen Quäker waren das keine bloßen Äußerlichkeiten, sondern Zeichen von Hochmut und spiritueller Blindheit.
 
-Die frühen Quäker lehnten die Vorstellung ab, dass man an Universitäten wie Oxford oder Cambridge lernen müsse, um ein Diener Gottes zu sein. In der [Apologie Von Barclay](https://quaker-kr.de/tags/apologie/), ist das mehrmals thematisiert, das es weniger darauf ankommt, wie man etwas formuliert oder logisch ableitet, sondern darauf, das man von seinen eigenen Erfahrungen und Überzeugungen spricht.
+Die frühen Quäker lehnten die Vorstellung ab, dass man an Universitäten wie Oxford oder Cambridge lernen müsse, um ein Diener Gottes zu sein. In der [Apologie von Barclay](https://quaker-kr.de/tags/apologie/) ist das mehrfach thematisiert: dass es weniger darauf ankommt, _wie_ man etwas formuliert oder logisch ableitet, sondern darauf, dass man aus eigenen Erfahrungen und Überzeugungen spricht.
 
-Zu zeit der frühen Freunde war die Sprache auch ein Mittel der Abgrenzung der Oberschicht von der Unterschicht. Sprache war auch Ausdruck einer Klassenzugehörigkeit. Wenn Quäker mit dem König genauso sprachen, wie mit den Stahlburschen, dann war das Ausdruck der Überzeugung, das vor Gott alle Menschen gleich sind. Das wurde wiederum als grosse Provokation empfunden und nicht selten mit Schlägen beantwortet.
+Zur Zeit der frühen Freunde war Sprache auch ein Mittel der Abgrenzung der Oberschicht von der Unterschicht. Sprache war Ausdruck einer Klassenzugehörigkeit. Wenn Quäker mit dem König genauso sprachen wie mit den Stahlburschen, dann war das Ausdruck der Überzeugung, dass vor Gott alle Menschen gleich sind. Das wurde wiederum als große Provokation empfunden und nicht selten mit Schlägen beantwortet.
 
-Ein anderer Aspekt von **Plain Speech** ist, das damit auch Ehrlichkeit und Integrität gemeint ist. Also ob ich jemanden einen Schönen Tag wünsche, wird auf das Wetter keinen Einfluss haben. Es ist im Grunde nur eine höfliche Schmeichelei. Wenn ich jemanden wirklich mag, und ihm das spüren lassen will, könne ich auch sagen: "Es ist schon dich zu sehen". Wenn ich mich nicht über eine Begegnung freue, sage ich vielleicht besser nichts, wenn ich ehrlich bleiben will.
+Ein anderer Aspekt von **Plain Speech** ist, dass damit auch Ehrlichkeit und Integrität gemeint sind. Ob ich jemandem einen „schönen Tag“ wünsche, wird auf das Wetter keinen Einfluss haben; es ist im Grunde nur eine höfliche Schmeichelei. Wenn ich jemanden wirklich mag und ihm das spüren lassen will, kann ich auch sagen: „Es ist schön, dich zu sehen.“ Wenn ich mich über eine Begegnung nicht freue, sage ich vielleicht besser nichts, wenn ich ehrlich bleiben will.
 
 ## Heute
 
-Heute sehen wird unter den Quäker überdurchnittlich viel Akademikern und vorallem Personen aus dem Umfeld der sozialen Arbeit. Diese bringen bewusst oder unbewusst ihre ihn eigene Sprache mit. Ist das nicht ein sich selbstverstärkender Effekt, der dazu führt, das Leute aus anderen Sozialen Schichten sich abgeschreckt fühlen?
+Heute sehen wir unter den Quäkern überdurchschnittlich viele Akademiker und vor allem Personen aus dem Umfeld der sozialen Arbeit. Diese bringen bewusst oder unbewusst ihre ihnen eigene Sprache mit. Ist das nicht ein sich selbstverstärkender Effekt, der dazu führt, dass Menschen aus anderen sozialen Schichten sich abgeschreckt fühlen?
 
-Würde uns Heute nicht auch gut tun, wieder mehr auf **Plain Speech** zu achten, um keine Sozialen Barrieren zu errichten?
+Würde es uns heute nicht auch gut tun, wieder mehr auf **Plain Speech** zu achten, um keine sozialen Barrieren zu errichten?
 
-Wo ist **Plain Speech** noch Heute eine bewusste Abgrenzung von Quäkern im positiven Sinne?
+Wo ist **Plain Speech** heute noch eine bewusste Abgrenzung von Quäkern im positiven Sinne?
 
 ---
 
