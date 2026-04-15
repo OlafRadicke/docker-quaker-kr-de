@@ -1,14 +1,14 @@
 ---
 # draft: false
 title: "Andacht und Teetrinken am 18.4.2026"
-date: "2026-03-15"
+date: "2026-04-15"
 # categories:
 #   - Johannes 2
 tags:
   - "tea time"
   - "meeing for worship"
   - "Plain Speech"
-lead: "Umfrage zur Themenauswahl"
+lead: "Plain Speech"
 toc: false
 ---
 
