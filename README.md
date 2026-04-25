@@ -28,14 +28,15 @@ See [DPSG](https://themes.gohugo.io/themes/hugo-dpsg/)
 Enter:
 
 ```bash
-podman build --no-cache -t local/docker-quaker-kr-de -f Dockerfile.fedora .
+podman build --no-cache -t local/docker-quaker-kr-de -f Dockerfile.caddy .
+podman run --rm -p 8080:8080 local/docker-quaker-kr-de
 ```
 
 The Dockerfiles:
 
-* **Dockerfile.alpine**: a multi stage image based on alpine linux
-* **Dockerfile.fedora**: a multi stage image based on alpine linux and fedora
-* **Dockerfile.nginx**: a singe stage image based on alpine linux without Hugo build
+- **Dockerfile.alpine**: a multi stage image based on alpine linux
+- **Dockerfile.caddy**: a multi stage image based on alpine linux and the caddy web server
+- **Dockerfile.nginx**: a singe stage image based on alpine linux without Hugo build
 
 ## CI/CD
 
