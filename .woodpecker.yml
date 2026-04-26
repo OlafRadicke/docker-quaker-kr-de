@@ -43,20 +43,37 @@
 
 # when:
 #   event: tag
+# ----
+# steps:
+#   publish-to-codeberg:
+#     image: plugins/docker
+#     settings:
+#       registry: codeberg.org
+#       repo: codeberg.org/${CI_REPO_OWNER}/quaker-kr-de
+#       dockerfile: Dockerfile.caddy
+#       context: .
+#       platforms: linux/amd64,linux/arm64
+#       auto_tag: true
+#       username: ${CI_REPO_OWNER}
+#       password:
+#         from_secret: CI_REGISTRY_PASSWORD
 
-steps:
-  publish-to-codeberg:
-    image: plugins/docker
-    settings:
-      registry: codeberg.org
-      repo: codeberg.org/${CI_REPO_OWNER}/quaker-kr-de
-      dockerfile: Dockerfile.caddy
-      context: .
-      platforms: linux/amd64,linux/arm64
-      auto_tag: true
-      username: ${CI_REPO_OWNER}
-      password:
-        from_secret: CI_REGISTRY_PASSWORD
+# when:
+#   event: tag
 
 when:
   event: tag
+
+steps:
+  build:
+    image: plugins/kaniko
+    settings:
+      registry: codeberg.org
+      repo: ${CI_REPO_OWNER}/quaker-kr-de
+      dockerfile: Dockerfile.caddy
+      context: .
+      tags: ${CI_COMMIT_TAG}
+      username:
+        from_secret: CI_REPO_OWNER
+      password:
+        from_secret: CI_REGISTRY_PASSWORD
