@@ -1,0 +1,23 @@
+kind: pipeline
+name: build-prod-image
+
+when:
+  event: tag
+
+steps:
+  - name: publish-to-codeberg
+    image: plugins/docker
+    settings:
+      # Codeberg Registry URL
+      registry: codeberg.org
+      # Nutzt deine Codeberg-Anmeldedaten automatisch
+      username:
+        from_secret: CI_REPO_OWNER
+      password:
+        from_secret: CI_REGISTRY_PASSWORD
+      # Das Image-Target: codeberg.org/name/repo
+      repo: codeberg.org/${CI_REPO_OWNER}/quaker-kr-de
+      dockerfile: Dockerfile.caddy
+      context: .
+      platforms: linux/amd64,linux/arm64
+      auto_tag: true
