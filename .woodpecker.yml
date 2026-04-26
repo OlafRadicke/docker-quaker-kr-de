@@ -23,23 +23,40 @@
 #       auto_tag: true
 
 # Woodpecker 2.x Syntax
-kind: pipeline
-name: build-prod-image
+# kind: pipeline
+# name: build-prod-image
+
+# steps:
+#   - name: publish-to-codeberg
+#     image: plugins/docker
+#     settings:
+#       registry: codeberg.org
+#       # Nutzt die Variablen des CI-Systems
+#       username: ${CI_REPO_OWNER}
+#       password:
+#         from_secret: CI_REGISTRY_PASSWORD
+#       repo: codeberg.org/${CI_REPO_OWNER}/quaker-kr-de
+#       dockerfile: Dockerfile.caddy
+#       context: .
+#       platforms: linux/amd64,linux/arm64
+#       auto_tag: true
+
+# when:
+#   event: tag
 
 steps:
-  - name: publish-to-codeberg
+  publish-to-codeberg:
     image: plugins/docker
     settings:
       registry: codeberg.org
-      # Nutzt die Variablen des CI-Systems
-      username: ${CI_REPO_OWNER}
-      password:
-        from_secret: CI_REGISTRY_PASSWORD
       repo: codeberg.org/${CI_REPO_OWNER}/quaker-kr-de
       dockerfile: Dockerfile.caddy
       context: .
       platforms: linux/amd64,linux/arm64
       auto_tag: true
+      username: ${CI_REPO_OWNER}
+      password:
+        from_secret: CI_REGISTRY_PASSWORD
 
 when:
   event: tag
