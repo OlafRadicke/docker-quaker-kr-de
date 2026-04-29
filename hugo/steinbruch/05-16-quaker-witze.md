@@ -1,7 +1,7 @@
 ---
 # draft: false
-title: "Andacht und Teetrinken am 18.4.2026"
-date: "2026-05-28"
+title: "Andacht und Teetrinken am 16.5.2026"
+date: "2026-05-10"
 # categories:
 #   - Johannes 2
 tags:
@@ -14,7 +14,7 @@ toc: false
 
 Hallo liebe Freunde und Freunde der Freunde!
 
-Kommenden Samstag, den 2.5.2026 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
+Kommenden Samstag, den 16.5.2026 um 16 Uhr, findet in der Königstraße 132 in 47798 Krefeld die nächste Quäker-Andacht statt, zu der Ihr wieder herzlich eingeladen seid.
 
 Für alle, die möchten, gibt es im Anschluss ab 17 Uhr die Möglichkeit, sich mit der Bibel zu beschäftigen, Glaubensfragen zu diskutieren oder einfach nur Tee zu trinken.
 

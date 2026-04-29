@@ -80,6 +80,26 @@
 
 # ---
 
+# when:
+#   event: tag
+
+# steps:
+#   build:
+#     image: plugins/kaniko
+#     settings:
+#       registry: codeberg.org
+#       # Direkt die Variable nutzen, nicht als Secret suchen:
+#       repo: ${CI_REPO_OWNER}/quaker-kr-de
+#       dockerfile: Dockerfile.caddy
+#       context: .
+#       tags: ${CI_COMMIT_TAG}
+#       # Für den Login:
+#       username: ${CI_REPO_OWNER}
+#       password:
+#         from_secret: CI_REGISTRY_PASSWORD
+
+# ---
+
 when:
   event: tag
 
@@ -88,12 +108,17 @@ steps:
     image: plugins/kaniko
     settings:
       registry: codeberg.org
-      # Direkt die Variable nutzen, nicht als Secret suchen:
       repo: ${CI_REPO_OWNER}/quaker-kr-de
       dockerfile: Dockerfile.caddy
       context: .
       tags: ${CI_COMMIT_TAG}
-      # Für den Login:
       username: ${CI_REPO_OWNER}
       password:
-        from_secret: CI_REGISTRY_PASSWORD
+        from_secret: CODEBERG_TOKEN # Name des Secrets, das du in den Repo-Settings angelegt hast
+
+
+# Gehe in dein Repo auf Codeberg zu Settings > Secrets.
+# Klicke auf Add Secret.
+# Name: CODEBERG_TOKEN.
+# Value: (Dein Personal Access Token von Codeberg).
+# Stelle sicher, dass das Häkchen bei "Events" für Push und Tag gesetzt ist.
